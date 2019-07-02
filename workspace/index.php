@@ -1,0 +1,496 @@
+<!doctype html>
+<html lang="es_MX">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="estilos.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+    <link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+
+
+    <title>Intop Solutions</title>
+  </head>
+  <body>
+    
+    <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
+    <div class="container" style="margin-left: 0px;">
+      <a  class="navbar-left" href="#">
+            <img style="max-width:100%; max-height:100%;" src="Logo intop_blanco.svg" alt="">
+          </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav mx-auto">
+          <li class="nav-item active tabActiva">
+            <a class="nav-link" style="color : white" href="index.php">INICIO
+            <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" style="color : white" href="productos.php">PRODUCTOS</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" style="color : white" href="servicios.php">SERVICIOS</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" style="color : white" href="nosotros.php">NOSOTROS</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" style="color : white" href="contacto.php">CONTACTO</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+</nav>
+
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="background-image: url('fondo-abajo.png');background-repeat: no-repeat;background-size:100% 100%;max-height:!00%;">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner">
+    <ul>
+            <div class="carousel-item active">
+              <div class="anim4">
+                <div class="container" align="center" style="width:100%;">
+                  <table style="width:100%;">
+                    <tr>
+                      <td>
+                        <h1 style="color:white;padding-top:40px;font-weight:bold;font-size: 60px;">SOV Rutas</h1>
+                        <p style="color:white;padding-top:40px;font-size: 22px;">Obtén el control de tus rutas y de tus <br/>vendedores al alcance de tu mano. Por un <br/>sistema generador de indicadores que <br/>facilitaran las ventas de tu empresa.</p>
+                        <form>
+                          <input type="button" onclick="window.location='sovrutas.php';" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
+                        </form>
+                      </td>
+                      <td style="text-align:center;">
+                        <img src="ruta_movil.gif" alt="autotransportegif" style="padding-top:px;max-width:100%;max-height:100%">
+                      </td>
+                    </tr>
+                  </table>
+                  <br><br>
+                </div>
+              </div>
+            </div>
+    <div class="carousel-item">
+      <div class="anim3">
+        <div class="container" align="center" style="width:100%;">
+                  <table style="width:100%;">
+                    <tr>
+                      <td style="width:50%;">
+                        <h1 style="color:white;padding-top:40px;font-weight:bold;font-size:60px;">SOV <h2 style="color:white;font-weight:bold;font-size: 2em;">Autotransporte</h2></h1>
+                        <p style="color:white;padding-top:40px;font-size: 22px;">Facilitamos el almacenamiento de </br>información de forma fácil,</br> rápida y segura. Encuentralas</br> en el portal web o en la aplicación</p>
+                        <form>
+                          <input type="button" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
+                        </form>
+                      </td>
+                      <td style="text-align:center;">
+                        <img src="autotransporte_movil.gif" alt="autotransportegif" style="padding-top:px;max-width:100%;max-height:100%">
+                      </td>
+                    </tr>
+                  </table>
+                  <br><br>
+                </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+       <div class="anim2">
+         <div class="container" align="center" style="width:100%;">
+                  <table style="width:100%;">
+                    <tr>
+                      <td style="width:50%;">
+                        <h1 style="color:white;padding-top:40px;font-weight:bold;font-size:60px;">SOV <h2 style="color:white;font-weight:bold;font-size: 2em;">Evaluación</h2></h1>
+                        <p style="color:white;padding-top:40px;font-size: 22px;">Coordina operadores, vendedores</br> y promotores de tu empresa.</br> Obtén una evaluación de 5<br/> aplicaciones que correrán</br> al mismo tiempo.</p>
+                        <form>
+                          <input type="button" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
+                        </form>
+                      </td>
+                      <td style="text-align:center;">
+                        <img src="evaluacion_movil.gif" alt="autotransportegif" style="padding-top:px;max-width:100%;max-height:100%">
+                      </td>
+                    </tr>
+                  </table>
+                  <br><br>
+                </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <div class="anim1">
+        <div class="container" align="center" style="width:100%;">
+          <br><br><br><br>
+                  <table style="width:100%;">
+                    <tr>
+                      <td style="width:50%;">
+                        <h1 style="color:white;padding-top:45px;font-weight:bold;font-size:60px;">SOV Sistemas </br>Ad-Hoc</h1>
+                        <p style="color:white;padding-top:40px;font-size: 22px;">Sistemas la medida de tu empresa.<br/> Planea, supervisa, analiza y revisa desde<br/> una plataforma web y la aplicación.</p>
+                        <form>
+                          <input type="button" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
+                        </form>
+                      </td>
+                      <td style="text-align:center;">
+                        <!--img src="evaluacion_movil.gif" alt="autotransportegif" style="padding-top:px;max-width:100%;max-height:100%"-->
+                      </td>
+                    </tr>
+                  </table>
+                  <br><br><br><br><br><br>
+                </div>
+              </div>
+    </div>
+    </ul>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+<br><br><br><br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <h2 class="titulo" style="font-weight:bold;">SISTEMAS</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <h5 class="subtitulo">PRODUCTOS DE ALTA CALIDAD</h5>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <div class="card tarjeta">
+        <img src="aparatos_ruta_parte3.gif" class="card-img-top" alt="..." >
+        <div class="card-body">
+          <p class="card-text textoTarjeta">Obten la posibilidad de que una persona que no conce la ruta, pueda realizarla al 100%. Convirtiendola en una ventaja competitiva</p>
+          <div class="row" style="border-top: 1px solid #DDDDDD;">
+            <div class="col-sm-9">
+              <h5 style="padding-top: 7px;
+                      	text-align: left;
+                      	color: white;
+                      	font-size: 26px;
+                      	font-family: 'Roboto', sans-serif;
+                      	font-weight: normal;
+                      	float: left;
+      	                width: 100%;">SOV Rutas</h5>
+            </div>
+            <div class="col-sm-3">
+              <a href="sovrutas.php">
+                <text style="padding-top: 7px;
+                          	text-align: right;
+                          	color: white;
+                          	font-size: 26px;
+                          	font-family: 'Roboto', sans-serif;
+                          	font-weight: normal;
+                          	float: left;
+                          	width: 100%;">></text>
+              </a>
+            </div>
+          </div>
+  </div>
+</div>
+    </div>
+    <div class="col-sm">
+      <div class="card tarjeta">
+  <img src="aparatos_autotransporte_parte3.gif" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text textoTarjeta">Geoposiciona las rutas de tus
+vendedores
+·Cambio de estatus durante el
+recorido en timpo real
+·Sistema de alarmas
+·Geolocalización de unidades</p>
+    <div class="row" style="border-top: 1px solid #DDDDDD;">
+      <div class="col-sm-10">
+        <h5 style="padding-top: 7px;
+	text-align: left;
+	color: white;
+	font-size: 26px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	float: left;
+	width: 100%;">SOV Autotransporte</h5>
+      </div>
+      <div class="col-sm-2">
+        <text style="padding-top: 7px;
+	text-align: right;
+	color: white;
+	font-size: 26px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	float: left;
+	width: 100%;">></text>
+      </div>
+    </div>
+  </div>
+</div>
+    </div>
+    <div class="col-sm">
+      <div class="card tarjeta">
+  <img src="aparatos_evaluacion_parte3.gif" class="card-img-top" alt="...">
+  <div class="card-body">
+    <p class="card-text textoTarjeta">Obtener una visión integral de 360º de tu empresa , generando una calificación desde 3 perspectivas, nos brinda un resultado efectivo y objetivo</p>
+    <div class="row" style="border-top: 1px solid #DDDDDD;">
+      <div class="col-sm-10">
+        <h5 style="padding-top: 7px;
+	text-align: left;
+	color: white;
+	font-size: 26px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	float: left;
+	width: 100%;">SOV Evaluación</h5>
+      </div>
+      <div class="col-sm-2">
+        <text style="padding-top: 7px;
+	text-align: right;
+	color: white;
+	font-size: 26px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: normal;
+	float: left;
+	width: 100%;">></text>
+      </div>
+    </div>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+
+
+<br><br><br><br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <h2 class="titulo">SERVICIOS</h2>
+    </div>
+  </div>  
+  <div class="row">
+    <div class="col-sm">
+      <h5 class="subtitulo">DE RENTA</h5>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="container">
+  <div class="row">
+    <div style="display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
+      <div class="card" style="flex:1;">
+  <div class="card-body">
+    <br>
+    <h5 class="card-title" style="text-align: left;">Póliza de seguro</h5>
+    <br>
+    <p class="card-text">Contratación de poliza para mayor seguridad.</p>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+  </div>
+</div>
+    </div>
+    <div style="display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
+      <div class="card" style="flex:1;">
+  <div class="card-body">
+    <br>
+    <h5 class="card-title" style="text-align: left;">Traje a la medida</h5>
+    <br>
+    <p class="card-text">Creamos sistemas de acuerdo a tus necesidades</p>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+  </div>
+</div>
+    </div>
+    <div style="display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
+      <div class="card" style="flex:1;">
+  <div class="card-body">
+    <br>
+    <h5 class="card-title" style="text-align: left;">Facturación</h5>
+    <br><br><br>
+    <p class="card-text">100% deducible de impuestos</p><br>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+  </div>
+</div>
+    </div>
+    <div style="display: flex;
+  display: -webkit-flex;
+  flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
+      <div class="card" style="flex:1;">
+  <div class="card-body">
+    <br>
+    <h5 class="card-title" style="text-align: left;">Soporte técnico</h5>
+    <br>
+    <p class="card-text">Contamos con un soporte 24/7 y los 365 días del año</p>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+  </div>
+</div>
+    </div>
+  </div>
+</div>
+
+<br><br><br><br>
+<br><br><br><br>
+
+<div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('fondo-frase.png');background-repeat: no-repeat;background-size:100% 100%;">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators2" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators2" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators2" data-slide-to="3"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="anim5">
+        <div class="container" align="center">
+          <div align="center" class="row" style="text-align:center;width:100%;">
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:0px;width:100%;"><img src="comilas_parte5.png" style="padding-top:60px;margin:auto;"></img><br/><br/>Enfocados en el desarrollo y mantenimiento de sistemas que facilitaran las operaciones de tu empresa</br></br></br></br></br></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+       <div class="anim6">
+         <div class="container" align="center">
+          <div align="center" class="row" style="text-align:center;width:100%;">
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:30px;width:100%;"></br></br></br></br></br>Contamos en todos nuestros sistemas con un portal web para la administración y la aplicación móvil para el personal que se encuentra en la calle</br></br></br></br></br></h3>
+          </div>
+        </div>
+       </div>
+    </div>
+    <div class="carousel-item">
+      <div class="anim7">
+        <div class="container" align="center">
+          <div align="center" class="row" style="text-align:center;width:100%;">
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:30px;width:100%;"></br></br></br></br></br>Fácil de usar · Confiable · Práctico · Innovador · Útil</br></br></br></br></br></br></h3>
+          </div>
+        </div>
+       </div>
+    </div>
+    <div class="carousel-item">
+      <div class="anim8">
+        <div class="container" align="center">
+          <div align="center" class="row" style="text-align:center;width:100%;">
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:0px;width:100%;"><img src="comilas_parte5.png" style="padding-top:60px;margin:auto;"></img><br/><br/>Sistemas realizados con base a análisis a nivel dirección y corporativos estructurados por asesores de alto nivel y experiencia</br></br></br></br></br></h3>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators2" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+<br><br><br><br>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      <h2 class="titulo6inicio">CONTÁCTANOS</h2>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm">
+      <h5 class="parte6inicio">Mándanos un email a <span class="correo">venta@intop.solutions</span><br />o márcanos al <span class="correo">+52 (272) 115 5277</h5></span>
+    </div>
+  </div>
+</div>
+<div class="container" style="text-align: center;">
+  <form>
+      <input type="text" name="ecorreo" placeholder="Escribe tu email" style="width:35%;height:30px;background-color:#c9c9c9;color:black;border:none;padding:2%;font:22px 'Roboto', sans-serif;"/>
+      <br><br>
+      <input type="submit" value="Enviar" style="width:150px;height:27px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
+    </form>
+</div>
+<br>
+
+
+<br><br><br>
+
+<!-- Footer -->
+
+<footer class="container-fluid bg-grey py-5" style="background: black;">
+  <div class="container">
+   <div class="row">
+      <div class="col-md-6">
+         <div class="row">
+            <div class="col-md-6 ">
+               <div class="logo-part">
+                  <img src="Logo_intop_blanco_parte7.png" class="w-50 logo-footer"/>
+                  <br>
+                  <p style="color: #4c4c4c;">Soluciones operativas integrales para mejores análisis y toma de decisiones, todos nuestros sistemas son autofinanciables, se traduce en utilidades</p>
+                  <p style="color: #4c4c4c;">© 2019 INTOP Solutions</p>
+               </div>
+            </div>
+            <div class="col-md-6 px-4">
+               <h6 style="color: white;">COMPAÑÍA</h6>
+               <p style="color: #4c4c4c;">TERMINOS Y CONDICIONES</p>
+               <p style="color: #4c4c4c;">POLÍTICAS DE PRIVACIDAD</p>
+            </div>
+         </div>
+      </div>
+      <div class="col-md-6">
+         <div class="row">
+            <div class="col-md-6 px-4">
+               <h6 style="color: white;">MENÚ</h6>
+               <div class="row ">
+                  <div class="col-md-6">
+                     <ul style="list-style-type:none;padding-left:-20px;padding-inline-start: 0px;">
+                        <li> <a style="color: #4c4c4c;" href="index.php">INICIO</a> </li>
+                        <li> <a style="color: #4c4c4c;" href="productos.php">PRODUCTOS (SISTEMAS)</a> </li>
+                        <li> <a style="color: #4c4c4c;" href="servicios.php">SERVICIOS</a> </li>
+                        <li> <a style="color: #4c4c4c;" href="nosotros.php">COMPAÑÍA</a> </li>
+                        <li> <a style="color: #4c4c4c;" href="contacto.php">CONTACTO</a> </li>
+                     </ul>
+                  </div>
+                  
+               </div>
+            </div>
+            <div class="col-md-6 ">
+               <h6 style="color: white;">CONTÁCTANOS</h6>
+               <p style="color: #4c4c4c;">ventas@intop.solutions<br/>+52 (272) 115 5277</p>
+               <form class="form-footer my-3">
+                  <input type="text" placeholder="Escribe tu email" name="search" style="width:250px;;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
+                  <br><br>
+                  <input type="button" value="Enviar" style="width:140px;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
+               </form>
+               
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+</footer>
+
+    <!-- JavaScript -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
