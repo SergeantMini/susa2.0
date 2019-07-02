@@ -90,13 +90,12 @@
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
   </ol>
   <div class="carousel-inner">
     <ul>
     <div class="carousel-item active">
-      <div class="anim1">
-        <div class="container" align="center" style="width:100%;">
+      <div class="anim1" style="height:620px;">
+        <div class="container" align="center" style="width:100%;padding-top:10%;padding-bottom:10%;">
             <div class="row" style="text-align:center;width:100%;">
               <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">Nuestros sistemas convierten tu problemática en ventajas competitivas
               </h3>
@@ -108,30 +107,53 @@
       </div>
     </div>
     <div class="carousel-item">
-       <div class="anim2">
+       <div class="anim2" style="height:620px;">
             <div class="container" align="center" style="width:100%;">
                 <div class="row" style="text-align:center;width:100%;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">Por un sistema generador de indicadores que apoyan un proceso sencillo y claro en la toma de decisiones comerciales y la eficiencia en el servicio a clientes
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:15%;">Por un sistema generador de indicadores que apoyan un proceso sencillo y claro en la toma de decisiones comerciales y la eficiencia en el servicio a clientes
                   </h3>
-                  <img src=""></img>
+                </div>
+                <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;padding-bottom:10%;">
+                <img align="center" src="icono_generador_parte3_slider2.png"></img>
                 </div>
             </div>
         </div>
     </div>
     <div class="carousel-item">
-       <div class="anim3">
-        <h1 style="color:white;padding-top:40px;padding-left:150px;font-weight:bold;font-size: 60px;">SOV Autotransporte</h1>
-        <p style="color:white;padding-top:40px;padding-left:150px;font-size: 22px;">Facilitamos el almacenamiento de información<br/> de forma fácil, rápida y segura. Encuentralas<br/> en el portal web o en la aplicación.</p>
-        <a href="sovrutas.php" style="padding-top:40px;padding-left:150px;"><img src="boton_parte2.png" alt="Flower"></a>
-        <br><br><br><br><br><br>
-      </div>
-    </div>
-    <div class="carousel-item">
-      <div class="anim4">
-        <h1 style="color:white;padding-top:40px;padding-left:150px;font-weight:bold;font-size: 60px;">SOV Rutas</h1>
-        <p style="color:white;padding-top:40px;padding-left:150px;font-size: 22px;">Obtén el control de tus rutas y de tus <br/>vendedores al alcance de tu mano. Por un <br/>sistema generador de indicadores que <br/>facilitaran las ventas de tu empresa.</p>
-        <a href="sovrutas.php" style="padding-top:40px;padding-left:150px;"><img src="boton_parte2.png" alt="Flower"></a>
-        <br><br><br><br><br><br>
+       <div class="anim3" style="display:flex;">
+            <div class="container" align="center" style="width:100%;">
+                <div class="row" style="text-align:center;width:100%;">
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;padding-bottom:5%;">Las principales desviaciones comerciales en cualquier operación están contempladas en el Sistema SOV
+                  </h3>
+                </div>
+                <div class="row" style="text-algin:center;width:90%;" align="center">
+                <div class="container">
+                      <div class="row" style="padding-bottom:10%;">
+                        <div class="col-sm" style="display:flex;">
+                          <div class="card tarjeta" style="background:transparent;border-color:white;">
+                            <div class="card-body">
+                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">LA POSIBILIDAD DE QUE UNA PERSONA QUE NO CONOCE LAS RUTAS LAS REALICE</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-sm" style="display:flex;">
+                          <div class="card tarjeta" style="background:transparent;border-color:white;">
+                            <div class="card-body">
+                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">LOS PRECIOS A LOS QUE SE LE VENDE A CADA CLIENTE</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-sm" style="display:flex;">
+                          <div class="card tarjeta" style="background:transparent;border-color:white;">
+                            <div class="card-body">
+                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">CONOCE SI CADA RUTA TIENE LA COBERTURA ADECUADA</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            </div>
       </div>
     </div>
     </ul>
@@ -146,107 +168,128 @@
   </a>
 </div>
 
+<br><br><br>
 
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <h2 class="titulo">SISTEMAS</h2>
+      <h2 class="titulo">GENERADOR DE INDICADORES</h2>
     </div>
   </div>
   <div class="row">
     <div class="col-sm">
-      <h5 class="subtitulo">PRODUCTOS DE ALTA CALIDAD</h5>
+      <h5 class="subtitulo">APOYAN UN PROCESO SENCILLO Y CLARO</h5>
     </div>
   </div>
 </div>
 
+<br><br>
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
-      <div class="card tarjeta">
-  <img src="aparatos_parte3.png" class="card-img-top" alt="...">
-  <div class="card-body">
-    <p class="card-text textoTarjeta">Obten la posibilidad de que una persona que no conce la ruta, pueda realizarla al 100%. Convirtiendola en una ventaja competitiva</p>
-    <h5 class="card-title tituloTarjeta"><span>SOV Rutas</span><span style="float: right;">></span></h5>
-  </div>
-</div>
-    </div>
-    <div class="col-sm">
-      <div class="card tarjeta">
-  <img src="aparatos_parte3.png" class="card-img-top" alt="...">
-  <div class="card-body">
-    <p class="card-text textoTarjeta">Geoposiciona las rutas de tus
-vendedores
-·Cambio de estatus durante el
-recorido en timpo real
-·Sistema de alarmas
-·Geolocalización de unidades</p>
-    <h5 class="card-title tituloTarjeta"><span>SOV Autotransportes</span><span style="float: right;">></span></h5>
-  </div>
-</div>
-    </div>
-    <div class="col-sm">
-      <div class="card tarjeta">
-  <img src="aparatos_parte3.png" class="card-img-top" alt="...">
-  <div class="card-body">
-    <p class="card-text textoTarjeta">Obtener una visión integral de 360º de tu empresa , generando una calificación desde 3 perspectivas, nos brinda un resultado efectivo y objetivo</p>
-    <h5 class="card-title tituloTarjeta"><span>SOV Evaluación</span><span style="float: right;">></span></h5>
-  </div>
-</div>
-    </div>
-  </div>
-</div>
-
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <h2 class="titulo">SERVICIOS</h2>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm">
-      <h5 class="subtitulo">DE RENTA</h5>
-    </div>
-  </div>
-</div>
-
-
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm-12 col-md-6 col-lg-3">
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
       <div class="card">
   <div class="card-body">
-    <h5 class="card-title">Póliza de seguro</h5>
-    <p class="card-text">Contratación de poliza para mayor seguridad.</p>
+    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Tener la posibilidad de que una persona que no conoce la ruta la pueda realizar al 100%</p>
   </div>
 </div>
     </div>
-    <div class="col-sm-12 col-md-6 col-lg-3">
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
       <div class="card">
   <div class="card-body">
-    <h5 class="card-title">Traje a la medida</h5>
-    <p class="card-text">Creamos sistemas de acuerdo a tus necesidades</p>
+    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Tener libros de ruta actualizando en forma automática</p>
   </div>
 </div>
     </div>
-    <div style="display: flex;" class="col-sm-12 col-md-6 col-lg-3">
+    <div style="display: flex;" class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
       <div style="display: flex;" class="card">
   <div class="card-body">
-    <h5 class="card-title">Facturación</h5>
-    <p class="card-text">100% deducible de impuestos</p>
+    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Punteo en mapas electrónico al 100%, actualizados en forma automática</p>
   </div>
 </div>
     </div>
-    <div class="col-sm-12 col-md-6 col-lg-3">
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
       <div style="display: flex;" class="card">
   <div class="card-body">
-    <h5 class="card-title">Soporte técnico</h5>
-    <p class="card-text">Contamos con un soporte 24/7 y los 365 días del año</p>
+    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Registro de visita a cliente por horario y por los no visitadosan</p>
   </div>
 </div>
+    </div>
+  </div>
+  <div class="row" style="padding-top:2%;">
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conoce la cobertura y penetración de tus productos</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conocer si cada ruta tiene la cobertura adecuada</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conocer los horarios y ubicación en que el vendedor realizó las operaciones</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Los precios a los que se le vende a cada cliente</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row" style="padding-top:2%;">
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Reportes de liquidación por ruta</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Los clientes en dispositivo, que nos permite realizar ventas a clientes de otro día</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Reporte de pedido contra surtido por cliente</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Efectividad de visita y de compra</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row" style="padding-top:2%;">
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Venta promedio por ruta</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Permite un acercamiento visual a los clientes, rutas y estatus gracias a sus mapas</p>
+        </div>
+      </div>
     </div>
   </div>
 </div>
