@@ -44,13 +44,47 @@
     </div>
 </nav>
 <br>
-<div class="container">
-    <div class="row">
-        <h5>Hola</h5>
+
+<div class="container" style="text-align:center;">
+  <div class="row" style="display: flex;width:100%;">
+    <div class="col-sm-8 form-group" style="display: flex;
+                                            display: -webkit-flex;
+                                            flex-wrap: wrap;">
+      <div class="container">
+        <div class="row">
+          <h1 style="font-family: 'Roboto', sans-serif;
+                  	font-weight: bold;
+                  	text-align: left;
+                  	padding-top: 10%;
+                  	padding-bottom: 10px;
+                  	font-size: 70px;
+                  	color: #002C55;">SOV RUTAS</h1>
+        </div>
+        <div class="row">
+          <h5 style="font-family: 'Roboto', sans-serif;
+                  	    font-weight: normal;
+                  	    text-align: left;
+                    	padding-bottom: 30px;
+                    	color: #002E54;">CONVIERTE EL PROBLEMA DE MANEJO DE RUTAS Y VENDEDORES EN UNA VENTAJA COMPETITIVA</h5>
+        </div>
+      </div>
     </div>
+    <div class="col-sm-4 form-group" style="display: flex;
+                                            display: -webkit-flex;
+                                            flex-wrap: wrap;">
+      <div class="container">
+        <div class="row" style="padding-top:20%;">
+            <div class="container" style="text-align:center;">
+                <img align="center" src="logo_sov.svg" style="max-width:95%;max-height:95%;"></img>
+            </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
+
 <br>
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="background-image: url('fondo_azul_slider_parte3_rutas.png');height:430px;">
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="background-image: url('fondo_azul_slider_parte3_rutas.png');background-size:100% 100%;background-repeat: no-repeat;">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
