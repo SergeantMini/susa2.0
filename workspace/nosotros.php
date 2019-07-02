@@ -47,10 +47,10 @@
 
 <div style="background-image: url('fondo-abajo.png');background-repeat: no-repeat;background-size:100% 500px;">
    <div class="col-md-12" style="width:100%;">
-        <div style="background-image: url('Rectangulo_blanco_contacto.png');background-position:center;background-repeat: no-repeat;background-size:90% 90%;width:100%;padding-top:15%">
+        <div style="background-image: url('Rectangulo_blanco_contacto.png');background-position:center;background-repeat: no-repeat;background-size:90% 100%;width:100%;padding-top:10%">
           <div class="row" style="padding-top:0%;">
           <div class="col-md-12" id="form_container">
-              <h2 style="font-family: 'Roboto', sans-serif;font-weight:bold;text-align:center;font-size:50px;"></br></br>Nosotros</h2>
+              <h2 style="font-family: 'Roboto', sans-serif;font-weight:bold;text-align:center;font-size:50px;"></br>Nosotros</h2>
               <hr style="border-top: 2px solid #8d8d8d;width:50px;" align="center">
               <br>
           </div>
