@@ -8,6 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="estilos.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
 
     <title>Intop Solutions</title>
   </head>
@@ -95,19 +96,27 @@
     <ul>
     <div class="carousel-item active">
       <div class="anim1">
-        <h1 style="color:white;padding-top:40px;padding-left:150px;font-weight:bold;font-size: 30px;">Nuestros sistemas convierten tu problemática en ventajas competitivas</h1>
-        <p style="color:white;padding-top:40px;padding-left:150px;font-size: 50px;">EFICACIA = UTILIDADES</p>
-        <input type="image" src="boton_parte2.png" alt="Submit" style="padding-left:150px;padding-top:40px;">
-        <br><br><br><br><br><br>
+        <div class="container" align="center" style="width:100%;">
+            <div class="row" style="text-align:center;width:100%;">
+              <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">Nuestros sistemas convierten tu problemática en ventajas competitivas
+              </h3>
+            </div>
+            <div align="center" class="row" style="text-align:center;width:100%;">
+              <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;padding-top:5%;padding-bottom:5%;">EFICACIA = UTILIDADES</h1>
+            </div>
+        </div>
       </div>
     </div>
     <div class="carousel-item">
        <div class="anim2">
-        <h1 style="color:white;padding-top:40px;padding-left:150px;font-weight:bold;font-size: 60px;">SOV Evaluación</h1>
-        <p style="color:white;padding-top:40px;padding-left:150px;font-size: 22px;">Coordina operadores, vendedores y promotores<br/> de tu empresa. Obtén una evaluación de 5<br/> aplicaciones que correrán al mismo tiempo.</p>
-        <input type="image" src="boton_parte2.png" alt="Submit" style="padding-left:150px;padding-top:40px;">
-        <br><br><br><br><br><br>
-      </div>
+            <div class="container" align="center" style="width:100%;">
+                <div class="row" style="text-align:center;width:100%;">
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">Por un sistema generador de indicadores que apoyan un proceso sencillo y claro en la toma de decisiones comerciales y la eficiencia en el servicio a clientes
+                  </h3>
+                  <img src=""></img>
+                </div>
+            </div>
+        </div>
     </div>
     <div class="carousel-item">
        <div class="anim3">
@@ -223,8 +232,8 @@ recorido en timpo real
   </div>
 </div>
     </div>
-    <div class="col-sm-12 col-md-6 col-lg-3">
-      <div class="card">
+    <div style="display: flex;" class="col-sm-12 col-md-6 col-lg-3">
+      <div style="display: flex;" class="card">
   <div class="card-body">
     <h5 class="card-title">Facturación</h5>
     <p class="card-text">100% deducible de impuestos</p>
@@ -232,7 +241,7 @@ recorido en timpo real
 </div>
     </div>
     <div class="col-sm-12 col-md-6 col-lg-3">
-      <div class="card">
+      <div style="display: flex;" class="card">
   <div class="card-body">
     <h5 class="card-title">Soporte técnico</h5>
     <p class="card-text">Contamos con un soporte 24/7 y los 365 días del año</p>
@@ -252,25 +261,7 @@ recorido en timpo real
 
 <br><br><br><br>
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <h2 class="titulo6inicio">CONTÁCTANOS</h2>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm">
-      <h5 class="parte6inicio">Mándanos un email a <span class="correo2">venta@intop.solutions</span><br />o márcanos al <span class="correo2">+52 (272) 115 5277</h5></span>
-    </div>
-  </div>
-</div>
-<div class="container" style="text-align: center;">
-  <form>
-      <input type="text" name="ecorreo" placeholder="Escribe tu email" style="width:35%;height:30px;background-color:#c9c9c9;color:black;border:none;padding:2%;font:22px 'Roboto', sans-serif;"/>
-      <br><br>
-      <input type="submit" value="Enviar" style="width:150px;height:27px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
-    </form>
-</div><br><br>
+
 <div class="container">
     <div class="row">
         <div class="col-sm" >
@@ -278,7 +269,8 @@ recorido en timpo real
 	font-size: 30px;
 	font-family: 'Roboto', sans-serif;
 	font-weight: normal;
-	text-align: center;">TODOS NUESTROS SISTEMAS SON OPERADOS POR GRAMA SAPI DE CV. </h5>
+	text-align: center;
+	color: #4C4C4C;">TODOS NUESTROS SISTEMAS SON OPERADOS POR GRAMA SAPI DE CV. </h5>
         </div>
     </div>
 </div>
