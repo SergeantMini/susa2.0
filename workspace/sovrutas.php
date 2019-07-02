@@ -110,7 +110,7 @@
        <div class="anim2" style="height:620px;">
             <div class="container" align="center" style="width:100%;">
                 <div class="row" style="text-align:center;width:100%;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">Por un sistema generador de indicadores que apoyan un proceso sencillo y claro en la toma de decisiones comerciales y la eficiencia en el servicio a clientes
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:15%;">Por un sistema generador de indicadores que apoyan un proceso sencillo y claro en la toma de decisiones comerciales y la eficiencia en el servicio a clientes
                   </h3>
                 </div>
                 <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;padding-bottom:10%;">
@@ -187,37 +187,109 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-12 col-md-6 col-lg-3">
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
       <div class="card">
   <div class="card-body">
-    <h5 class="card-title">Póliza de seguro</h5>
-    <p class="card-text">Contratación de poliza para mayor seguridad.</p>
+    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Tener la posibilidad de que una persona que no conoce la ruta la pueda realizar al 100%</p>
   </div>
 </div>
     </div>
-    <div class="col-sm-12 col-md-6 col-lg-3">
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
       <div class="card">
   <div class="card-body">
-    <h5 class="card-title">Traje a la medida</h5>
-    <p class="card-text">Creamos sistemas de acuerdo a tus necesidades</p>
+    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Tener libros de ruta actualizando en forma automática</p>
   </div>
 </div>
     </div>
-    <div style="display: flex;" class="col-sm-12 col-md-6 col-lg-3">
+    <div style="display: flex;" class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
       <div style="display: flex;" class="card">
   <div class="card-body">
-    <h5 class="card-title">Facturación</h5>
-    <p class="card-text">100% deducible de impuestos</p>
+    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Punteo en mapas electrónico al 100%, actualizados en forma automática</p>
   </div>
 </div>
     </div>
-    <div class="col-sm-12 col-md-6 col-lg-3">
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
       <div style="display: flex;" class="card">
   <div class="card-body">
-    <h5 class="card-title">Soporte técnico</h5>
-    <p class="card-text">Contamos con un soporte 24/7 y los 365 días del año</p>
+    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Registro de visita a cliente por horario y por los no visitadosan</p>
   </div>
 </div>
+    </div>
+  </div>
+  <div class="row" style="padding-top:2%;">
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conoce la cobertura y penetración de tus productos</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conocer si cada ruta tiene la cobertura adecuada</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conocer los horarios y ubicación en que el vendedor realizó las operaciones</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Los precios a los que se le vende a cada cliente</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row" style="padding-top:2%;">
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Reportes de liquidación por ruta</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Los clientes en dispositivo, que nos permite realizar ventas a clientes de otro día</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Reporte de pedido contra surtido por cliente</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Efectividad de visita y de compra</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row" style="padding-top:2%;">
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Venta promedio por ruta</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-12 col-md-6 col-lg-3" style="display:flex;">
+      <div style="display: flex;" class="card">
+        <div class="card-body">
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Permite un acercamiento visual a los clientes, rutas y estatus gracias a sus mapas</p>
+        </div>
+      </div>
     </div>
   </div>
 </div>
