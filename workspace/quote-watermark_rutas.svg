@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="158px" height="105px" viewBox="0 0 158 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>quote-watermark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Sistemas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SOV-RUTAS" transform="translate(-918.000000, -3031.000000)" fill="#002E54" fill-rule="nonzero">
+            <g id="Parte-3" transform="translate(0.000000, 2881.000000)">
+                <g id="slider-1" transform="translate(787.000000, 150.000000)">
+                    <g id="quote-watermark" style="mix-blend-mode: overlay;" transform="translate(131.000000, 0.000000)">
+                        <path d="M92.1666667,0 L92.1666667,65.625 L128.375,65.625 L105.333333,105 L134.958333,105 L158,65.625 L158,0 L92.1666667,0 Z M0,65.625 L36.2083333,65.625 L13.1666667,105 L42.7916667,105 L65.8333333,65.625 L65.8333333,0 L0,0 L0,65.625 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
