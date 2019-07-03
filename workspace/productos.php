@@ -96,8 +96,9 @@
                                             display: -webkit-flex;
                                             flex-wrap: wrap;">
       <br>
-      <div class="container">
+      <div class="box_item" id="sovrutasboxprod" align="center" style="width:100%;text-align:center;justify-content:center;">
         <div class="row">
+        <!--div id="sovrutasboxprod-hover"><img src="laptop-ruta.gif"/></div-->
           <h3 style="font-family: 'Roboto', sans-serif; width:100%;
                   	font-weight: bold;
                   	text-align: center;
