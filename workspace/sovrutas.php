@@ -85,6 +85,7 @@
 </div>
 
 <br>
+
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="background-image: url('fondo_azul_slider_parte3_rutas.png');background-size:100% 100%;background-repeat: no-repeat;">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -294,11 +295,90 @@
   </div>
 </div>
 
+<br><br>
 
-<div class="container">
-  <div class="row">
-<img style="max-width:100%; max-height:100%;padding-top: 20px" src="sistemas.png" alt="">
-</div>
+
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="background-color: #D4D3DA;">
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <ul>
+    <div class="carousel-item active">
+      <div class="anim1" style="height:620px;">
+        <div class="container" align="center" style="width:100%;padding-top:10%;padding-bottom:10%;">
+            <div class="row" style="text-align:center;width:100%;">
+              <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">Nuestros sistemas convierten tu problemática en ventajas competitivas
+              </h3>
+            </div>
+            <div align="center" class="row" style="text-align:center;width:100%;">
+              <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;padding-top:5%;padding-bottom:5%;">EFICACIA = UTILIDADES</h1>
+            </div>
+        </div>
+      </div>
+    </div>
+    <div class="carousel-item">
+       <div class="anim2" style="height:620px;">
+            <div class="container" align="center" style="width:100%;">
+                <div class="row" style="text-align:center;width:100%;">
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:15%;">Por un sistema generador de indicadores que apoyan un proceso sencillo y claro en la toma de decisiones comerciales y la eficiencia en el servicio a clientes
+                  </h3>
+                </div>
+                <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;padding-bottom:10%;">
+                <img align="center" src="icono_generador_parte3_slider2.png"></img>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="carousel-item">
+       <div class="anim3" style="display:flex;">
+            <div class="container" align="center" style="width:100%;">
+                <div class="row" style="text-align:center;width:100%;">
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;padding-bottom:5%;">Las principales desviaciones comerciales en cualquier operación están contempladas en el Sistema SOV
+                  </h3>
+                </div>
+                <div class="row" style="text-algin:center;width:90%;" align="center">
+                <div class="container">
+                      <div class="row" style="padding-bottom:10%;">
+                        <div class="col-sm" style="display:flex;">
+                          <div class="card tarjeta" style="background:transparent;border-color:white;">
+                            <div class="card-body">
+                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">LA POSIBILIDAD DE QUE UNA PERSONA QUE NO CONOCE LAS RUTAS LAS REALICE</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-sm" style="display:flex;">
+                          <div class="card tarjeta" style="background:transparent;border-color:white;">
+                            <div class="card-body">
+                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">LOS PRECIOS A LOS QUE SE LE VENDE A CADA CLIENTE</p>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-sm" style="display:flex;">
+                          <div class="card tarjeta" style="background:transparent;border-color:white;">
+                            <div class="card-body">
+                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">CONOCE SI CADA RUTA TIENE LA COBERTURA ADECUADA</p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+      </div>
+    </div>
+    </ul>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
 
 
