@@ -185,7 +185,8 @@ a:hover {
         position: relative;
         display: inline-block; /* Make the width of box same as image */
     }
-    .box .text{
+
+.box .text{
         position: absolute;
         z-index: 999;
         margin: 0 auto;
@@ -195,3 +196,5 @@ a:hover {
         text-align: center;
         width: 60%; /* Set the width of the positioned div */
     }
+    
+.sovrutasboxprod
