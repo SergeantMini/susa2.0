@@ -17,10 +17,10 @@
   </head>
   <body>
     
-    <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
+    <nav style="background-image: url('/SergeantMini-susa2_0/workspace/imagenes/fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
     <div class="container" style="margin-left: 0px;">
       <a  class="navbar-left" href="#">
-            <img style="max-width:100%; max-height:100%;" src="Logo intop_blanco.svg" alt="">
+            <img style="max-width:100%; max-height:100%;" src="/SergeantMini-susa2_0/workspace/imagenes/Logo intop_blanco.svg" alt="">
           </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -49,7 +49,7 @@
 </nav>
 
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="background-image: url('fondo-abajo.png');background-repeat: no-repeat;background-size:100% 100%;max-height:!00%;">
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="background-image: url('/SergeantMini-susa2_0/workspace/imagenes/fondo-abajo.png');background-repeat: no-repeat;background-size:100% 100%;max-height:!00%;">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -71,7 +71,7 @@
                         </form>
                       </td>
                       <td style="text-align:center;">
-                        <img src="ruta_movil.gif" alt="autotransportegif" style="padding-top:px;max-width:100%;max-height:100%">
+                        <img src="/SergeantMini-susa2_0/workspace/gifs/ruta_movil.gif" alt="autotransportegif" style="padding-top:2%;max-width:100%;max-height:100%">
                       </td>
                     </tr>
                   </table>
@@ -92,7 +92,7 @@
                         </form>
                       </td>
                       <td style="text-align:center;">
-                        <img src="autotransporte_movil.gif" alt="autotransportegif" style="padding-top:px;max-width:100%;max-height:100%">
+                        <img src="/SergeantMini-susa2_0/workspace/gifs/autotransporte_movil.gif" alt="autotransportegif" style="padding-top:2%;max-width:100%;max-height:100%">
                       </td>
                     </tr>
                   </table>
@@ -113,7 +113,7 @@
                         </form>
                       </td>
                       <td style="text-align:center;">
-                        <img src="evaluacion_movil.gif" alt="autotransportegif" style="padding-top:px;max-width:100%;max-height:100%">
+                        <img src="/SergeantMini-susa2_0/workspace/gifs/evaluacion_movil.gif" alt="autotransportegif" style="padding-top:2%;max-width:100%;max-height:100%">
                       </td>
                     </tr>
                   </table>
@@ -175,7 +175,7 @@
   <div class="row">
     <div class="col-sm">
       <div class="card tarjeta">
-        <img src="aparatos_ruta_parte3.gif" class="card-img-top" alt="..." >
+        <img src="/SergeantMini-susa2_0/workspace/gifs/aparatos_ruta_parte3.gif" class="card-img-top" alt="..." >
         <div class="card-body">
           <p class="card-text textoTarjeta">Obten la posibilidad de que una persona que no conce la ruta, pueda realizarla al 100%. Convirtiendola en una ventaja competitiva</p>
           <div class="row" style="border-top: 1px solid #DDDDDD;">
@@ -207,7 +207,7 @@
     </div>
     <div class="col-sm">
       <div class="card tarjeta">
-  <img src="aparatos_autotransporte_parte3.gif" class="card-img-top" alt="...">
+  <img src="/SergeantMini-susa2_0/workspace/gifs/aparatos_autotransporte_parte3.gif" class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text textoTarjeta">Geoposiciona las rutas de tus
 vendedores
@@ -242,7 +242,7 @@ recorido en timpo real
     </div>
     <div class="col-sm">
       <div class="card tarjeta">
-  <img src="aparatos_evaluacion_parte3.gif" class="card-img-top" alt="...">
+  <img src="/SergeantMini-susa2_0/workspace/gifs/aparatos_evaluacion_parte3.gif" class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text textoTarjeta">Obtener una visión integral de 360º de tu empresa , generando una calificación desde 3 perspectivas, nos brinda un resultado efectivo y objetivo</p>
     <div class="row" style="border-top: 1px solid #DDDDDD;">
@@ -293,16 +293,14 @@ recorido en timpo real
 
 <div class="container">
   <div class="row">
-    <div style="display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
+    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
       <div class="card" style="flex:1;">
   <div class="card-body">
     <br>
     <h5 class="card-title" style="text-align: left;">Póliza de seguro</h5>
     <br>
     <p class="card-text">Contratación de poliza para mayor seguridad.</p>
-    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="/SergeantMini-susa2_0/workspace/imagenes/flecha_parte4.png" style="padding-left:15px;"></image></a></p>
   </div>
 </div>
     </div>
@@ -315,7 +313,7 @@ recorido en timpo real
     <h5 class="card-title" style="text-align: left;">Traje a la medida</h5>
     <br>
     <p class="card-text">Creamos sistemas de acuerdo a tus necesidades</p>
-    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="/SergeantMini-susa2_0/workspace/imagenes/flecha_parte4.png" style="padding-left:15px;"></image></a></p>
   </div>
 </div>
     </div>
@@ -328,7 +326,7 @@ recorido en timpo real
     <h5 class="card-title" style="text-align: left;">Facturación</h5>
     <br><br><br>
     <p class="card-text">100% deducible de impuestos</p><br>
-    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="/SergeantMini-susa2_0/workspace/imagenes/flecha_parte4.png" style="padding-left:15px;"></image></a></p>
   </div>
 </div>
     </div>
@@ -341,7 +339,7 @@ recorido en timpo real
     <h5 class="card-title" style="text-align: left;">Soporte técnico</h5>
     <br>
     <p class="card-text">Contamos con un soporte 24/7 y los 365 días del año</p>
-    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="/SergeantMini-susa2_0/workspace/imagenes/flecha_parte4.png" style="padding-left:15px;"></image></a></p>
   </div>
 </div>
     </div>
@@ -351,7 +349,7 @@ recorido en timpo real
 <br><br><br><br>
 <br><br><br><br>
 
-<div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('fondo-frase.png');background-repeat: no-repeat;background-size:100% 100%;">
+<div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('/SergeantMini-susa2_0/workspace/imagenes/fondo-frase.png');background-repeat: no-repeat;background-size:100% 100%;">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators2" data-slide-to="1"></li>
@@ -363,7 +361,7 @@ recorido en timpo real
       <div class="anim5">
         <div class="container" align="center">
           <div align="center" class="row" style="text-align:center;width:100%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:0px;width:100%;"><img src="comilas_parte5.png" style="padding-top:60px;margin:auto;"></img><br/><br/>Enfocados en el desarrollo y mantenimiento de sistemas que facilitaran las operaciones de tu empresa</br></br></br></br></br></h3>
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:0px;width:100%;"><img src="/SergeantMini-susa2_0/workspace/imagenes/comilas_parte5.png" style="padding-top:60px;margin:auto;"></img><br/><br/>Enfocados en el desarrollo y mantenimiento de sistemas que facilitaran las operaciones de tu empresa</br></br></br></br></br></h3>
           </div>
         </div>
       </div>
@@ -390,7 +388,7 @@ recorido en timpo real
       <div class="anim8">
         <div class="container" align="center">
           <div align="center" class="row" style="text-align:center;width:100%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:0px;width:100%;"><img src="comilas_parte5.png" style="padding-top:60px;margin:auto;"></img><br/><br/>Sistemas realizados con base a análisis a nivel dirección y corporativos estructurados por asesores de alto nivel y experiencia</br></br></br></br></br></h3>
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:0px;width:100%;"><img src="/SergeantMini-susa2_0/workspace/imagenes/comilas_parte5.png" style="padding-top:60px;margin:auto;"></img><br/><br/>Sistemas realizados con base a análisis a nivel dirección y corporativos estructurados por asesores de alto nivel y experiencia</br></br></br></br></br></h3>
           </div>
         </div>
       </div>
@@ -442,7 +440,7 @@ recorido en timpo real
          <div class="row">
             <div class="col-md-6 ">
                <div class="logo-part">
-                  <img src="Logo_intop_blanco_parte7.png" class="w-50 logo-footer"/>
+                  <img src="/SergeantMini-susa2_0/workspace/imagenes/Logo_intop_blanco_parte7.png" class="w-50 logo-footer"/>
                   <br>
                   <p style="color: #4c4c4c;">Soluciones operativas integrales para mejores análisis y toma de decisiones, todos nuestros sistemas son autofinanciables, se traduce en utilidades</p>
                   <p style="color: #4c4c4c;">© 2019 INTOP Solutions</p>
