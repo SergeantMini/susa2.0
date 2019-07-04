@@ -109,7 +109,7 @@
                         <h1 style="color:white;padding-top:40px;font-weight:bold;font-size:60px;">SOV <h2 style="color:white;font-weight:bold;font-size: 2em;">Evaluación</h2></h1>
                         <p style="color:white;padding-top:40px;font-size: 22px;">Coordina operadores, vendedores</br> y promotores de tu empresa.</br> Obtén una evaluación de 5<br/> aplicaciones que correrán</br> al mismo tiempo.</p>
                         <form>
-                          <input type="button" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
+                          <input type="button" onclick="window.location='sovevaluacion.php';" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
                         </form>
                       </td>
                       <td style="text-align:center;">
@@ -257,6 +257,7 @@ recorido en timpo real
 	width: 100%;">SOV Evaluación</h5>
       </div>
       <div class="col-sm-2">
+      <a href="sovevaluacion.php">
         <text style="padding-top: 7px;
 	text-align: right;
 	color: white;
@@ -264,7 +265,7 @@ recorido en timpo real
 	font-family: 'Roboto', sans-serif;
 	font-weight: normal;
 	float: left;
-	width: 100%;">></text>
+	width: 100%;">></text></a>
       </div>
     </div>
   </div>
