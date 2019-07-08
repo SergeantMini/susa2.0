@@ -17,10 +17,10 @@
   <body>
     
     
-<nav style="background-image: url('/SergeantMini-susa2_0/workspace/imagenes/fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
+<nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
     <div class="container" style="margin-left: 0px;">
       <a  class="navbar-left" href="#">
-            <img style="max-width:100%; max-height:100%;" src="/SergeantMini-susa2_0/workspace/imagenes/Logo intop_blanco.svg" alt="">
+            <img style="max-width:100%; max-height:100%;" src="Logo intop_blanco.svg" alt="">
           </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -49,10 +49,10 @@
 </nav>
 
 
-<div style="background-image: url('/SergeantMini-susa2_0/workspace/imagenes/fondo-abajo.png');background-repeat: no-repeat;background-size:100% 500px;">
+<div style="background-image: url('fondo-abajo.png');background-repeat: no-repeat;background-size:100% 500px;">
   <div class="col-md-12" style="width:100%;">
       <!--img src="Rectangulo_blanco_contacto.png" style="visibility: hidden;position:fixated;"  /-->
-    <div style="background-image: url('/SergeantMini-susa2_0/workspace/imagenes/Rectangulo_blanco_contacto.png');background-position:center;background-repeat: no-repeat;background-size:90% 100%;width:100%;padding-top:10%">
+    <div style="background-image: url('Rectangulo_blanco_contacto.png');background-position:center;background-repeat: no-repeat;background-size:90% 100%;width:100%;padding-top:10%">
     <div class="col-md-12" id="form_container">
         <h2 style="font-family: 'Roboto', sans-serif; font-weight:bold;text-align:center; font-size:50px;"></br>Contáctanos</h2>
         <hr style="border-top: 2px solid #8d8d8d;width:50px;" align="center">
@@ -75,7 +75,7 @@
                     <text id="dintop2" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">Rufino Tamayo 4D, Col. Puebla Nuevo</br> C.P. 76900 <text style="font-size:15px;font-family: 'Roboto', sans-serif;color:#4c4c4c;">Corregidora Querétaro, Querétaro</text></text>
                     <br><br>
                     <label for="rsociales" style="color:#4c4c4c;font-size:15px;">REDES SOCIALES</label><br>
-                    <a href="https://www.facebook.com/Intop-Solutions-440490166697561/"><img src="/SergeantMini-susa2_0/workspace/imagenes/Facebook_Icon.svg"></img></a>
+                    <a href="https://www.facebook.com/Intop-Solutions-440490166697561/"><img src="Facebook_Icon.svg"></img></a>
                     <br>
                     <label for="rsociales" style="color:#4c4c4c;font-size:15px;">NUESTROS HORARIOS DE ATENCIÓN</label><br>
                     <text id="rsociales" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">OFICINAS</text><br>
@@ -160,7 +160,7 @@
          <div class="row">
             <div class="col-md-6 ">
                <div class="logo-part">
-                  <img src="/SergeantMini-susa2_0/workspace/imagenes/Logo_intop_blanco_parte7.png" class="w-50 logo-footer"/>
+                  <img src="Logo_intop_blanco_parte7.png" class="w-50 logo-footer"/>
                   <br>
                   <p style="color: #4c4c4c;">Soluciones operativas integrales para mejores análisis y toma de decisiones, todos nuestros sistemas son autofinanciables, se traduce en utilidades</p>
                   <p style="color: #4c4c4c;">© 2019 INTOP Solutions</p>

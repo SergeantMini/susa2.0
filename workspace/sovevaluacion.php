@@ -14,10 +14,10 @@
   </head>
   <body>
     
-    <nav style="background-image: url('/SergeantMini-susa2_0/workspace/imagenes/fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
+    <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
     <div class="container" style="margin-left: 0px;">
       <a  class="navbar-left" href="#">
-             <img style="max-width:100%; max-height:100%;" src="/SergeantMini-susa2_0/workspace/imagenes/Logo intop_blanco.svg" alt="">
+             <img style="max-width:100%; max-height:100%;" src="Logo intop_blanco.svg" alt="">
           </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -76,7 +76,7 @@
       <div class="container">
         <div class="row" style="padding-top:20%;">
             <div class="container" style="text-align:center;">
-                <img align="center" src="/SergeantMini-susa2_0/workspace/imagenes/logo_sov.svg" style="max-width:95%;max-height:95%;"></img>
+                <img align="center" src="logo_sov.svg" style="max-width:95%;max-height:95%;"></img>
             </div>
         </div>
       </div>
@@ -86,7 +86,7 @@
 
 <br>
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="background-image: url('/SergeantMini-susa2_0/workspace/imagenes/fondo_azul_slider_parte3_rutas.png');background-size:100% 100%;background-repeat: no-repeat;">
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="background-image: url('fondo_azul_slider_parte3_rutas.png');background-size:100% 100%;background-repeat: no-repeat;">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -115,7 +115,7 @@
                   </h3>
                 </div>
                 <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;padding-bottom:10%;">
-                <img align="center" src="/SergeantMini-susa2_0/workspace/imagenes/icono_generador_parte3_slider2.png"></img>
+                <img align="center" src="icono_generador_parte3_slider2.png"></img>
                 </div>
             </div>
         </div>
@@ -354,7 +354,7 @@
          <div class="row">
             <div class="col-md-6 ">
                <div class="logo-part">
-                  <img src="/SergeantMini-susa2_0/workspace/imagenes/Logo_intop_blanco_parte7.png" class="w-50 logo-footer"/>
+                  <img src="Logo_intop_blanco_parte7.png" class="w-50 logo-footer"/>
                   <br>
                   <p style="color: #4c4c4c;">Soluciones operativas integrales para mejores análisis y toma de decisiones, todos nuestros sistemas son autofinanciables, se traduce en utilidades</p>
                   <p style="color: #4c4c4c;">© 2019 INTOP Solutions</p>
