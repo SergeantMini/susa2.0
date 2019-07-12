@@ -19,7 +19,7 @@
     
     <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
     <div class="container" style="margin-left: 0px;">
-      <a  class="navbar-left" href="#">
+      <a  class="navbar-left" href="index.php">
             <img style="max-width:100%; max-height:100%;" src="Logo intop_blanco.svg" alt="">
           </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -301,7 +301,7 @@ recorido en timpo real
     <h5 class="card-title" style="text-align: left;">Póliza de seguro</h5>
     <br>
     <p class="card-text">Contratación de poliza para mayor seguridad.</p>
-    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="/SergeantMini-susa2_0/workspace/imagenes/flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
   </div>
 </div>
     </div>
@@ -314,7 +314,7 @@ recorido en timpo real
     <h5 class="card-title" style="text-align: left;">Traje a la medida</h5>
     <br>
     <p class="card-text">Creamos sistemas de acuerdo a tus necesidades</p>
-    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="/SergeantMini-susa2_0/workspace/imagenes/flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
   </div>
 </div>
     </div>
@@ -327,7 +327,7 @@ recorido en timpo real
     <h5 class="card-title" style="text-align: left;">Facturación</h5>
     <br><br><br>
     <p class="card-text">100% deducible de impuestos</p><br>
-    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="/SergeantMini-susa2_0/workspace/imagenes/flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
   </div>
 </div>
     </div>
@@ -340,7 +340,7 @@ recorido en timpo real
     <h5 class="card-title" style="text-align: left;">Soporte técnico</h5>
     <br>
     <p class="card-text">Contamos con un soporte 24/7 y los 365 días del año</p>
-    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="/SergeantMini-susa2_0/workspace/imagenes/flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
   </div>
 </div>
     </div>
@@ -441,7 +441,7 @@ recorido en timpo real
          <div class="row">
             <div class="col-md-6 ">
                <div class="logo-part">
-                  <img src="/SergeantMini-susa2_0/workspace/imagenes/Logo_intop_blanco_parte7.png" class="w-50 logo-footer"/>
+                  <img src="Logo_intop_blanco_parte7.png" class="w-50 logo-footer"/>
                   <br>
                   <p style="color: #4c4c4c;">Soluciones operativas integrales para mejores análisis y toma de decisiones, todos nuestros sistemas son autofinanciables, se traduce en utilidades</p>
                   <p style="color: #4c4c4c;">© 2019 INTOP Solutions</p>
