@@ -16,7 +16,7 @@
     
     <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
     <div class="container" style="margin-left: 0px;">
-      <a  class="navbar-left" href="#">
+      <a  class="navbar-left" href="index.php">
              <img style="max-width:100%; max-height:100%;" src="Logo intop_blanco.svg" alt="">
           </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
