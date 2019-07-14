@@ -61,11 +61,11 @@
             <div class="carousel-item active">
               <div class="anim4">
                 <div class="container" align="center" style="width:100%;">
-                  <table style="width:100%;">
+                  <table style="width:90%;">
                     <tr>
                       <td>
-                        <h1 style="color:white;padding-top:40px;font-weight:bold;font-size: 60px;">SOV Rutas</h1>
-                        <p style="color:white;padding-top:40px;font-size: 22px;">Obtén el control de tus rutas y de tus <br/>vendedores al alcance de tu mano. Por un <br/>sistema generador de indicadores que <br/>facilitaran las ventas de tu empresa.</p>
+                        <h1 style="color:white;padding-top:40px;font-weight:bold;font-size: 55px;">SOV Rutas</h1>
+                        <p style="color:white;padding-top:40px;font-size: 20px;">Genera reportes con indicadores para </br>una mejor administración comercial y </br>operativa, de manera inmediata y clara</br> para la toma de decisiones. Certifica </br>las actividades realizadas por tu fuerza de ventas.</p>
                         <form>
                           <input type="button" onclick="window.location='sovrutas.php';" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
                         </form>
@@ -82,11 +82,11 @@
     <div class="carousel-item">
       <div class="anim3">
         <div class="container" align="center" style="width:100%;">
-                  <table style="width:100%;">
+                  <table style="width:90%;">
                     <tr>
                       <td style="width:50%;">
-                        <h1 style="color:white;padding-top:40px;font-weight:bold;font-size:60px;">SOV <h2 style="color:white;font-weight:bold;font-size: 2em;">Autotransporte</h2></h1>
-                        <p style="color:white;padding-top:40px;font-size: 22px;">Facilitamos el almacenamiento de </br>información de forma fácil,</br> rápida y segura. Encuentralas</br> en el portal web o en la aplicación</p>
+                        <h1 style="color:white;padding-top:40px;font-weight:bold;font-size:55px;">SOV <h2 style="color:white;font-weight:bold;font-size: 2em;">Autotransporte</h2></h1>
+                        <p style="color:white;padding-top:40px;font-size: 20px;">A través del círculo de servicio conoce la productividad de tu flotilla. Saber en tiempo real el estatus de tus unidades. Cumple al 100% con la NOM 87 de la SCT.</p>
                         <form>
                           <input type="button" onclick="window.location='sovautotranporte.php';" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
                         </form>
@@ -103,11 +103,13 @@
     <div class="carousel-item">
        <div class="anim2">
          <div class="container" align="center" style="width:100%;">
-                  <table style="width:100%;">
+                  <table style="width:90%;">
                     <tr>
                       <td style="width:50%;">
-                        <h1 style="color:white;padding-top:40px;font-weight:bold;font-size:60px;">SOV <h2 style="color:white;font-weight:bold;font-size: 2em;">Evaluación</h2></h1>
-                        <p style="color:white;padding-top:40px;font-size: 22px;">Coordina operadores, vendedores</br> y promotores de tu empresa.</br> Obtén una evaluación de 5<br/> aplicaciones que correrán</br> al mismo tiempo.</p>
+                        <h1 style="color:white;padding-top:40px;font-weight:bold;font-size:55px;">SOV Evaluación</h1>
+                        <p style="color:white;padding-top:40px;font-size: 20px;">
+                            Evalúa en forma práctica personal y sucursales. Conoce el nivel de satisfacción de tus clientes, lo que permite generar una calificación única de sucursal conociendo a detalle fortalezas y debilidades. </br>Todo lo que es medible es perfeccionable.
+                        </p>
                         <form>
                           <input type="button" onclick="window.location='sovevaluacion.php';" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
                         </form>
@@ -125,11 +127,13 @@
       <div class="anim1">
         <div class="container" align="center" style="width:100%;">
           <br><br><br><br>
-                  <table style="width:100%;">
+                  <table style="width:90%;">
                     <tr>
                       <td style="width:50%;">
-                        <h1 style="color:white;padding-top:45px;font-weight:bold;font-size:60px;">SOV Sistemas </br>Ad-Hoc</h1>
-                        <p style="color:white;padding-top:40px;font-size: 22px;">Sistemas la medida de tu empresa.<br/> Planea, supervisa, analiza y revisa desde<br/> una plataforma web y la aplicación.</p>
+                        <h1 style="color:white;padding-top:45px;font-weight:bold;font-size:55px;">SOV Sistemas </br>Ad-Hoc</h1>
+                        <p style="color:white;padding-top:40px;font-size: 20px;">
+                            Desarrollamos sistemas a la medida de las necesidades de tu empresa. Planea, supervisa y analiza de una forma fácil y sencilla. 
+                        </p>
                         <form>
                           <input type="button" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
                         </form>
@@ -165,7 +169,7 @@
   </div>
   <div class="row">
     <div class="col-sm">
-      <h5 class="subtitulo">PRODUCTOS DE ALTA CALIDAD</h5>
+      <h5 class="subtitulo">SISTEMAS DE ALTA CALIDAD</h5>
     </div>
   </div>
 </div>
@@ -173,11 +177,13 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-sm">
-      <div class="card tarjeta">
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+      <div class="card tarjeta" style="flex: 1;">
         <img src="aparatos_ruta_parte3.gif" class="card-img-top" alt="..." >
         <div class="card-body">
-          <p class="card-text textoTarjeta">Obten la posibilidad de que una persona que no conce la ruta, pueda realizarla al 100%. Convirtiendola en una ventaja competitiva</p>
+          <p class="card-text textoTarjeta">
+            Obtén la posibilidad una persona que no conoce la ruta puede realizarla al 100%. Convirtiéndola en una ventaja competitiva.
+         </p>
           <div class="row" style="border-top: 1px solid #DDDDDD;">
             <div class="col-sm-9">
               <h5 style="padding-top: 7px;
@@ -205,16 +211,13 @@
   </div>
 </div>
     </div>
-    <div class="col-sm">
-      <div class="card tarjeta">
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+      <div class="card tarjeta" style="flex: 1;">
   <img src="aparatos_autotransporte_parte3.gif" class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="card-text textoTarjeta">Geoposiciona las rutas de tus
-vendedores
-·Cambio de estatus durante el
-recorido en timpo real
-·Sistema de alarmas
-·Geolocalización de unidades</p>
+    <p class="card-text textoTarjeta">
+        Geoposiciona las rutas de tus vendedores</br>·Cambio de estatus durante el recorido en tiempo real </br>·Sistema de alarma</br>·Geolocalización de unidades
+    </p>
     <div class="row" style="border-top: 1px solid #DDDDDD;">
       <div class="col-sm-10">
         <h5 style="padding-top: 7px;
@@ -240,8 +243,8 @@ recorido en timpo real
   </div>
 </div>
     </div>
-    <div class="col-sm">
-      <div class="card tarjeta">
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+      <div class="card tarjeta" style="flex: 1;">
   <img src="aparatos_evaluacion_parte3.gif" class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text textoTarjeta">Obtener una visión integral de 360º de tu empresa , generando una calificación desde 3 perspectivas, nos brinda un resultado efectivo y objetivo</p>
@@ -282,64 +285,42 @@ recorido en timpo real
     <div class="col-sm">
       <h2 class="titulo">SERVICIOS</h2>
     </div>
-  </div>  
-  <div class="row">
-    <div class="col-sm">
-      <h5 class="subtitulo">DE RENTA</h5>
-    </div>
   </div>
 </div>
 
-
+<br><br>
 
 <div class="container">
   <div class="row">
-    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-      <div class="card" style="flex:1;">
-  <div class="card-body">
-    <br>
-    <h5 class="card-title" style="text-align: left;">Póliza de seguro</h5>
-    <br>
-    <p class="card-text">Contratación de poliza para mayor seguridad.</p>
-    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
-  </div>
-</div>
-    </div>
-    <div style="display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-      <div class="card" style="flex:1;">
-  <div class="card-body">
-    <br>
-    <h5 class="card-title" style="text-align: left;">Traje a la medida</h5>
-    <br>
-    <p class="card-text">Creamos sistemas de acuerdo a tus necesidades</p>
-    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
-  </div>
-</div>
-    </div>
-    <div style="display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-      <div class="card" style="flex:1;">
-  <div class="card-body">
-    <br>
-    <h5 class="card-title" style="text-align: left;">Facturación</h5>
-    <br><br><br>
-    <p class="card-text">100% deducible de impuestos</p><br>
-    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
-  </div>
-</div>
-    </div>
-    <div style="display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
+  <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm">
       <div class="card" style="flex:1;">
   <div class="card-body">
     <br>
     <h5 class="card-title" style="text-align: left;">Soporte técnico</h5>
     <br>
     <p class="card-text">Contamos con un soporte 24/7 y los 365 días del año</p>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+  </div>
+</div>
+    </div>
+    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm">
+      <div class="card" style="flex:1;">
+  <div class="card-body">
+    <br>
+    <h5 class="card-title" style="text-align: left;">Facturación</h5>
+    <br>
+    <p class="card-text">100% deducible de impuestos</p><br>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+  </div>
+</div>
+    </div>
+    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm">
+      <div class="card" style="flex:1;">
+  <div class="card-body">
+    <br>
+    <h5 class="card-title" style="text-align: left;">Traje a la medida</h5>
+    <br>
+    <p class="card-text">Creamos sistemas de acuerdo a tus necesidades</p>
     <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
   </div>
 </div>
@@ -361,8 +342,8 @@ recorido en timpo real
     <div class="carousel-item active">
       <div class="anim5">
         <div class="container" align="center">
-          <div align="center" class="row" style="text-align:center;width:100%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:0px;width:100%;"><img src="comilas_parte5.png" style="padding-top:60px;margin:auto;"></img><br/><br/>Enfocados en el desarrollo y mantenimiento de sistemas que facilitaran las operaciones de tu empresa</br></br></br></br></br></h3>
+          <div align="center" class="row" style="text-align:center;width:90%;">
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:20%;padding-bottom:20%;width:100%;">Sistemas realizados con base en análisis nivel dirección y corporativos, estructurados por asesores de alto nivel y experiencia </h3>
           </div>
         </div>
       </div>
@@ -370,17 +351,21 @@ recorido en timpo real
     <div class="carousel-item">
        <div class="anim6">
          <div class="container" align="center">
-          <div align="center" class="row" style="text-align:center;width:100%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:30px;width:100%;"></br></br></br></br></br>Contamos en todos nuestros sistemas con un portal web para la administración y la aplicación móvil para el personal que se encuentra en la calle</br></br></br></br></br></h3>
-          </div>
+          <div align="center" class="row" style="text-align:center;width:90%;">
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:20%;padding-bottom:20%;width:100%;">
+                Enfocados en el desarrollo de sistemas que facilitaran las operaciones de tu empresa
+            </h3>
+            </div>
         </div>
        </div>
     </div>
     <div class="carousel-item">
       <div class="anim7">
         <div class="container" align="center">
-          <div align="center" class="row" style="text-align:center;width:100%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:30px;width:100%;"></br></br></br></br></br>Fácil de usar · Confiable · Práctico · Innovador · Útil</br></br></br></br></br></br></h3>
+          <div align="center" class="row" style="text-align:center;width:90%;">
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:20%;padding-bottom:20%;width:100%;">
+                Fáciles de usar ·  Confiables · Prácticos · Innovadores · Útiles 
+            </h3>
           </div>
         </div>
        </div>
@@ -388,8 +373,10 @@ recorido en timpo real
     <div class="carousel-item">
       <div class="anim8">
         <div class="container" align="center">
-          <div align="center" class="row" style="text-align:center;width:100%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:0px;width:100%;"><img src="comilas_parte5.png" style="padding-top:60px;margin:auto;"></img><br/><br/>Sistemas realizados con base a análisis a nivel dirección y corporativos estructurados por asesores de alto nivel y experiencia</br></br></br></br></br></h3>
+          <div align="center" class="row" style="text-align:center;width:90%;">
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:20%;padding-bottom:20%;width:100%;">
+                Todos nuestros sistemas cuentan con un portal web para su administración y aplicaciones móviles para el personal
+            </h3>
           </div>
         </div>
       </div>
@@ -416,7 +403,7 @@ recorido en timpo real
   </div>
   <div class="row">
     <div class="col-sm">
-      <h5 class="parte6inicio">Mándanos un email a <span class="correo">venta@intop.solutions</span><br />o márcanos al <span class="correo">+52 (272) 115 5277</h5></span>
+      <h5 class="parte6inicio">Mándanos un email a <span class="correo">ventas@intop.solutions</span><br />o márcanos al <span class="correo">+52 (272) 115 5277</h5></span>
     </div>
   </div>
 </div>
@@ -445,6 +432,7 @@ recorido en timpo real
                   <br>
                   <p style="color: #4c4c4c;">Soluciones operativas integrales para mejores análisis y toma de decisiones, todos nuestros sistemas son autofinanciables, se traduce en utilidades</p>
                   <p style="color: #4c4c4c;">© 2019 INTOP Solutions</p>
+                  <p style="color: #4c4c4c;">Operado por GRAMA SAPI DE CV</p>
                </div>
             </div>
             <div class="col-md-6 px-4">
@@ -458,8 +446,6 @@ recorido en timpo real
          <div class="row">
             <div class="col-md-6 px-4">
                <h6 style="color: white;">MENÚ</h6>
-               <div class="row ">
-                  <div class="col-md-6">
                      <ul style="list-style-type:none;padding-left:-20px;padding-inline-start: 0px;">
                         <li> <a style="color: #4c4c4c;" href="index.php">INICIO</a> </li>
                         <li> <a style="color: #4c4c4c;" href="productos.php">PRODUCTOS (SISTEMAS)</a> </li>
@@ -467,17 +453,14 @@ recorido en timpo real
                         <li> <a style="color: #4c4c4c;" href="nosotros.php">COMPAÑÍA</a> </li>
                         <li> <a style="color: #4c4c4c;" href="contacto.php">CONTACTO</a> </li>
                      </ul>
-                  </div>
-                  
-               </div>
             </div>
             <div class="col-md-6 ">
                <h6 style="color: white;">CONTÁCTANOS</h6>
                <p style="color: #4c4c4c;">ventas@intop.solutions<br/>+52 (272) 115 5277</p>
                <form class="form-footer my-3">
-                  <input type="text" placeholder="Escribe tu email" name="search" style="width:250px;;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
+                  <input type="text" placeholder="Escribe tu email" name="search" style="width:180px;;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
                   <br><br>
-                  <input type="button" value="Enviar" style="width:140px;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
+                  <input type="button" value="Enviar" style="width:180px;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
                </form>
                
             </div>

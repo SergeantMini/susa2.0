@@ -59,18 +59,22 @@
                   	color: #002C55;">NUESTRA LÍNEA DE PRODUCTOS</h2>
         </div>
         <div class="row">
-          <h5 style="font-family: 'Roboto', sans-serif;
+            <h5 style="font-family: 'Roboto', sans-serif;
                   	    font-weight: medium;
                   	    text-align: left;
                     	padding-bottom: 10px;
-                    	color: #002E54;">FÁCIL DE USAR · PRÁCTICOS · CONFIABLES · RÁPIDOS</h5>
+                    	color: #002E54;">
+                   FÁCILES DE USAR · CONFIABLES · PRÁCTICOS · INNOVADORES · ÚTILES
+            </h5>
         </div>
         <div class="row">
-          <h5 style="font-family: 'Roboto', sans-serif;
+            <h5 style="font-family: 'Roboto', sans-serif;
                   	    font-weight: normal;
                   	    text-align: left;
                     	padding-bottom: 20px;
-                    	color: #000000;">El sistema SOV cuenta con dos herramientas para brindarle un control total de tus unidades: el teléfono y la mesa de control</h5>
+                    	color: #000000;">
+                Los sistemas SOV cuentan con dos herramientas para brindar un control total: teléfono móvil y mesa de control.
+            </h5>
         </div>
       </div>
     </div>
@@ -79,8 +83,8 @@
                                             flex-wrap: wrap;">
       <div class="container">
         <div class="row" style="padding-top:20%;">
-            <div class="container" style="text-align:center;">
-                <img align="center" src="logo_sov.svg" style="max-width:95%;max-height:95%;"></img>
+            <div class="container" style="text-align:center;padding-top:5%;padding-bottom:5%;">
+                <img align="center" src="logo_sov.svg" style="width:75%;height:75%;"></img>
             </div>
         </div>
       </div>
@@ -91,7 +95,7 @@
 <br><br><br>
 
 <div style="width:100%;" align="center" style="text-align:center;">
-    <div class="row" align="center" style="display: flex;width:90%;margin-left:15px;margin-right:15px;">
+    <div class="row" align="center" style="display: flex;width:100%;">
     <div class="col-sm-7 form-group" style="background-color: #002C55;display: flex;
                                             display: -webkit-flex;
                                             flex-wrap: wrap;">
@@ -116,11 +120,6 @@
                   	padding-right:10%;
                   	font-size: 17px;
                   	color: #ffffff;">LA INFORMACIÓN QUE NECESITAS AL INSTANTE<br><br>
-                  	Contempla las principales variables de rutas:</br>
--Autoventa</br>
--Preventa</br>
--Call center</br>
--Porteo</br>
 </p>
         </div>
       </div>
@@ -135,16 +134,18 @@
                   <img src="celular_ruta_parte3.gif" align="center" style="padding-top:10%;max-width: 90%;max-height: 90%;"></img>
               </div>
           </div>
-          <div class="col-sm-6 form-group" style="padding-top:30%;">
+          <div class="col-sm-6 form-group" style="padding-top:20%;">
               <div>
-                  <h6 style="font-family: 'Roboto', sans-serif; width:100%;
-                  	font-weight: medium;
-                  	text-align: left;
-                  	padding-top:10%;
-                  	color: #002E54;">OBTEN EL CONTROL TOTAL DE LOS CLIENTES DE TU EMPRESA</h6>
+                    <h5 style="font-family: 'Roboto', sans-serif; width:100%;font-weight: bold;text-align: left;padding-left:5%;padding-top:5%;color: #002E54;">
+                        CONTEMPLA LAS PRINCIPALES VARIABLES DE RUTAS:</br>
+                                    -AUTOVENTA</br>
+                                    -PREVENTA</br>
+                                    -CALL CENTER</br>
+                                    -PORTEO</br>
+                    </h5>
                   	<br>
                   	<form>
-                        <a href="sovrutas.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="padding-left:px;width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
+                        <a href="sovrutas.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
                     </form>
               </div>
           </div>
@@ -157,7 +158,7 @@
 <br>
 
 <div style="width:100%;" align="center" style="text-align:center;">
-    <div class="row" align="center" style="display: flex;width:90%;margin-left:15px;margin-right:15px;">
+    <div class="row" align="center" style="display: flex;width:100%;">
     <div class="col-sm-5 form-group" style="background-color: #D4D3DA;display: flex;
                                             display: -webkit-flex;
                                             flex-wrap: wrap;">
@@ -169,15 +170,17 @@
               </div>
           </div>
           <div class="col-sm-6 form-group" style="padding-top:30%;">
-              <div>
-                  <h6 style="font-family: 'Roboto', sans-serif; width:100%;
-                  	font-weight: medium;
-                  	text-align: left;
-                  	padding-top:10%;
-                  	color: #002E54;">MÁS FÁCIL QUE PLUMA Y LÁPIZ, CUMPLE CON LA NORMA 87</h6>
+                <div style="width:100%;">
+                    <h5 style="font-family: 'Roboto', sans-serif; width:100%;
+                      	font-weight: bold;
+                      	text-align: left;
+                      	padding-top:10%;
+                      	color: #002E54;">
+                      	MÁS FÁCIL QUE PLUMA Y LÁPIZ, CUMPLE CON LA NORMA 87
+                  	</h5>
                   	<br>
                   	<form>
-                        <a href="sovrutas.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="padding-left:px;width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
+                        <a href="sovautotransporte.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="padding-left:px;width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
                     </form>
               </div>
           </div>
@@ -196,21 +199,26 @@
                   	padding-left: 7%;
                   	padding-top:10%;
                   	font-size: 35px;
-                  	color: #ffffff;">SOV Autotransporte</h3>
+                  	color: #ffffff;">SOV AUTOTRANSPORTE</h3>
         </div>
+        <br>
         <div class="row">
-          <p style="font-family: 'Roboto', sans-serif;
+            <p style="font-family: 'Roboto', sans-serif;
                   	font-weight: regular;
                   	text-align: left;
                   	padding-left: 10%;
                   	padding-bottom:10%;
                   	padding-right:10%;
                   	font-size: 17px;
-                  	color: #ffffff;">FACILITAMOS EL ALMACENAMIENTO DE TU INFORMACIÓN DE FORMA FÁCIL Y SEGURA.<br><br>
-                  	La información que necesitas al instante:</BR>
--Portal web</br>
--Aplicación </br>
-</p>
+                  	color: #ffffff;">
+                  	· Conocer la productividad de la flotilla, mediante gráficos que facilitan la toma de decisiones.</br>
+                    · Estatus en tiempo real de carga de unidad</br>
+                    Cumple al 100% con la NORMA 87</br>
+                    · ¿Cuánto equivale el tiempo productivo e improductivo de la flotilla? </br>
+                    · En el proceso de carga o descarga, ¿cuál de mis clientes o clientes de mi cliente tarda más las unidades?</br>
+                    · ¿Cuánto tiempo real están invirtiendo mis unidades por incidencias en el camino que retrasan mis viajes? </br>
+
+            </p>
         </div>
       </div>
     </div>
@@ -220,7 +228,7 @@
 <br>
 
 <div style="width:100%;" align="center" style="text-align:center;">
-    <div class="row" align="center" style="display: flex;width:90%;margin-left:15px;margin-right:15px;">
+    <div class="row" align="center" style="display: flex;width:100%;">
     <div class="col-sm-7 form-group" style="background-color: #002C55;display: flex;
                                             display: -webkit-flex;
                                             flex-wrap: wrap;">
@@ -235,20 +243,19 @@
                   	font-size: 35px;
                   	color: #ffffff;">SOV EVALUACIÓN</h3>
         </div>
+        <br>
         <div class="row">
-          <p style="font-family: 'Roboto', sans-serif;
+            <p style="font-family: 'Roboto', sans-serif;
                   	font-weight: regular;
                   	text-align: left;
                   	padding-left: 10%;
                   	padding-bottom:10%;
                   	padding-right:10%;
                   	font-size: 17px;
-                  	color: #ffffff;">SISTEMAS MANEJADOS A TRAVÉS DE APLICACIONES.<br><br>
-                  	Contempla las principales variables de rutas:</br>
-                  	Interpretar su nivel de satisfacción te permitirá
-implementar mejores prácticas, enfocadas en la
-experiencia de usuario.
-</p>
+                  	color: #ffffff;">
+                  	 SISTEMAS MANEJADOS A TRAVÉS DE APLICACIONES.</br><br>
+                  	 Obtener el control donde antes era difícil tenerlo. Y calificar el desempeño por funciones. Información específica de las áreas de oportunidad contenidas en las revisiones con información inmediata a las área involucradas.
+            </p>
         </div>
       </div>
     </div>
@@ -264,14 +271,16 @@ experiencia de usuario.
           </div>
           <div class="col-sm-6 form-group" style="padding-top:30%;">
               <div>
-                  <h6 style="font-family: 'Roboto', sans-serif; width:100%;
-                  	font-weight: medium;
+                  <h5 style="font-family: 'Roboto', sans-serif; width:100%;
+                  	font-weight: bold;
                   	text-align: left;
                   	padding-top:10%;
-                  	color: #002E54;">OBTÉN UNA PERSPECTIVA 360° DE LA EVALUACIÓN DE TU NEGOCIO, OBTENIENDO 3 CALIFICACIONES</h6>
+                  	color: #002E54;">
+                  	OBTÉN UNA PERSPECTIVA 360° DE LA EVALUACIÓN DE TU NEGOCIO, OBTENIENDO 3 CALIFICACIONES
+                  </h5>
                   	<br>
                   	<form>
-                        <a href="sovrutas.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="padding-left:px;width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
+                        <a href="sovevaluacion.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="padding-left:px;width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
                     </form>
               </div>
           </div>
@@ -313,17 +322,6 @@ experiencia de usuario.
 
 <br><br><br>
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <h5 style="font-family: 'Roboto', sans-serif;
-                	text-align: center;
-                	padding-bottom: 20px;">TODOS NUESTROS SISTEMAS SON OPERADOS POR GRAMA SAPI DE CV.</h5>
-    </div>
-  </div>
-</div>
-<br><br>
-
 <!-- Footer -->
 
 <footer class="container-fluid bg-grey py-5" style="background: black;">
@@ -337,6 +335,7 @@ experiencia de usuario.
                   <br>
                   <p style="color: #4c4c4c;">Soluciones operativas integrales para mejores análisis y toma de decisiones, todos nuestros sistemas son autofinanciables, se traduce en utilidades</p>
                   <p style="color: #4c4c4c;">© 2019 INTOP Solutions</p>
+                  <p style="color: #4c4c4c;">Operado por GRAMA SAPI DE CV</p>
                </div>
             </div>
             <div class="col-md-6 px-4">
@@ -350,8 +349,6 @@ experiencia de usuario.
          <div class="row">
             <div class="col-md-6 px-4">
                <h6 style="color: white;">MENÚ</h6>
-               <div class="row ">
-                  <div class="col-md-6">
                      <ul style="list-style-type:none;padding-left:-20px;padding-inline-start: 0px;">
                         <li> <a style="color: #4c4c4c;" href="index.php">INICIO</a> </li>
                         <li> <a style="color: #4c4c4c;" href="productos.php">PRODUCTOS (SISTEMAS)</a> </li>
@@ -359,19 +356,15 @@ experiencia de usuario.
                         <li> <a style="color: #4c4c4c;" href="nosotros.php">COMPAÑÍA</a> </li>
                         <li> <a style="color: #4c4c4c;" href="contacto.php">CONTACTO</a> </li>
                      </ul>
-                  </div>
-                  
-               </div>
             </div>
             <div class="col-md-6 ">
                <h6 style="color: white;">CONTÁCTANOS</h6>
                <p style="color: #4c4c4c;">ventas@intop.solutions<br/>+52 (272) 115 5277</p>
                <form class="form-footer my-3">
-                  <input type="text" placeholder="Escribe tu email" name="search" style="width:250px;;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
+                  <input type="text" placeholder="Escribe tu email" name="search" style="width:180px;;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
                   <br><br>
-                  <input type="button" value="Enviar" style="width:140px;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
+                  <input type="button" value="Enviar" style="width:180px;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
                </form>
-               
             </div>
          </div>
       </div>
