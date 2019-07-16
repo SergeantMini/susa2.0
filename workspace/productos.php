@@ -111,16 +111,19 @@
                   	font-size: 35px;
                   	color: #ffffff;">SOV RUTAS</h3>
         </div>
-        <div class="row">
+        <br>
+        <div class="row" style="width:100%;">
           <p style="font-family: 'Roboto', sans-serif;
+                    width: 100%;
                   	font-weight: regular;
                   	text-align: left;
                   	padding-left: 10%;
                   	padding-bottom:10%;
                   	padding-right:10%;
                   	font-size: 17px;
-                  	color: #ffffff;">LA INFORMACIÓN QUE NECESITAS AL INSTANTE<br><br>
-</p>
+                  	color: #ffffff;">
+                 OBTENER EL CONTROL TOTAL DE LOS CLIENTES
+          </p>
         </div>
       </div>
     </div>

@@ -12,7 +12,7 @@
     <title>Intop Solutions</title>
   </head>
   <body>
-    
+  
     <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
     <div class="container" style="margin-left: 0px;">
       <a  class="navbar-left" href="index.php">
@@ -50,7 +50,8 @@
         <div style="background-image: url('Rectangulo_blanco_contacto.png');background-position:center;background-repeat: no-repeat;background-size:90% 100%;width:100%;padding-top:10%">
           <div class="row" style="padding-top:0%;">
           <div class="col-md-12" id="form_container">
-              <h2 style="font-family: 'Roboto', sans-serif;font-weight:bold;text-align:center;font-size:50px;"></br>Nosotros</h2>
+              <h2 style="font-family: 'Roboto', sans-serif;font-weight:bold;text-align:center;font-size:50px;padding-top:5%;">
+              Nosotros</h2>
               <hr style="border-top: 2px solid #8d8d8d;width:50px;" align="center">
               <br>
           </div>
@@ -65,8 +66,9 @@
                           	font-weight: medium;
                           	color: #4c4c4c;
                           	font-size: 23px;">
-                A través de la tecnología y la información realizamos sistemas que facilitará, mejorará y creará soluciones para tu empresa a costos accesibles. Adecuándose a las necesidades de tu empresa.
-              </text>
+                          	Somos una empresa que busca crear sistemas óptimos para convertir los problemas tanto operativos como administrativos en una ventaja competitiva.</br>
+                            Creándolos a través del uso de la tecnología y experiencia optimizando recursos y sistemas 
+                </text>
               </div>
             </div>
           </div>
@@ -80,10 +82,12 @@
                   <div class="row" >
                     <div class="col-sm-4" style="position: relative;">
                         <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
-                        <div class="container" align="center" style="padding-top:10%;text-align:center;">
-                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:18px;">APUESTA POR LA CALIDAD</h2>
+                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
+                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:18px;">
+                                APUESTA POR LA CALIDAD
+                              </h2>
                               <hr style="border-top: 1px solid white;width:60%;" align="center">
-                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:18px;font-weight:lighter;">
+                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;font-weight:lighter;">
                                 Todos nuestros sistemas </br>son creados con un </br>propósito, facilitar, generar </br>y optimizar con ayuda</br> de la tecnología la </br>experiencia de tu empresa
                               </p>
                         </div>
@@ -92,10 +96,12 @@
                     </div>
                     <div class="col-sm-4" style="position: relative;">
                         <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="padding-top:15%;background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;text-align:center;">
-                        <div class="container" style="padding-top:10%;text-align:center;">
-                              <h2 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:18px;">TRANSPARENCIA</h2>
+                        <div class="container" style="flex:1;padding-top:10%;text-align:center;width:80%;">
+                              <h2 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:18px;">
+                                TRANSPARENCIA
+                              </h2>
                               <hr style="border-top: 1px solid white;width:60%" align="center">
-                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:18px;font-weight:lighter;">
+                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;font-weight:lighter;">
                                 En INTOP apostamos por </br>la transparencia, desde el</br> inicio se tiene un trato</br> directo y personalizado </br>con cada cliente, brindando</br> la mejor atención</p>
                         </div>
                         <br><br><br><br>
@@ -103,8 +109,10 @@
                     </div>
                     <div class="col-sm-4" style="position: relative;">
                         <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="padding-top:15%;background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
-                        <div class="container" style="padding-top:10%;text-align:center;;">
-                              <h2 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:18px;">NUESTROS OBJETIVOS</h2>
+                        <div class="container" style="padding-top:10%;text-align:center;width:80%;">
+                              <h2 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:18px;">
+                                NUESTROS OBJETIVOS
+                              </h2>
                               <hr style="border-top: 1px solid white;width:60%" align="center">
                               <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:18px;font-weight:lighter;">
                                 Son cubrir las necesidades </br>de tu empresa, obtener un </br>control y una perspectiva </br>360º de tu empresa, </br>porque nos preocupamos </br>por ti

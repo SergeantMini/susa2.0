@@ -21,7 +21,7 @@
     <div class="container" style="margin-left: 0px;">
       <a  class="navbar-left" href="index.php">
             <img style="max-width:100%; max-height:100%;" src="Logo intop_blanco.svg" alt="">
-          </a>
+      </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -341,16 +341,18 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
       <div class="anim5">
-        <div class="container" align="center">
+        <div class="container" style="height:506px;" align="center">
           <div align="center" class="row" style="text-align:center;width:90%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:20%;padding-bottom:20%;width:100%;">Sistemas realizados con base en análisis nivel dirección y corporativos, estructurados por asesores de alto nivel y experiencia </h3>
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:20%;padding-bottom:20%;width:100%;">
+                Sistemas realizados con base en análisis nivel dirección y corporativos, estructurados por asesores de alto nivel y experiencia
+            </h3>
           </div>
         </div>
       </div>
     </div>
     <div class="carousel-item">
        <div class="anim6">
-         <div class="container" align="center">
+         <div class="container" style="height:506px;" align="center">
           <div align="center" class="row" style="text-align:center;width:90%;">
             <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:20%;padding-bottom:20%;width:100%;">
                 Enfocados en el desarrollo de sistemas que facilitaran las operaciones de tu empresa
@@ -361,7 +363,7 @@
     </div>
     <div class="carousel-item">
       <div class="anim7">
-        <div class="container" align="center">
+        <div class="container" style="height:506px;" align="center">
           <div align="center" class="row" style="text-align:center;width:90%;">
             <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:20%;padding-bottom:20%;width:100%;">
                 Fáciles de usar ·  Confiables · Prácticos · Innovadores · Útiles 
@@ -372,10 +374,10 @@
     </div>
     <div class="carousel-item">
       <div class="anim8">
-        <div class="container" align="center">
+        <div class="container" style="height:506px;" align="center">
           <div align="center" class="row" style="text-align:center;width:90%;">
             <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:20%;padding-bottom:20%;width:100%;">
-                Todos nuestros sistemas cuentan con un portal web para su administración y aplicaciones móviles para el personal
+                Todos nuestros sistemas cuentan </br>con un portal web para su administración</br> y aplicaciones móviles para el personal
             </h3>
           </div>
         </div>

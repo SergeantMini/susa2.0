@@ -57,99 +57,12 @@
               	color: #000000">Servicios</h2>
     </div>
   </div>
-  <div class="row">
-    <div class="col-sm">
-      <h5 style="font-family: 'Roboto', sans-serif;
-              	font-weight: medium;
-              	text-align: center;
-              	padding-top: 15px;
-              	padding-bottom: 10px;
-              	color: #4c4c4c;">DE RENTA</h5>
-    </div>
-  </div>
-</div>
+ </div>
 
-<br>
+<br><br>
 
 <div class="container" style="width:100%;">
-  <div class="row flex-column-reverse flex-md-row" style="display: flex;">
-    <div class="col-sm-4 form-group" style="display: flex;
-                                            display: -webkit-flex;
-                                            flex-wrap: wrap;">
-      <div class="container" style="width:100%;">
-        <div class="row" style="background-color: #982A27;height:100px;">
-        </div>
-        <br>
-        <div class="row" style="background-color: #4C4C4C ;">
-          <p style="font-family: 'Roboto', sans-serif; width:100%;
-              	font-weight: bold;
-              	text-align: left;
-              	padding-top: 20%;;
-              	padding-bottom: 20%;
-              	padding-left: 7%;
-              	padding-right:10%;
-              	font-size: 22px;
-              	color: #ffffff;">Nuestros productos te garantizarán la seguridad de tu información</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-8 form-group" style="background-color: #D8D8D8;display: flex;
-                                            display: -webkit-flex;
-                                            flex-wrap: wrap;">
-      <br>
-      <div class="container">
-        <div class="row">
-          <h3 style="font-family: 'Roboto', sans-serif; width:100%;
-                  	font-weight: bold;
-                  	text-align: left;
-                  	padding-left: 7%;
-                  	padding-top:20%;
-                  	font-size: 40px;
-                  	color: #000000;">PÓLIZA DE SEGURO</h3>
-        </div>
-        <div class="row">
-          <p style="font-family: 'Roboto', sans-serif;
-                  	font-weight: regular;
-                  	text-align: left;
-                  	padding-left: 7%;
-                  	padding-bottom:10%;
-                  	padding-right:10%;
-                  	font-size: 22px;
-                  	color: #000000;">Contamos con el servicio de contratación adicional de una póliza de seguro.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <br>
-  
-  <div class="row" style="display: flex;">
-    <div class="col-sm-8 form-group" style="background-color: #D8D8D8;display: flex;
-                                            display: -webkit-flex;
-                                            flex-wrap: wrap;">
-      <br>
-      <div class="container">
-        <div class="row">
-          <h3 style="font-family: 'Roboto', sans-serif; width:100%;
-                  	font-weight: bold;
-                  	text-align: left;
-                  	padding-left: 7%;
-                  	padding-top:20%;
-                  	font-size: 40px;
-                  	color: #000000;">TRAJE A LA MEDIDA</h3>
-        </div>
-        <div class="row">
-          <p style="font-family: 'Roboto', sans-serif;
-                  	font-weight: regular;
-                  	text-align: left;
-                  	padding-left: 7%;
-                  	padding-bottom:10%;
-                  	padding-right:10%;
-                  	font-size: 22px;
-                  	color: #000000;">Implementamos soluciones de sistemas que permiten que su gestión administrativa y comercial trabaje de manera simultánea en nuestros portales web y en nuestra aplicación.</p>
-        </div>
-      </div>
-    </div>
+<div class="row flex-column-reverse flex-md-row" style="display: flex;">
     <div class="col-sm-4 form-group" style="display: flex;
                                             display: -webkit-flex;
                                             flex-wrap: wrap;">
@@ -166,35 +79,40 @@
               	padding-left: 7%;
               	padding-right:10%;
               	font-size: 22px;
-              	color: #ffffff;">Creamos sistemas de acuerdo a tus necesidades</p>
+              	color: #ffffff;">Lo más importante son nuestros clientes</p>
         </div>
       </div>
     </div>
-  </div>
-  
-  <br>
-  
-  <div class="row flex-column-reverse flex-md-row" style="display: flex;">
-    <div class="col-sm-4 form-group" style="display: flex;
+    <div class="col-sm-8 form-group" style="background-color: #D8D8D8;display: flex;
                                             display: -webkit-flex;
                                             flex-wrap: wrap;">
-      <div class="container" style="width:100%;">
-        <div class="row" style="background-color: #982A27;height:100px;">
+      <br>
+      <div class="container">
+        <div class="row">
+          <h3 style="font-family: 'Roboto', sans-serif; width:100%;
+                  	font-weight: bold;
+                  	text-align: left;
+                  	padding-left: 7%;
+                  	padding-top:20%;
+                  	font-size: 40px;
+                  	color: #000000;">SOPORTE TÉCNICO</h3>
         </div>
-        <br>
-        <div class="row" style="background-color: #4C4C4C ;">
-          <p style="font-family: 'Roboto', sans-serif; width:100%;
-              	font-weight: bold;
-              	text-align: left;
-              	padding-top: 20%;;
-              	padding-bottom: 20%;
-              	padding-left: 7%;
-              	padding-right:10%;
-              	font-size: 22px;
-              	color: #ffffff;">Para facturar se debe de hacer en un periodo de 30 días desde la fecha</p>
+        <div class="row">
+          <p style="font-family: 'Roboto', sans-serif;
+                  	font-weight: regular;
+                  	text-align: left;
+                  	padding-left: 7%;
+                  	padding-bottom:10%;
+                  	padding-right:10%;
+                  	font-size: 22px;
+                  	color: #000000;">Contamos con asistencia técnica para resolver cualquier eventualidad que se llegue a presentar, en un horario 24/7 los 365 días del año</p>
         </div>
       </div>
     </div>
+    
+  <br>
+  
+  <div class="row" style="display: flex;">
     <div class="col-sm-8 form-group" style="background-color: #D8D8D8;display: flex;
                                             display: -webkit-flex;
                                             flex-wrap: wrap;">
@@ -221,37 +139,6 @@
         </div>
       </div>
     </div>
-  </div>
-  
-  <br>
-  
-  <div class="row" style="display: flex;">
-    <div class="col-sm-8 form-group" style="background-color: #D8D8D8;display: flex;
-                                            display: -webkit-flex;
-                                            flex-wrap: wrap;">
-      <br>
-      <div class="container">
-        <div class="row">
-          <h3 style="font-family: 'Roboto', sans-serif; width:100%;
-                  	font-weight: bold;
-                  	text-align: left;
-                  	padding-left: 7%;
-                  	padding-top:20%;
-                  	font-size: 40px;
-                  	color: #000000;">SOPORTE TÉCNICO</h3>
-        </div>
-        <div class="row">
-          <p style="font-family: 'Roboto', sans-serif;
-                  	font-weight: regular;
-                  	text-align: left;
-                  	padding-left: 7%;
-                  	padding-bottom:10%;
-                  	padding-right:10%;
-                  	font-size: 22px;
-                  	color: #000000;">Contámos con un soporte técnico 24/7 y los 365 días de año. Estamos para responder cualquier inquietud o duda que llegará a surgir.</p>
-        </div>
-      </div>
-    </div>
     <div class="col-sm-4 form-group" style="display: flex;
                                             display: -webkit-flex;
                                             flex-wrap: wrap;">
@@ -268,12 +155,67 @@
               	padding-left: 7%;
               	padding-right:10%;
               	font-size: 22px;
-              	color: #ffffff;">Nos diferencia nuestra atención al cliente</p>
+              	color: #ffffff;">Nuestros sistemas y servicios son 100% deducibles de impuestos</p>
         </div>
       </div>
     </div>
   </div>
-</div>
+  
+  <br>
+  
+  <div class="row flex-column-reverse flex-md-row" style="display: flex;">
+    <div class="col-sm-4 form-group" style="display: flex;
+                                            display: -webkit-flex;
+                                            flex-wrap: wrap;">
+      <div class="container" style="width:100%;">
+        <div class="row" style="background-color: #982A27;height:100px;">
+        </div>
+        <br>
+        <div class="row" style="background-color: #4C4C4C ;">
+          <p style="font-family: 'Roboto', sans-serif; width:100%;
+              	font-weight: bold;
+              	text-align: left;
+              	padding-top: 20%;;
+              	padding-bottom: 32%;
+              	padding-left: 7%;
+              	padding-right:10%;
+              	font-size: 22px;
+              	color: #ffffff;">Creamos sistemas de acuerdo a las necesidades de tu empresa</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-8 form-group" style="background-color: #D8D8D8;display: flex;
+                                            display: -webkit-flex;
+                                            flex-wrap: wrap;">
+      <br>
+      <div class="container">
+        <div class="row">
+          <h3 style="font-family: 'Roboto', sans-serif; width:100%;
+                  	font-weight: bold;
+                  	text-align: left;
+                  	padding-left: 7%;
+                  	padding-top:20%;
+                  	font-size: 40px;
+                  	color: #000000;">TRAJE A LA MEDIDA</h3>
+        </div>
+        <div class="row">
+          <p style="font-family: 'Roboto', sans-serif;
+                  	font-weight: regular;
+                  	text-align: left;
+                  	padding-left: 7%;
+                  	padding-bottom:10%;
+                  	padding-right:10%;
+                  	font-size: 22px;
+                  	color: #000000;">Implementamos soluciones en sistemas los cuales permiten que la operación administrativa y comercial se realice de una forma fácil y sencilla. </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+  
+  <br>
+  
+  </div>
 
 <BR><BR>
 
