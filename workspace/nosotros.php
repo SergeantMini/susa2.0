@@ -75,20 +75,17 @@
           <br><br>
           <div class="row">
             <div class="col-md-12" style="width:100%">
-                <div style="position: relative; top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);width:80%;text-align:left;">
+                <div style="position: relative; top: 50%;left: 50%; -webkit-transform: translate(-50%, -50%);transform: translate(-50%, -50%);width:80%;text-align:left;">
                   <div class="row" >
-                    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
+                    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap" class="col-sm-12 col-md-6 col-lg-3">
+                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="flex:1;background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
                         <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
                               <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
                                 APUESTA POR LA CALIDAD
                               </h2>
                               <hr style="border-top: 1px solid white;width:60%;" align="center">
                               <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:15px;font-weight:lighter;">
-                                Todos nuestros sistemas </br>son creados con un </br>propósito, facilitar, generar </br>y optimizar con ayuda</br> de la tecnología la </br>experiencia de tu empresa
+                                Todos nuestros sistemas son creados con un propósito, facilitar, generar y optimizar con ayuda de la tecnología la experiencia de tu empresa
                               </p>
                               <br><br>
                         </div>
@@ -96,14 +93,15 @@
                 </div>
                 
                 <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
+                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="flex:1;background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
                         <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
+                        <br>
                               <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
                                 TRANSPARENCIA
                               </h2>
                               <hr style="border-top: 1px solid white;width:60%;" align="center">
                               <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:15px;font-weight:lighter;">
-                                En INTOP apostamos por </br>la transparencia, desde el</br> inicio se tiene un trato</br> directo y personalizado </br>con cada cliente, brindando</br> la mejor atención</p>
+                                En INTOP apostamos por la transparencia, desde el inicio se tiene un trato directo y personalizado con cada cliente, brindando la mejor atención</p>
                               </p>
                               <br><br>
                         </div>
@@ -111,14 +109,14 @@
                 </div>
                 
                 <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
-                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
+                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" align="center" style="flex:1;background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
+                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:75%;">
                               <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
                                 NUESTROS OBJETIVOS
                               </h2>
                               <hr style="border-top: 1px solid white;width:60%;" align="center">
                               <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:15px;font-weight:lighter;">
-                                Son cubrir las necesidades </br>de tu empresa, obtener un </br>control y una perspectiva </br>360º de tu empresa, </br>porque nos preocupamos </br>por ti
+                                Son cubrir las necesidades de tu empresa, obtener un control y una perspectiva 360º de tu empresa, porque nos preocupamos por ti
                               </p>
                               <br><br>
                         </div>
@@ -126,8 +124,8 @@
                 </div>
                 
                 <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
-                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
+                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="flex:1;background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
+                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:75%;">
                               <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
                                 NUESTROS VALORES
                               </h2>
@@ -140,6 +138,7 @@
                                 · Colaboración</br>
                                 · Integración
                               </p>
+                             <br><br>
                         </div>
                       </div>
                 </div>
@@ -151,107 +150,41 @@
     </div>
 </div>
 
-<div class="container">
-  <div class="row">
-    <div class="col-sm">
-      <h2 style="	font-family: 'Roboto', sans-serif;
-	font-weight: medium;
-	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 10px; color: black;" class="titulo">NUESTROS VALORES</h2>
-    </div>
-  </div>
-</div>
+<br><br><br>
 
-<br>
-
-<div class="container">
-  <div class="row">
-    <div style="display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-      <div class="card" style="flex:1;">
-  <div class="card-body">
-    <h5 style="text-align: left;
-	color: black;
-	font-size: 33px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;">Empatizar</h5>
-    <p style="text-align: left;
-	color: #4c4c4c;
-	font-size: 15px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;">Nos gusta conocer a nuestros clientes, sus inquietudes y sus opiniones y poder solucionarlas en conjunto</p>
-  </div>
-</div>
+<div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('fondo-frase.png');background-repeat: no-repeat;background-size:100% 100%;">
+  <div class="container" align="center" style="width:100%;">
+    <div align="center" class="row" style="text-align:center;width:100%;">
+      <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;"><br><br>MISIÓN</h1>
     </div>
-    <div style="display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-      <div class="card" style="flex:1;">
-  <div class="card-body">
-    <h5 style="text-align: left;
-	color: black;
-	font-size: 33px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;">Mejorar</h5>
-    <p style="text-align: left;
-	color: #4c4c4c;
-	font-size: 15px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;">Buscamos día a día generar propuestas que puedan ayudar otros proyectos y empresas</p>
-  </div>
-</div>
-    </div>
-    <div style="display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;"  class="col-sm-12 col-md-6 col-lg-3">
-      <div class="card" style="flex:1;">
-  <div class="card-body">
-    <h5 style="text-align: left;
-	color: black;
-	font-size: 33px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;">Pasión</h5>
-    <p style="text-align: left;
-	color: #4c4c4c;
-	font-size: 15px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;">Nos encanta nuestro trabajo y rodearnos de personas que lo disfruten como nosotros</p>
-  </div>
-</div>
-    </div>
-    <div style="display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;"  class="col-sm-12 col-md-6 col-lg-3">
-      <div class="card" style="flex:1;">
-  <div class="card-body">
-    <h5 style="text-align: left;
-	color: black;
-	font-size: 28px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;">Disciplina</br> Responsabilidad </br> Colaboración </br> Integridad</h5>
-  </div>
-</div>
+    <br><br><br>
+    <div class="row" style="text-align:center;width:100%;">
+      <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+        Mediante un conjunto de conocimientos y experiencia nos especializamos en la creación de herramientas, procesos y sistemas que permiten a las empresas extender y potenciar su desarrollo, haciéndolo de una forma fácil y sencilla. 
+        </br></br></br></br>
+      </h4>
     </div>
   </div>
 </div>
 
 <br><br><br>
 
-<div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('fondo-frase.png');background-repeat: no-repeat;background-size:100% 100%;">
+<div id="carouselExampleIndicators3" class="carousel slide" data-ride="carousel" style="background-image: url('fondo-frase.png');background-repeat: no-repeat;background-size:100% 100%;">
   <div class="container" align="center" style="width:100%;">
     <div align="center" class="row" style="text-align:center;width:100%;">
-      <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;"><br><br>MISIÓN Y VISIÓN</h1>
+      <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;"><br><br>VISIÓN</h1>
     </div>
     <br><br><br>
     <div class="row" style="text-align:center;width:100%;">
-      <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">Generar y desarrollar los mejores sistemas tecnológicos,</br> que facilitara y generará un mayor control a tu empresa,</br> ofreciendo un crecimiento y optimizando las utilidades</br> de tu tiempo y empresa. Contamos con soluciones efectivas, </br>experiencia y facilidad en todos nuestros sistemas.
-     </br></br></br></br></h4>
+      <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+      A través de la tecnología buscamos soluciones que contribuyen a resolver de manera efectiva, rápida y eficiente algunos de los problemas que día a día se presentan en su empresa. 
+Alcance en reportería y análisis a nivel operativo, gerencial y de consejos de administración, que coadyuvan a la toma de decisiones. 
+</br></br></br></br></h4>
     </div>
   </div>
 </div>
 
+<br><br><br>
 
 <!-- Footer -->
 
@@ -266,6 +199,7 @@
                   <br>
                   <p style="color: #4c4c4c;">Soluciones operativas integrales para mejores análisis y toma de decisiones, todos nuestros sistemas son autofinanciables, se traduce en utilidades</p>
                   <p style="color: #4c4c4c;">© 2019 INTOP Solutions</p>
+                  <p style="color: #4c4c4c;">Operado por GRAMA SAPI DE CV</p>
                </div>
             </div>
             <div class="col-md-6 px-4">
