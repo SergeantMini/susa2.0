@@ -183,31 +183,37 @@
         <div class="card-body">
           <p class="card-text textoTarjeta">
             Obtén la posibilidad una persona que no conoce la ruta puede realizarla al 100%. Convirtiéndola en una ventaja competitiva.
-         </p>
-          <div class="row" style="border-top: 1px solid #DDDDDD;">
-            <div class="col-sm-9">
-              <h5 style="padding-top: 7px;
-                      	text-align: left;
-                      	color: white;
-                      	font-size: 26px;
-                      	font-family: 'Roboto', sans-serif;
-                      	font-weight: normal;
-                      	float: left;
-      	                width: 100%;">SOV Rutas</h5>
-            </div>
-            <div class="col-sm-3">
-              <a href="sovrutas.php">
-                <text style="padding-top: 7px;
-                          	text-align: right;
-                          	color: white;
-                          	font-size: 26px;
-                          	font-family: 'Roboto', sans-serif;
-                          	font-weight: normal;
-                          	float: left;
-                          	width: 100%;">></text>
-              </a>
-            </div>
-          </div>
+         </p><br><br>
+          <table style="width:100%;">
+        <tr style="border-top: 1px solid #DDDDDD;">
+            <td>
+                <h5 style="padding-top: 7px;
+            	text-align: left;
+            	color: white;
+            	font-size: 26px;
+            	font-family: 'Roboto', sans-serif;
+            	font-weight: normal;
+            	float: left;
+            	width: 100%;">
+            	   SOV Rutas
+            	</h5>
+            </td>
+            <td>
+                <a href="sovrutas.php">
+                    <text style="padding-top: 7px;
+                	text-align: right;
+                	color: white;
+                	font-size: 26px;
+                	font-family: 'Roboto', sans-serif;
+                	font-weight: normal;
+                	float: left;
+                	width: 100%;">
+                	   >
+                	</text>
+            	</a>
+            </td>
+        </tr>
+    </table>
   </div>
 </div>
     </div>
@@ -216,30 +222,38 @@
   <img src="aparatos_autotransporte_parte3.gif" class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text textoTarjeta">
-        Geoposiciona las rutas de tus vendedores</br>·Cambio de estatus durante el recorido en tiempo real </br>·Sistema de alarma</br>·Geolocalización de unidades
+        Geoposiciona las rutas de tus vendedores</br>·Cambio de estatus durante el recorrido en tiempo real </br>·Sistema de alarma</br>·Geolocalización de unidades
     </p>
-    <div class="row" style="border-top: 1px solid #DDDDDD;">
-      <div class="col-sm-10">
-        <h5 style="padding-top: 7px;
-	text-align: left;
-	color: white;
-	font-size: 26px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;
-	float: left;
-	width: 100%;">SOV Autotransporte</h5>
-      </div>
-      <div class="col-sm-2">
-        <a href="sovautotransporte.php"><text style="padding-top: 7px;
-	text-align: right;
-	color: white;
-	font-size: 26px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;
-	float: left;
-	width: 100%;">></text></a>
-      </div>
-    </div>
+    <table style="width:100%;">
+        <tr style="border-top: 1px solid #DDDDDD;">
+            <td>
+                <h5 style="padding-top: 7px;
+            	text-align: left;
+            	color: white;
+            	font-size: 26px;
+            	font-family: 'Roboto', sans-serif;
+            	font-weight: normal;
+            	float: left;
+            	width: 100%;">
+            	   SOV Autotransporte
+            	</h5>
+            </td>
+            <td>
+                <a href="sovautotransporte.php">
+                    <text style="padding-top: 7px;
+                	text-align: right;
+                	color: white;
+                	font-size: 26px;
+                	font-family: 'Roboto', sans-serif;
+                	font-weight: normal;
+                	float: left;
+                	width: 100%;">
+                	   >
+                	</text>
+            	</a>
+            </td>
+        </tr>
+    </table>
   </div>
 </div>
     </div>
@@ -247,30 +261,39 @@
       <div class="card tarjeta" style="flex: 1;">
   <img src="aparatos_evaluacion_parte3.gif" class="card-img-top" alt="...">
   <div class="card-body">
-    <p class="card-text textoTarjeta">Obtener una visión integral de 360º de tu empresa , generando una calificación desde 3 perspectivas, nos brinda un resultado efectivo y objetivo</p>
-    <div class="row" style="border-top: 1px solid #DDDDDD;">
-      <div class="col-sm-10">
-        <h5 style="padding-top: 7px;
-	text-align: left;
-	color: white;
-	font-size: 26px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;
-	float: left;
-	width: 100%;">SOV Evaluación</h5>
-      </div>
-      <div class="col-sm-2">
-      <a href="sovevaluacion.php">
-        <text style="padding-top: 7px;
-	text-align: right;
-	color: white;
-	font-size: 26px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;
-	float: left;
-	width: 100%;">></text></a>
-      </div>
-    </div>
+    <p class="card-text textoTarjeta">
+        Obtener una visión integral de 360º de tu empresa , generando una calificación desde 3 perspectivas, nos brinda un resultado efectivo y objetivo
+    </p><br>
+    <table style="width:100%;">
+        <tr style="border-top: 1px solid #DDDDDD;">
+            <td>
+                <h5 style="padding-top: 7px;
+            	text-align: left;
+            	color: white;
+            	font-size: 26px;
+            	font-family: 'Roboto', sans-serif;
+            	font-weight: normal;
+            	float: left;
+            	width: 100%;">
+            	   SOV Evaluación
+            	</h5>
+            </td>
+            <td>
+                <a href="sovevaluacion.php">
+                    <text style="padding-top: 7px;
+                	text-align: right;
+                	color: white;
+                	font-size: 26px;
+                	font-family: 'Roboto', sans-serif;
+                	font-weight: normal;
+                	float: left;
+                	width: 100%;">
+                	   >
+                	</text>
+            	</a>
+            </td>
+        </tr>
+    </table>
   </div>
 </div>
     </div>
@@ -343,7 +366,7 @@
       <div class="anim5">
         <div class="container" style="height:506px;" align="center">
           <div align="center" class="row" style="text-align:center;width:90%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:20%;padding-bottom:20%;width:100%;">
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:200px;width:100%;">
                 Sistemas realizados con base en análisis nivel dirección y corporativos, estructurados por asesores de alto nivel y experiencia
             </h3>
           </div>
@@ -354,7 +377,7 @@
        <div class="anim6">
          <div class="container" style="height:506px;" align="center">
           <div align="center" class="row" style="text-align:center;width:90%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:20%;padding-bottom:20%;width:100%;">
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:200px;width:100%;">
                 Enfocados en el desarrollo de sistemas que facilitaran las operaciones de tu empresa
             </h3>
             </div>
@@ -365,7 +388,7 @@
       <div class="anim7">
         <div class="container" style="height:506px;" align="center">
           <div align="center" class="row" style="text-align:center;width:90%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:20%;padding-bottom:20%;width:100%;">
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:220px;width:100%;">
                 Fáciles de usar ·  Confiables · Prácticos · Innovadores · Útiles 
             </h3>
           </div>
@@ -375,8 +398,8 @@
     <div class="carousel-item">
       <div class="anim8">
         <div class="container" style="height:506px;" align="center">
-          <div align="center" class="row" style="text-align:center;width:90%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:20%;padding-bottom:20%;width:100%;">
+          <div align="center" class="row" style="text-align:center;width:90%;vertical-align:middle;">
+            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:170px;width:100%;height:506px;">
                 Todos nuestros sistemas cuentan </br>con un portal web para su administración</br> y aplicaciones móviles para el personal
             </h3>
           </div>
@@ -458,13 +481,18 @@
             </div>
             <div class="col-md-6 ">
                <h6 style="color: white;">CONTÁCTANOS</h6>
-               <p style="color: #4c4c4c;">ventas@intop.solutions<br/>+52 (272) 115 5277</p>
+               <p style="color: #4c4c4c;">ventas@intop.solutions</p>
+               <!--p style="color: #4c4c4c;font-size:13px;">TELEFONOS MEXICO</br>
+                    Oficinas</br>
+                    + 52 (272) 115 52 77</br>
+                    Ventas</br>
+                    +52 (442) 624 77 53
+               </p-->
                <form class="form-footer my-3">
                   <input type="text" placeholder="Escribe tu email" name="search" style="width:180px;;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
                   <br><br>
                   <input type="button" value="Enviar" style="width:180px;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
                </form>
-               
             </div>
          </div>
       </div>

@@ -65,10 +65,14 @@
                     <br>
                     <label for="vintop" style="color:#4c4c4c;padding-top:%;font-size:15px;">EMAIL</label></br>
                     <text id="vintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">ventas@intop.solutions</text>
-                    <br>
-                    <label for="tintop" style="color:#4c4c4c;font-size:15px;">TELÉFONO</label></br>
-                    <text id="tintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">+ 52 (272) 115 5277</text>
-                    <br>
+                    <br><br>
+                    <label for="tintop" style="color:#4c4c4c;font-size:15px;">TELÉFONOS MÉXICO</label></br>
+                    <text id="tintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">Oficinas</br>
+                        + 52 (272) 115 52 77</br>
+                        Ventas</br>
+                        +52 (442) 624 77 53 
+                    </text>
+                    <br><br>
                     <label for="dintop" style="color:#4c4c4c;font-size:15px;">DIRECCIÓN</label></br>
                     <text id="dintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">Camino Real #38 Int B, Col. Los Pinos</br> C.P. 94732 <text style="font-family: 'Roboto', sans-serif;color:#4c4c4c;">Río Blanco, Veracruz</text></text>
                     <hr style="border-top: 1px solid #8d8d8d;width:62%;" align="left">
@@ -122,7 +126,7 @@
 <br><br><br><br><br>
 
 <div style="padding-left:10%;">
-  <h2 style="font-family: 'Roboto', sans-serif;">DIRECCIÓN 1</h2>
+  <h2 style="font-family: 'Roboto', sans-serif;">OFICINAS</h2>
   <p style="font-family: 'Roboto', sans-serif;">CAMINO REAL #38 INT B, COL. LOS PINOS</br>C.P. 94732 RÍO BLANCO, VERACRUZ</p>
 </div>
 
@@ -136,7 +140,7 @@
 </iframe>
 <br><br><br><br>
 <div style="padding-left:10%;">
-<h2 style="font-family: 'Roboto', sans-serif;">DIRECCIÓN 2</h2>
+<h2 style="font-family: 'Roboto', sans-serif;">VENTAS</h2>
 <p style="font-family: 'Roboto', sans-serif;">RUFINO TAMAYO 4D, COL. PUEBLA NUEVO</br>C.P. 76900 CORREGIDORA QUERÉTARO, QUERÉTARO</p>
 </div>
 <iframe style="width:100%; height:300px;" 
@@ -164,6 +168,7 @@
                   <br>
                   <p style="color: #4c4c4c;">Soluciones operativas integrales para mejores análisis y toma de decisiones, todos nuestros sistemas son autofinanciables, se traduce en utilidades</p>
                   <p style="color: #4c4c4c;">© 2019 INTOP Solutions</p>
+                  <p style="color: #4c4c4c;">Operado por GRAMA SAPI DE CV</p>
                </div>
             </div>
             <div class="col-md-6 px-4">
@@ -177,8 +182,6 @@
          <div class="row">
             <div class="col-md-6 px-4">
                <h6 style="color: white;">MENÚ</h6>
-               <div class="row ">
-                  <div class="col-md-6">
                      <ul style="list-style-type:none;padding-left:-20px;padding-inline-start: 0px;">
                         <li> <a style="color: #4c4c4c;" href="index.php">INICIO</a> </li>
                         <li> <a style="color: #4c4c4c;" href="productos.php">PRODUCTOS (SISTEMAS)</a> </li>
@@ -186,19 +189,21 @@
                         <li> <a style="color: #4c4c4c;" href="nosotros.php">COMPAÑÍA</a> </li>
                         <li> <a style="color: #4c4c4c;" href="contacto.php">CONTACTO</a> </li>
                      </ul>
-                  </div>
-                  
-               </div>
             </div>
             <div class="col-md-6 ">
                <h6 style="color: white;">CONTÁCTANOS</h6>
-               <p style="color: #4c4c4c;">ventas@intop.solutions<br/>+52 (272) 115 5277</p>
+               <p style="color: #4c4c4c;">ventas@intop.solutions</p>
+               <p style="color: #4c4c4c;font-size:13px;">TELEFONOS MEXICO</br>
+                    Oficinas</br>
+                    + 52 (272) 115 52 77</br>
+                    Ventas</br>
+                    +52 (442) 624 77 53
+               </p>
                <form class="form-footer my-3">
-                  <input type="text" placeholder="Escribe tu email" name="search" style="width:250px;;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
+                  <input type="text" placeholder="Escribe tu email" name="search" style="width:180px;;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
                   <br><br>
-                  <input type="button" value="Enviar" style="width:140px;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
+                  <input type="button" value="Enviar" style="width:180px;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
                </form>
-               
             </div>
          </div>
       </div>

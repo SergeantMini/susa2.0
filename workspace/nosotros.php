@@ -80,48 +80,70 @@
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);width:80%;text-align:left;">
                   <div class="row" >
-                    <div class="col-sm-4" style="position: relative;">
+                    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
                         <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
                         <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
-                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:18px;">
+                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
                                 APUESTA POR LA CALIDAD
                               </h2>
                               <hr style="border-top: 1px solid white;width:60%;" align="center">
-                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;font-weight:lighter;">
+                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:15px;font-weight:lighter;">
                                 Todos nuestros sistemas </br>son creados con un </br>propósito, facilitar, generar </br>y optimizar con ayuda</br> de la tecnología la </br>experiencia de tu empresa
                               </p>
+                              <br><br>
                         </div>
-                        <br><br><br><br>
                       </div>
-                    </div>
-                    <div class="col-sm-4" style="position: relative;">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="padding-top:15%;background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;text-align:center;">
-                        <div class="container" style="flex:1;padding-top:10%;text-align:center;width:80%;">
-                              <h2 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:18px;">
+                </div>
+                
+                <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
+                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
+                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
+                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
                                 TRANSPARENCIA
                               </h2>
-                              <hr style="border-top: 1px solid white;width:60%" align="center">
-                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;font-weight:lighter;">
+                              <hr style="border-top: 1px solid white;width:60%;" align="center">
+                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:15px;font-weight:lighter;">
                                 En INTOP apostamos por </br>la transparencia, desde el</br> inicio se tiene un trato</br> directo y personalizado </br>con cada cliente, brindando</br> la mejor atención</p>
+                              </p>
+                              <br><br>
                         </div>
-                        <br><br><br><br>
                       </div>
-                    </div>
-                    <div class="col-sm-4" style="position: relative;">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="padding-top:15%;background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
-                        <div class="container" style="padding-top:10%;text-align:center;width:80%;">
-                              <h2 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:18px;">
+                </div>
+                
+                <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
+                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
+                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
+                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
                                 NUESTROS OBJETIVOS
                               </h2>
-                              <hr style="border-top: 1px solid white;width:60%" align="center">
-                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:18px;font-weight:lighter;">
+                              <hr style="border-top: 1px solid white;width:60%;" align="center">
+                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:15px;font-weight:lighter;">
                                 Son cubrir las necesidades </br>de tu empresa, obtener un </br>control y una perspectiva </br>360º de tu empresa, </br>porque nos preocupamos </br>por ti
                               </p>
+                              <br><br>
                         </div>
-                        <br><br><br><br>
                       </div>
-                    </div>
-                  </div>
+                </div>
+                
+                <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
+                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
+                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
+                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
+                                NUESTROS VALORES
+                              </h2>
+                              <hr style="border-top: 1px solid white;width:60%;" align="center">
+                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:15px;font-weight:lighter;">
+                                · Empatía</br>
+                                · Compromiso</br>
+                                · Mejora continua</br>
+                                · Responsabilidad</br>
+                                · Colaboración</br>
+                                · Integración
+                              </p>
+                        </div>
+                      </div>
+                </div>
+                
                 </div>
             </div>
           </div>
