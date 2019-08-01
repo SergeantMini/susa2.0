@@ -174,12 +174,70 @@
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <h2 class="titulo">GENERADOR DE INDICADORES</h2>
-    </div>
+    <table align="right">
+        <tr>
+            <td style="border-left: 4px solid #002E54;size:contain;">
+                <h2 class="titulo" style="text-align:right;color:#002E54;font-weight:medium;">GENERADOR DE INDICADORES</h2>
+                <h5 class="subtitulo" style="text-align:right;color: #002E54;">APOYAN UN PROCESO SENCILLO Y CLARO</h5> 
+            </td>
+        </tr>
+    </table>
+      </div>
   </div>
-  <div class="row">
-    <div class="col-sm">
-      <h5 class="subtitulo">APOYAN UN PROCESO SENCILLO Y CLARO</h5>
+</div>
+
+<br><br>
+
+<div class="container">
+    <div class="row" style="text-algin:center;width:100%;" align="center">
+        <div class="container">
+            <div class="row" style="padding-bottom:%;">
+                <div class="col-sm" style="display:flex;">
+                    <div class="card tarjeta" style="background:transparent;border-color:white;">
+                        <div class="card-body">
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">Certfica que todos los clientes correspondientes al día se visitaron</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm" style="display:flex;">
+                    <div class="card tarjeta" style="background:transparent;border-color:white;">
+                        <div class="card-body">
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">Conocer los horarios y ubicación en que el vendedor realiza las operaciones</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm" style="display:flex;">
+                    <div class="card tarjeta" style="background:transparent;border-color:white;">
+                        <div class="card-body">
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">Libro de rutas actualizado en forma automática</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row" style="padding-bottom:%;">
+                <div class="col-sm" style="display:flex;">
+                    <div class="card tarjeta" style="background:transparent;border-color:white;">
+                        <div class="card-body">
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">Punteo en mapas electrónicos al 100%, actualizados en forma automática</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm" style="display:flex;">
+                    <div class="card tarjeta" style="background:transparent;border-color:white;">
+                        <div class="card-body">
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">Carga óptima en ruta de reparto</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm" style="display:flex;">
+                    <div class="card tarjeta" style="background:transparent;border-color:white;">
+                        <div class="card-body">
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">Reporte de pedidos contra surtido por cliente</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
   </div>
 </div>
@@ -187,108 +245,70 @@
 <br><br>
 
 <div class="container">
-  <div class="row">
+    <table>
+        <tr>
+            <td style="border-left: 4px solid #002E54;size:contain;">
+                <h5 class="subtitulo" style="text-align:left;color: #002E54;">LAS PRINCIPALES DESVIACIONES COMERCIALES CONTEMPLADAS EN CUALQUIER OPERACIÓN ESTÁN CONTEMPLADAS EN EL SISTEMA SOV</h5> 
+            </td>
+        </tr>
+    </table>
+    <br>
+  <div class="row" >
     <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-      <div class="card" style="flex:1;">
+      <div class="card" style="flex:1;border: solid 2px #002E54;">
   <div class="card-body">
-    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Tener la posibilidad de que una persona que no conoce la ruta la pueda realizar al 100%</p>
+    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;color:#002E54;font-weight:bold;">La posibilidad de que una persona que no conoce la ruta la pueda realizar</p>
   </div>
 </div>
     </div>
     <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-      <div class="card" style="flex:1;">
+      <div class="card" style="flex:1;border: solid 2px #002E54;">
   <div class="card-body">
-    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Tener libros de ruta actualizando en forma automática</p>
+    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;color:#002E54;font-weight:bold;">Los precios a los que se le vende a cada</p>
   </div>
 </div>
     </div>
     <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-      <div style="flex:1;" class="card">
+      <div style="flex:1;border: solid 2px #002E54;" class="card">
   <div class="card-body">
-    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Punteo en mapas electrónico al 100%, actualizados en forma automática</p>
+    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;color:#002E54;font-weight:bold;">Los clientes en dispositivo</p>
   </div>
 </div>
     </div>
     <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
+      <div style="flex:1;border: solid 2px #002E54;" class="card">
   <div class="card-body">
-    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Registro de visita a cliente por horario y por los no visitadosan</p>
+    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;color:#002E54;font-weight:bold;">Conocer si cada ruta tiene la cobertura adecuada</p>
   </div>
 </div>
     </div>
   </div>
-  <div class="row" style="padding-top:2%;">
+  <div class="row" style="padding-top:%;">
     <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
+      <div style="flex:1;border: solid 2px #002E54;background-color:#002E54;" class="card">
         <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conoce la cobertura y penetración de tus productos</p>
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;color:white;">El dispositivo nos permite ir guiando cómo ubicar a todos los clientes</p>
         </div>
       </div>
     </div>
     <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
+      <div style="flex:1;border: solid 2px #002E54;background-color:#002E54;" class="card">
         <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conocer si cada ruta tiene la cobertura adecuada</p>
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;color:white;">Los precios se asignan por descuentos o lista de precios</p>
         </div>
       </div>
     </div>
     <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
+      <div style="flex:1;border: solid 2px #002E54;background-color:#002E54;" class="card">
         <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conocer los horarios y ubicación en que el vendedor realizó las operaciones</p>
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;color:white;">Nos permite realizar ventas a clientes de otro día</p>
         </div>
       </div>
     </div>
     <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
+      <div style="flex:1;border: solid 2px #002E54;background-color:#002E54;" class="card">
         <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Los precios a los que se le vende a cada cliente</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="row" style="padding-top:2%;">
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Reportes de liquidación por ruta</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Los clientes en dispositivo, que nos permite realizar ventas a clientes de otro día</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Reporte de pedido contra surtido por cliente</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Efectividad de visita y de compra</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="row" style="padding-top:2%;">
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Venta promedio por ruta</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Permite un acercamiento visual a los clientes, rutas y estatus gracias a sus mapas</p>
+            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;color:white;">Se revisa en el mapa tanto la zona de los clientes como la secuencia de visita</p>
         </div>
       </div>
     </div>
@@ -297,6 +317,33 @@
 
 <br><br>
 
+<div class="container">
+    <div class="row" style="padding-bottom:%;">
+                <div class="col-sm" style="display:flex;text-align:center;">
+                    <div class="card tarjeta" style="background:transparent;border-color:white;text-align:center;">
+                        <div class="card-body">
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;color:#002E54;">¿LOS CLIENTES DE LA RUTA CORRESPONDEN A SU ZONA ASIGNADA?</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm" style="display:flex;">
+                    <div class="card tarjeta" style="background:transparent;border-color:white;text-align:center;">
+                        <div class="card-body">
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;color:#002E54;">¿QUÉ EFECTIVIDAD DE REPARTO SE TIENE EN PREVENTA?</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm" style="display:flex;">
+                    <div class="card tarjeta" style="background:transparent;border-color:white;text-align:center;">
+                        <div class="card-body">
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;color:#002E54;">¿CONOZCO LA COBERTURA Y PENETRACIÓN DE MIS PRODUCTOS?</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+</div>
+
+<br><br>
 
 <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-color: #D4D3DA;">
   <ol class="carousel-indicators">
@@ -385,6 +432,7 @@
                   <br>
                   <p style="color: #4c4c4c;">Soluciones operativas integrales para mejores análisis y toma de decisiones, todos nuestros sistemas son autofinanciables, se traduce en utilidades</p>
                   <p style="color: #4c4c4c;">© 2019 INTOP Solutions</p>
+                  <p style="color: #4c4c4c;">Operado por GRAMA SAPI DE CV</p>
                </div>
             </div>
             <div class="col-md-6 px-4">
@@ -398,7 +446,7 @@
          <div class="row">
             <div class="col-md-6 px-4">
                <h6 style="color: white;">MENÚ</h6>
-               <div class="row ">
+                     <div class="row ">
                   <div class="col-md-6">
                      <ul style="list-style-type:none;padding-left:-20px;padding-inline-start: 0px;">
                         <li> <a style="color: #4c4c4c;" href="index.php">INICIO</a> </li>
@@ -408,18 +456,28 @@
                         <li> <a style="color: #4c4c4c;" href="contacto.php">CONTACTO</a> </li>
                      </ul>
                   </div>
-                  
                </div>
             </div>
             <div class="col-md-6 ">
                <h6 style="color: white;">CONTÁCTANOS</h6>
-               <p style="color: #4c4c4c;">ventas@intop.solutions<br/>+52 (272) 115 5277</p>
+               <p style="color: #4c4c4c;">ventas@intop.solutions</p>
+               <p style="color: #4c4c4c;font-size:13px;">TELEFONOS MEXICO</br>
+               <table style="color: #4c4c4c;font-size:12px;text-align:left;width:100%;">
+                <tr>
+                    <td>
+                        <p>OFICINAS</br>+ 52 (272) 115 52 77</p>
+                    </td>
+                    <td>
+                        <p>VENTAS</br>+52 (442) 624 77 53</p>
+                    </td>
+                </tr>
+               </table>
+                   
                <form class="form-footer my-3">
-                  <input type="text" placeholder="Escribe tu email" name="search" style="width:250px;;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
+                  <input type="text" placeholder="Escribe tu email" name="search" style="width:100%;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
                   <br><br>
-                  <input type="button" value="Enviar" style="width:140px;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
+                  <input type="button" value="Enviar" style="width:100%;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
                </form>
-               
             </div>
          </div>
       </div>
