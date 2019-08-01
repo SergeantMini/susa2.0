@@ -198,21 +198,28 @@
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">Certfica que todos los clientes correspondientes al día se visitaron</p>
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">
+                                Certfica que todos los clientes correspondientes al día se visitaron
+                            </p>
+                            <img src="rectangulo 1_sovr.svg"/>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">Conocer los horarios y ubicación en que el vendedor realiza las operaciones</p>
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">
+                                Conocer los horarios y ubicación en que el vendedor realiza las operaciones
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">Libro de rutas actualizado en forma automática</p>
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">
+                                Libro de rutas actualizado en forma automática
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -221,21 +228,27 @@
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">Punteo en mapas electrónicos al 100%, actualizados en forma automática</p>
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">
+                                Punteo en mapas electrónicos al 100%, actualizados en forma automática
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">Carga óptima en ruta de reparto</p>
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">
+                                Carga óptima en ruta de reparto
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">Reporte de pedidos contra surtido por cliente</p>
+                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">
+                                Reporte de pedidos contra surtido por cliente
+                            </p>
                         </div>
                     </div>
                 </div>
