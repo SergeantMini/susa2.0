@@ -345,6 +345,7 @@
 
 
 <br><br>
+
 <!-- Footer -->
 
 <footer class="container-fluid bg-grey py-5" style="background: black;">
@@ -358,6 +359,7 @@
                   <br>
                   <p style="color: #4c4c4c;">Soluciones operativas integrales para mejores análisis y toma de decisiones, todos nuestros sistemas son autofinanciables, se traduce en utilidades</p>
                   <p style="color: #4c4c4c;">© 2019 INTOP Solutions</p>
+                  <p style="color: #4c4c4c;">Operado por GRAMA SAPI DE CV</p>
                </div>
             </div>
             <div class="col-md-6 px-4">
@@ -371,7 +373,7 @@
          <div class="row">
             <div class="col-md-6 px-4">
                <h6 style="color: white;">MENÚ</h6>
-               <div class="row ">
+                     <div class="row ">
                   <div class="col-md-6">
                      <ul style="list-style-type:none;padding-left:-20px;padding-inline-start: 0px;">
                         <li> <a style="color: #4c4c4c;" href="index.php">INICIO</a> </li>
@@ -381,18 +383,28 @@
                         <li> <a style="color: #4c4c4c;" href="contacto.php">CONTACTO</a> </li>
                      </ul>
                   </div>
-                  
                </div>
             </div>
             <div class="col-md-6 ">
                <h6 style="color: white;">CONTÁCTANOS</h6>
-               <p style="color: #4c4c4c;">ventas@intop.solutions<br/>+52 (272) 115 5277</p>
+               <p style="color: #4c4c4c;">ventas@intop.solutions</p>
+               <p style="color: #4c4c4c;font-size:13px;">TELEFONOS MEXICO</br>
+               <table style="color: #4c4c4c;font-size:12px;text-align:left;width:100%;">
+                <tr>
+                    <td>
+                        <p>OFICINAS</br>+ 52 (272) 115 52 77</p>
+                    </td>
+                    <td>
+                        <p>VENTAS</br>+52 (442) 624 77 53</p>
+                    </td>
+                </tr>
+               </table>
+                   
                <form class="form-footer my-3">
-                  <input type="text" placeholder="Escribe tu email" name="search" style="width:250px;;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
+                  <input type="text" placeholder="Escribe tu email" name="search" style="width:100%;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
                   <br><br>
-                  <input type="button" value="Enviar" style="width:140px;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
+                  <input type="button" value="Enviar" style="width:100%;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
                </form>
-               
             </div>
          </div>
       </div>
