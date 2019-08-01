@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="455px" height="452px" viewBox="0 0 455 452" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>GRAFICA CIRCULO</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-4.7%" y="-3.6%" width="109.3%" height="110.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-2" points="0 0.000282583079 149.706383 0.000282583079 149.706383 138.145675 0 138.145675"></polygon>
+        <filter x="-4.4%" y="-3.2%" width="108.9%" height="109.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-5" points="2.17092648e-05 -2.84217094e-14 157.631689 -2.84217094e-14 157.631689 154.763149 2.17092648e-05 154.763149"></polygon>
+        <filter x="-5.0%" y="-3.3%" width="110.0%" height="109.3%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-8" points="0 -2.84217094e-14 139.852576 -2.84217094e-14 139.852576 149.895631 0 149.895631"></polygon>
+        <filter x="-4.8%" y="-3.2%" width="109.6%" height="109.0%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-11" points="0 0.0002786572 145.468216 0.0002786572 145.468216 154.84791 0 154.84791"></polygon>
+        <filter x="-4.9%" y="-3.3%" width="109.7%" height="109.3%" filterUnits="objectBoundingBox" id="filter-13">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-14" points="0 0 143.717333 0 143.717333 149.31252 0 149.31252"></polygon>
+        <filter x="-4.6%" y="-3.4%" width="109.2%" height="109.5%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-17" points="0.000177561664 0.000612327526 152.459188 0.000612327526 152.459188 146.780565 0.000177561664 146.780565"></polygon>
+        <filter x="-4.5%" y="-3.4%" width="109.0%" height="109.4%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <polygon id="path-20" points="0.000428286973 0 155.207154 0 155.207154 148.259142 0.000428286973 148.259142"></polygon>
+    </defs>
+    <g id="Sistemas" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sistemas-Web" transform="translate(-272.000000, -552.000000)">
+            <g id="GRAFICA-CIRCULO" transform="translate(276.000000, 554.000000)">
+                <g id="registro" filter="url(#filter-1)" transform="translate(128.000000, 0.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M100.765426,135.84714 L69.6962766,138.102973 C63.5143617,138.551805 57.6207447,135.434385 54.5260638,130.07811 L2.16117021,39.4617817 C-2.74734043,30.9679267 1.03776596,20.146087 10.1430851,16.454629 C14.3441489,14.7526748 18.6218085,13.1674382 22.975,11.7021023 C60.9047872,-1.06149313 99.8760638,-3.04463053 136.543085,4.10166718 C146.181383,5.97975878 151.999468,15.837087 148.844149,25.1140107 L114.890957,124.952087 C112.804787,131.085064 107.240957,135.377087 100.765426,135.84714" id="Fill-1" fill="#AAB1C3" mask="url(#mask-3)"></path>
+                </g>
+                <text id="REGISTRO-DE-VISITA-A" font-family="Roboto-Bold, Roboto" font-size="13" font-weight="bold" letter-spacing="1.07780647" fill="#FFFFFF">
+                    <tspan x="160.793012" y="25">REGISTRO DE </tspan>
+                    <tspan x="176.739555" y="40">VISITA A </tspan>
+                    <tspan x="156.591511" y="55">CLIENTES POR </tspan>
+                    <tspan x="168.38034" y="70">HORARIO Y </tspan>
+                    <tspan x="181.270487" y="85">LOS NO </tspan>
+                    <tspan x="169.484832" y="100">VISITADOS</tspan>
+                </text>
+                <g id="cobertuda-clientes" filter="url(#filter-4)" transform="translate(266.000000, 27.000000)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M26.7219635,149.996154 L4.70445,127.927764 C0.114977027,123.328723 -1.25898243,116.443962 1.21457162,110.449921 L42.6938419,9.99399658 C46.4004365,1.01779795 57.1700581,-2.6692911 65.6796392,2.08368836 C103.669031,23.3027637 135.554072,55.589476 155.94995,96.2790993 C160.297085,104.950606 155.87095,115.44814 146.656774,118.600161 L43.5041257,153.886017 C37.6228959,155.897832 31.1032608,154.386051 26.7219635,149.996154" id="Fill-1" fill="#44557A" mask="url(#mask-6)"></path>
+                </g>
+                <text id="COBERTURA-DE-CLIENTE" font-family="Roboto-Bold, Roboto" font-size="13" font-weight="bold" letter-spacing="1.07780635" fill="#FFFFFF">
+                    <tspan x="289.677937" y="100">COBERTURA DE </tspan>
+                    <tspan x="292.591511" y="115">CLIENTES POR </tspan>
+                    <tspan x="296.012251" y="130">RUTA Y ZONA </tspan>
+                    <tspan x="298.007941" y="145">GEOGRÁFICA</tspan>
+                </text>
+                <g id="cobertura-productos" filter="url(#filter-7)" transform="translate(307.000000, 174.000000)">
+                    <mask id="mask-9" fill="white">
+                        <use xlink:href="#path-8"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M97.034,147.480106 L7.64081818,92.0769149 C2.38445455,88.8194681 -0.55130303,82.832234 0.0861212121,76.6684043 L3.28809091,45.682234 C3.95627273,39.2237234 8.41293939,33.7939362 14.603697,31.8971277 L116.400667,0.710957447 C125.772182,-2.16031915 135.457636,3.9662766 137.02203,13.6684043 C144.109,57.5981915 137.667939,101.515213 120.199758,140.355638 C116.19597,149.255638 105.315212,152.612021 97.034,147.480106" id="Fill-1" fill="#FFFFFF" mask="url(#mask-9)"></path>
+                </g>
+                <text id="COBERTURA-DE-PRODUCT" font-family="Roboto-Bold, Roboto" font-size="13" font-weight="bold" letter-spacing="1.07780635" fill="#002C55">
+                    <tspan x="328.677937" y="236">COBERTURA DE </tspan>
+                    <tspan x="339.241668" y="251">PRODUCTOS</tspan>
+                </text>
+                <g id="reportes" filter="url(#filter-10)" transform="translate(242.000000, 284.000000)">
+                    <mask id="mask-12" fill="white">
+                        <use xlink:href="#path-11"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M28.0046117,154.46525 C18.3750058,156.568366 9.08855328,149.761106 8.32977956,139.968503 L0.047210219,33.0004555 C-0.429154745,26.8344281 2.67627591,20.9391199 8.04097664,17.8274418 L35.0083489,2.18942808 C40.6309474,-1.07088014 47.6645241,-0.661085616 52.8661737,3.2287774 L139.001911,67.6482637 C146.787867,73.4713801 147.681984,84.7683322 140.925488,91.7507637 C116.943123,116.538024 86.803181,136.121106 51.8004803,147.886243 C43.903692,150.540353 35.9621445,152.728401 28.0046117,154.46525 Z" id="Fill-1" fill="#D4D3DA" mask="url(#mask-12)"></path>
+                </g>
+                <text id="REPORTES-DE-LIQUIDAC" font-family="Roboto-Bold, Roboto" font-size="13" font-weight="bold" letter-spacing="1.07780635" fill="#002C55">
+                    <tspan x="260.425092" y="350">REPORTES DE </tspan>
+                    <tspan x="262.307172" y="365">LIQUIDACIÓN </tspan>
+                    <tspan x="272.801079" y="380">POR RUTA</tspan>
+                </text>
+                <g id="efectividad" filter="url(#filter-13)" transform="translate(82.000000, 295.000000)">
+                    <mask id="mask-15" fill="white">
+                        <use xlink:href="#path-14"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M126.250453,149.266915 C82.4584533,146.029681 40.7325867,129.892447 6.34112,103.467979 C-1.45514667,97.4775532 -2.18368,86.0137234 4.82858667,79.1275532 L80.66112,4.6456383 C85.0888533,0.296702128 91.6200533,-1.14265957 97.4728533,0.940319149 L126.887253,11.4115957 C133.018453,13.5935106 137.244587,19.2254255 137.613653,25.7084043 L143.69152,132.239255 C144.24832,142.010532 136.038187,149.990319 126.250453,149.266915" id="Fill-1" fill="#44557A" mask="url(#mask-15)"></path>
+                </g>
+                <text id="EFECTIVIDAD-DE-VISIT" font-family="Roboto-Bold, Roboto" font-size="13" font-weight="bold" letter-spacing="1.07780635" fill="#FFFFFF">
+                    <tspan x="118.221479" y="366">EFECTIVIDAD</tspan>
+                    <tspan x="111.86307" y="381">DE VISITA Y DE </tspan>
+                    <tspan x="133.617655" y="396">COMPRA</tspan>
+                </text>
+                <g id="venta-promedio" filter="url(#filter-16)" transform="translate(0.000000, 216.000000)">
+                    <mask id="mask-18" fill="white">
+                        <use xlink:href="#path-17"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M68.3405313,142.320607 C61.3811563,148.944128 50.1717813,148.09515 44.4055938,140.407476 C30.5080938,121.879085 19.2838438,100.842107 11.4872188,77.6746935 C4.71271875,57.5463457 0.97378125,37.1282587 0.01859375,16.9146935 C-0.44359375,7.12001957 7.85878125,-0.817980435 17.5997813,0.0682804348 L126.831156,10.0014326 C132.995781,10.5628022 138.296594,14.6084978 140.475781,20.4181935 L151.425906,49.6136717 C153.709219,55.6981935 152.135656,62.5624543 147.433031,67.0384978 L68.3405313,142.320607 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-18)"></path>
+                </g>
+                <text id="VENTA-PROMEDIO-POR-R" font-family="Roboto-Bold, Roboto" font-size="13" font-weight="bold" letter-spacing="1.07780635" fill="#002C55">
+                    <tspan x="53.8882478" y="267">VENTA </tspan>
+                    <tspan x="39.9031301" y="282">PROMEDIO</tspan>
+                    <tspan x="41.8010793" y="297">POR RUTA</tspan>
+                </text>
+                <g id="supervisiones" filter="url(#filter-19)" transform="translate(7.000000, 51.000000)">
+                    <mask id="mask-21" fill="white">
+                        <use xlink:href="#path-20"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M120.096229,148.128882 L14.0745959,134.558175 C4.40471837,133.320411 -1.93079184,123.832304 0.534432653,114.375061 C11.5637388,72.067575 34.8852082,33.5116964 67.8234939,4.12251071 C75.1300245,-2.39730357 86.4755755,-1.024375 91.9504327,7.10463929 L152.446596,96.9378036 C156.071739,102.320961 156.131167,109.359082 152.59729,114.802904 L135.641045,140.916218 C132.268473,146.110996 126.229045,148.913261 120.096229,148.128882" id="Fill-1" fill="#44557A" mask="url(#mask-21)"></path>
+                </g>
+                <text id="SUPERVISIONES-DIRIGI" font-family="Roboto-Bold, Roboto" font-size="13" font-weight="bold" letter-spacing="1.07780635" fill="#FFFFFF">
+                    <tspan x="28.0189169" y="134">SUPERVISIONES </tspan>
+                    <tspan x="48.1383968" y="149">DIRIGIDAS</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
