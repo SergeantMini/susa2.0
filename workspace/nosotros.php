@@ -12,7 +12,7 @@
     <title>Intop Solutions</title>
   </head>
   <body>
-  
+    
     <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
     <div class="container" style="margin-left: 0px;">
       <a  class="navbar-left" href="index.php">
@@ -26,15 +26,15 @@
           <li class="nav-item">
             <a class="nav-link" style="color : white" href="index.php">INICIO</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" style="color : white" href="productos.php">PRODUCTOS</a>
+          <li class="nav-item active tabActiva">
+            <a class="nav-link" style="color : white" href="productos.php">PRODUCTOS
+            <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
             <a class="nav-link" style="color : white" href="servicios.php">SERVICIOS</a>
           </li>
-          <li class="nav-item active tabActiva">
-            <a class="nav-link" style="color : white" href="nosotros.php">NOSOTROS
-            <span class="sr-only">(current)</span></a>
+          <li class="nav-item">
+            <a class="nav-link" style="color : white" href="nosotros.php">NOSOTROS</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" style="color : white" href="contacto.php">CONTACTO</a>
@@ -44,143 +44,280 @@
     </div>
 </nav>
 
-
-<div style="background-image: url('fondo-abajo.png');background-repeat: no-repeat;background-size:100% 500px;">
-   <div class="col-md-12" style="width:100%;">
-        <div style="background-image: url('Rectangulo_blanco_contacto.png');background-position:center;background-repeat: no-repeat;background-size:90% 100%;width:100%;padding-top:10%">
-          <div class="row" style="padding-top:0%;">
-          <div class="col-md-12" id="form_container">
-              <h2 style="font-family: 'Roboto', sans-serif;font-weight:bold;text-align:center;font-size:50px;padding-top:5%;">
-              Nosotros</h2>
-              <hr style="border-top: 2px solid #8d8d8d;width:50px;" align="center">
-              <br>
-          </div>
-          </div>
-          <div class="row">
-            <div class="col-md-12" style="width:100%">
-              <div style="position: relative; top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);width:70%;text-align:left;">
-                <text style="	font-family: 'Roboto', sans-serif;
-                          	font-weight: medium;
-                          	color: #4c4c4c;
-                          	font-size: 23px;">
-                          	Somos una empresa que busca crear sistemas óptimos para convertir los problemas tanto operativos como administrativos en una ventaja competitiva.</br>
-                            Creándolos a través del uso de la tecnología y experiencia optimizando recursos y sistemas 
-                </text>
-              </div>
-            </div>
-          </div>
-          <br><br>
-          <div class="row">
-            <div class="col-md-12" style="width:100%">
-                <div style="position: relative; top: 50%;left: 50%; -webkit-transform: translate(-50%, -50%);transform: translate(-50%, -50%);width:80%;text-align:left;">
-                  <div class="row" >
-                    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap" class="col-sm-12 col-md-6 col-lg-3">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="flex:1;background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
-                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
-                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
-                                APUESTA POR LA CALIDAD
-                              </h2>
-                              <hr style="border-top: 1px solid white;width:60%;" align="center">
-                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:15px;font-weight:lighter;">
-                                Todos nuestros sistemas son creados con un propósito, facilitar, generar y optimizar con ayuda de la tecnología la experiencia de tu empresa
-                              </p>
-                              <br><br>
-                        </div>
-                      </div>
-                </div>
-                
-                <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="flex:1;background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
-                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
-                        <br>
-                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
-                                TRANSPARENCIA
-                              </h2>
-                              <hr style="border-top: 1px solid white;width:60%;" align="center">
-                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:15px;font-weight:lighter;">
-                                En INTOP apostamos por la transparencia, desde el inicio se tiene un trato directo y personalizado con cada cliente, brindando la mejor atención</p>
-                              </p>
-                              <br><br>
-                        </div>
-                      </div>
-                </div>
-                
-                <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" align="center" style="flex:1;background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
-                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:75%;">
-                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
-                                NUESTROS OBJETIVOS
-                              </h2>
-                              <hr style="border-top: 1px solid white;width:60%;" align="center">
-                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:15px;font-weight:lighter;">
-                                Son cubrir las necesidades de tu empresa, obtener un control y una perspectiva 360º de tu empresa, porque nos preocupamos por ti
-                              </p>
-                              <br><br>
-                        </div>
-                      </div>
-                </div>
-                
-                <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="flex:1;background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
-                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:75%;">
-                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
-                                NUESTROS VALORES
-                              </h2>
-                              <hr style="border-top: 1px solid white;width:60%;" align="center">
-                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:15px;font-weight:lighter;">
-                                · Empatía</br>
-                                · Compromiso</br>
-                                · Mejora continua</br>
-                                · Responsabilidad</br>
-                                · Colaboración</br>
-                                · Integración
-                              </p>
-                             <br><br>
-                        </div>
-                      </div>
-                </div>
-                
-                </div>
-            </div>
-          </div>
+<div  style="text-align:center;width:100%;">
+  <div class="row" style="display: flex;width:100%;">
+    <div class="col-sm-8 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;padding-left:5%;">
+      <div class="container">
+        <div class="row">
+          <h2 style="font-family: 'Roboto', sans-serif;
+                  	font-weight: bold;
+                  	text-align: left;
+                  	padding-top: 10%;
+                  	padding-bottom: 10px;
+                  	color: #002C55;">NUESTRA LÍNEA DE PRODUCTOS</h2>
         </div>
+        <div class="row">
+            <h5 style="font-family: 'Roboto', sans-serif;
+                  	    font-weight: medium;
+                  	    text-align: left;
+                    	padding-bottom: 10px;
+                    	color: #002E54;">
+                   FÁCILES DE USAR · CONFIABLES · PRÁCTICOS · INNOVADORES · ÚTILES
+            </h5>
+        </div>
+        <div class="row">
+            <h5 style="font-family: 'Roboto', sans-serif;
+                  	    font-weight: normal;
+                  	    text-align: left;
+                    	padding-bottom: 20px;
+                    	color: #000000;">
+                Los sistemas SOV cuentan con dos herramientas para brindar un control total: teléfono móvil y mesa de control.
+            </h5>
+        </div>
+      </div>
     </div>
-</div>
-
-<br><br><br>
-
-<div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('fondo-frase.png');background-repeat: no-repeat;background-size:100% 100%;">
-  <div class="container" align="center" style="width:100%;">
-    <div align="center" class="row" style="text-align:center;width:100%;">
-      <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;"><br><br>MISIÓN</h1>
-    </div>
-    <br><br><br>
-    <div class="row" style="text-align:center;width:100%;">
-      <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
-        Mediante un conjunto de conocimientos y experiencia nos especializamos en la creación de herramientas, procesos y sistemas que permiten a las empresas extender y potenciar su desarrollo, haciéndolo de una forma fácil y sencilla. 
-        </br></br></br></br>
-      </h4>
+    <div class="col-sm-4 form-group" style="display: flex;
+                                            display: -webkit-flex;
+                                            flex-wrap: wrap;">
+      <div class="container">
+        <div class="row" style="padding-top:20%;">
+            <div class="container" style="text-align:center">
+                <img align="center" src="logo_sov.svg" style="width:70%;height:70%;"></img>
+            </div>
+        </div>
+      </div>
     </div>
   </div>
 </div>
 
 <br><br><br>
 
-<div id="carouselExampleIndicators3" class="carousel slide" data-ride="carousel" style="background-image: url('fondo-frase.png');background-repeat: no-repeat;background-size:100% 100%;">
-  <div class="container" align="center" style="width:100%;">
-    <div align="center" class="row" style="text-align:center;width:100%;">
-      <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;"><br><br>VISIÓN</h1>
+<div style="width:100%;" align="center" style="text-align:center;">
+    <div class="row" align="center" style="display: flex;width:100%;">
+    <div class="col-sm-7 form-group" style="background-color: #002C55;display: flex;
+                                            display: -webkit-flex;
+                                            flex-wrap: wrap;">
+      <br>
+      <div class="box_item" id="sovrutasboxprod" align="center" style="width:100%;text-align:center;justify-content:center;">
+        <div class="row">
+        <!--div id="sovrutasboxprod-hover"><img src="laptop-ruta.gif"/></div-->
+          <h3 style="font-family: 'Roboto', sans-serif; width:100%;
+                  	font-weight: bold;
+                  	text-align: center;
+                  	padding-left: 7%;
+                  	padding-top:10%;
+                  	font-size: 35px;
+                  	color: #ffffff;">SOV RUTAS</h3>
+        </div>
+        <br>
+        <div class="row" style="width:100%;">
+          <p style="font-family: 'Roboto', sans-serif;
+                    width: 100%;
+                  	font-weight: regular;
+                  	text-align: left;
+                  	padding-left: 10%;
+                  	padding-bottom:10%;
+                  	padding-right:10%;
+                  	font-size: 17px;
+                  	color: #ffffff;">
+                 OBTENER EL CONTROL TOTAL DE LOS CLIENTES
+          </p>
+        </div>
+      </div>
     </div>
-    <br><br><br>
-    <div class="row" style="text-align:center;width:100%;">
-      <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
-      A través de la tecnología buscamos soluciones que contribuyen a resolver de manera efectiva, rápida y eficiente algunos de los problemas que día a día se presentan en su empresa. 
-Alcance en reportería y análisis a nivel operativo, gerencial y de consejos de administración, que coadyuvan a la toma de decisiones. 
-</br></br></br></br></h4>
+    <div class="col-sm-5 form-group" style="background-color: #D4D3DA;display: flex;
+                                            display: -webkit-flex;
+                                            flex-wrap: wrap;">
+      <div style="width:100%;">
+          <div class="row">
+              <div class="col-sm-6 form-group" style="text-align:center;">
+              <div>
+                  <img src="celular_ruta_parte3.gif" align="center" style="padding-top:10%;max-width: 90%;max-height: 90%;"></img>
+              </div>
+          </div>
+          <div class="col-sm-6 form-group" style="padding-top:20%;">
+              <div>
+                    <h6 style="font-family: 'Roboto', sans-serif; width:90%;font-weight: bold;text-align: left;padding-left:%;padding-top:5%;color: #002E54;">
+                        CONTEMPLA LAS PRINCIPALES VARIABLES DE RUTAS:</br>
+                                    -AUTOVENTA</br>
+                                    -PREVENTA</br>
+                                    -CALL CENTER</br>
+                                    -PORTEO</br>
+                    </h6>
+                  	<br>
+                  	<form style="text-align: left;padding-left:5%;">
+                        <a href="sovrutas.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
+                    </form>
+              </div>
+          </div>
+          </div>
+      </div>
     </div>
+  </div>
+</div>
+
+<br>
+
+<div style="width:100%;" align="center" style="text-align:center;">
+    <div class="row" align="center" style="display: flex;width:100%;">
+    <div class="col-sm-5 form-group" style="background-color: #D4D3DA;display: flex;
+                                            display: -webkit-flex;
+                                            flex-wrap: wrap;">
+      <div style="width:100%;">
+          <div class="row">
+              <div class="col-sm-6 form-group" style="text-align:center;">
+              <div>
+                  <img src="celular_ruta_parte3.gif" align="center" style="padding-top:10%;max-width: 90%;max-height: 90%;"></img>
+              </div>
+          </div>
+          <div class="col-sm-6 form-group" style="padding-top:30%;">
+                <div style="width:100%;">
+                    <h5 style="font-family: 'Roboto', sans-serif; width:100%;
+                      	font-weight: bold;
+                      	text-align: left;
+                      	padding-top:10%;
+                      	color: #002E54;">
+                      	MÁS FÁCIL QUE PLUMA Y LÁPIZ, CUMPLE CON LA NORMA 87
+                  	</h5>
+                  	<br>
+                  	<form>
+                        <a href="sovautotransporte.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="padding-left:px;width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
+                    </form>
+              </div>
+          </div>
+          </div>
+      </div>
+    </div>
+    <div class="col-sm-7 form-group" style="background-color: #002C55;display: flex;
+                                            display: -webkit-flex;
+                                            flex-wrap: wrap;">
+      <br>
+      <div class="container">
+        <div class="row">
+          <h3 style="font-family: 'Roboto', sans-serif; width:100%;
+                  	font-weight: bold;
+                  	text-align: center;
+                  	padding-left: 7%;
+                  	padding-top:10%;
+                  	font-size: 35px;
+                  	color: #ffffff;">SOV AUTOTRANSPORTE</h3>
+        </div>
+        <br>
+        <div class="row">
+            <p style="font-family: 'Roboto', sans-serif;
+                  	font-weight: regular;
+                  	text-align: left;
+                  	padding-left: 10%;
+                  	padding-bottom:10%;
+                  	padding-right:10%;
+                  	font-size: 17px;
+                  	color: #ffffff;">
+                  	· Conocer la productividad de la flotilla, mediante gráficos que facilitan la toma de decisiones.</br>
+                    · Estatus en tiempo real de carga de unidad</br>
+                    Cumple al 100% con la NORMA 87</br>
+                    · ¿Cuánto equivale el tiempo productivo e improductivo de la flotilla? </br>
+                    · En el proceso de carga o descarga, ¿cuál de mis clientes o clientes de mi cliente tarda más las unidades?</br>
+                    · ¿Cuánto tiempo real están invirtiendo mis unidades por incidencias en el camino que retrasan mis viajes? </br>
+
+            </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div style="width:100%;" align="center" style="text-align:center;">
+    <div class="row" align="center" style="display: flex;width:100%;">
+    <div class="col-sm-7 form-group" style="background-color: #002C55;display: flex;
+                                            display: -webkit-flex;
+                                            flex-wrap: wrap;">
+      <br>
+      <div class="container">
+        <div class="row">
+          <h3 style="font-family: 'Roboto', sans-serif; width:100%;
+                  	font-weight: bold;
+                  	text-align: center;
+                  	padding-left: 7%;
+                  	padding-top:10%;
+                  	font-size: 35px;
+                  	color: #ffffff;">SOV EVALUACIÓN</h3>
+        </div>
+        <br>
+        <div class="row">
+            <p style="font-family: 'Roboto', sans-serif;
+                  	font-weight: regular;
+                  	text-align: left;
+                  	padding-left: 10%;
+                  	padding-bottom:10%;
+                  	padding-right:10%;
+                  	font-size: 17px;
+                  	color: #ffffff;">
+                  	 SISTEMAS MANEJADOS A TRAVÉS DE APLICACIONES.</br><br>
+                  	 Obtener el control donde antes era difícil tenerlo. Y calificar el desempeño por funciones. Información específica de las áreas de oportunidad contenidas en las revisiones con información inmediata a las área involucradas.
+            </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-5 form-group" style="background-color: #D4D3DA;display: flex;
+                                            display: -webkit-flex;
+                                            flex-wrap: wrap;">
+      <div style="width:100%;">
+          <div class="row">
+              <div class="col-sm-6 form-group" style="text-align:center;">
+              <div>
+                  <img src="celular_ruta_parte3.gif" align="center" style="padding-top:10%;max-width: 100%;max-height: 100%;"></img>
+              </div>
+          </div>
+          <div class="col-sm-6 form-group" style="padding-top:30%;">
+              <div>
+                  <h5 style="font-family: 'Roboto', sans-serif; width:100%;
+                  	font-weight: bold;
+                  	text-align: left;
+                  	padding-top:10%;
+                  	color: #002E54;">
+                  	OBTÉN UNA PERSPECTIVA 360° DE LA EVALUACIÓN DE TU NEGOCIO, OBTENIENDO 3 CALIFICACIONES
+                  </h5>
+                  	<br>
+                  	<form>
+                        <a href="sovevaluacion.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="padding-left:px;width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
+                    </form>
+              </div>
+          </div>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<br><br>
+
+<div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('fondo_parte4.png');background-repeat: no-repeat;background-size:100% 100%;">
+  <div class="container">
+      <div class="row" align="center" style="text-align:center;width:100%;">
+          <p align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:28px;"><br><br>Nuestros sistemas convierten tu problemática en ventajas competitivas
+        </p>
+        <br>
+      </div>
+      <br>
+      <div class="row" style="width:100%;">
+          <table align="center" style="text-align:center;width:50%;">
+          <tr>
+          <td>
+            <img src="icono eficacia_parte4_productos.png"></img>
+          </td>
+          <td>
+            <img src="icono utilidades_parte4_productos.png"></img>
+          </td>
+          </tr>
+        </table>
+      </div>
+      <br><br>
+      <div class="row" style="width:100%;">
+          <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:35px;width:100%;">EFICACIA  =  UTILIDADES</br></br></br></h3>
+      </div>
   </div>
 </div>
 
@@ -251,7 +388,6 @@ Alcance en reportería y análisis a nivel operativo, gerencial y de consejos de
    </div>
 </div>
 </footer>
-
 
     <!-- JavaScript -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
