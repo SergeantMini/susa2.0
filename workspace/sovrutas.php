@@ -94,15 +94,18 @@
   </ol>
   <div class="carousel-inner">
     <ul>
-    <div class="carousel-item active">
-      <div class="anim1" style="height:620px;">
-        <div class="container" align="center" style="width:100%;padding-top:10%;padding-bottom:10%;">
-            <div class="row" style="text-align:center;width:100%;">
-              <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">Nuestros sistemas convierten tu problemática en ventajas competitivas
+    <div class="carousel-item active" style="overflow:visible;">
+      <div class="anim1" style="height:620px;overflow:visible;">
+        <div class="container" align="center" style="width:100%;padding-top:5%;padding-bottom:10%;overflow:visible">
+            <div class="row" style="text-align:center;width:100%;overflow:visible;">
+              <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">
+                Nuestros sistemas convierten tu problemática en ventajas competitivas
               </h3>
-            </div>
-            <div align="center" class="row" style="text-align:center;width:100%;">
-              <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;padding-top:5%;padding-bottom:5%;">EFICACIA = UTILIDADES</h1>
+              <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;padding-top:5%;padding-bottom:5%;">
+                EFICACIA = UTILIDADES
+              </h1>
+              <br>
+              <img src="laptop.png" style="display:block;position:relative;display: flex;flex:1;max-width: 1000%!important;"/>
             </div>
         </div>
       </div>
@@ -111,7 +114,8 @@
        <div class="anim2" style="height:620px;">
             <div class="container" align="center" style="width:100%;">
                 <div class="row" style="text-align:center;width:100%;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:15%;">Por un sistema generador de indicadores que apoyan un proceso sencillo y claro en la toma de decisiones comerciales y la eficiencia en el servicio a clientes
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:15%;">
+                    Por un sistema generador de indicadores que apoyan un proceso sencillo y claro en la toma de decisiones comerciales y la eficiencia en el servicio a clientes
                   </h3>
                 </div>
                 <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;padding-bottom:10%;">
