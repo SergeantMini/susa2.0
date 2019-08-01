@@ -67,16 +67,16 @@
                     <text id="vintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">ventas@intop.solutions</text>
                     <br><br>
                     <label for="tintop" style="color:#4c4c4c;font-size:15px;">TELÉFONOS MÉXICO</label></br>
-                    <text id="tintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">Oficinas</br>
+                    <text id="tintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">Oficina Matriz</br>
                         + 52 (272) 115 52 77</br>
-                        Ventas</br>
+                        Oficina corporativa - Ventas</br>
                         +52 (442) 624 77 53 
                     </text>
                     <br><br>
                     <label for="dintop" style="color:#4c4c4c;font-size:15px;">DIRECCIÓN</label></br>
-                    <text id="dintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">Camino Real #38 Int B, Col. Los Pinos</br> C.P. 94732 <text style="font-family: 'Roboto', sans-serif;color:#4c4c4c;">Río Blanco, Veracruz</text></text>
+                    <text id="dintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">OFICINA MATRIZ</br> Camino Real #38 Int B, Col. Los Pinos</br> C.P. 94732 <text style="font-family: 'Roboto', sans-serif;color:#4c4c4c;">Río Blanco, Veracruz</text></text>
                     <hr style="border-top: 1px solid #8d8d8d;width:62%;" align="left">
-                    <text id="dintop2" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">Rufino Tamayo 4D, Col. Puebla Nuevo</br> C.P. 76900 <text style="font-size:15px;font-family: 'Roboto', sans-serif;color:#4c4c4c;">Corregidora Querétaro, Querétaro</text></text>
+                    <text id="dintop2" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">OFICINA CORPORATIVA - VENTAS</br> Rufino Tamayo 4D, Col. Puebla Nuevo</br> C.P. 76900 <text style="font-size:15px;font-family: 'Roboto', sans-serif;color:#4c4c4c;">Corregidora Querétaro, Querétaro</text></text>
                     <br><br>
                     <label for="rsociales" style="color:#4c4c4c;font-size:15px;">REDES SOCIALES</label><br>
                     <a href="https://www.facebook.com/Intop-Solutions-440490166697561/"><img src="Facebook_Icon.svg"></img></a>
@@ -126,7 +126,7 @@
 <br><br><br><br><br>
 
 <div style="padding-left:10%;">
-  <h2 style="font-family: 'Roboto', sans-serif;">OFICINAS</h2>
+  <h2 style="font-family: 'Roboto', sans-serif;">OFICINA MATRIZ</h2>
   <p style="font-family: 'Roboto', sans-serif;">CAMINO REAL #38 INT B, COL. LOS PINOS</br>C.P. 94732 RÍO BLANCO, VERACRUZ</p>
 </div>
 
@@ -140,7 +140,7 @@
 </iframe>
 <br><br><br><br>
 <div style="padding-left:10%;">
-<h2 style="font-family: 'Roboto', sans-serif;">VENTAS</h2>
+<h2 style="font-family: 'Roboto', sans-serif;">OFICINA CORPORATIVA - VENTAS</h2>
 <p style="font-family: 'Roboto', sans-serif;">RUFINO TAMAYO 4D, COL. PUEBLA NUEVO</br>C.P. 76900 CORREGIDORA QUERÉTARO, QUERÉTARO</p>
 </div>
 <iframe style="width:100%; height:300px;" 
