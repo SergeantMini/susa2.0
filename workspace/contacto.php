@@ -79,8 +79,8 @@
                     <text id="dintop2" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">OFICINA CORPORATIVA - VENTAS</br> Rufino Tamayo 4D, Col. Puebla Nuevo</br> C.P. 76900 <text style="font-size:15px;font-family: 'Roboto', sans-serif;color:#4c4c4c;">Corregidora Querétaro, Querétaro</text></text>
                     <br><br>
                     <label for="rsociales" style="color:#4c4c4c;font-size:15px;">REDES SOCIALES</label><br>
-                    <a href="https://www.facebook.com/Intop-Solutions-440490166697561/"><img src="Facebook_Icon.svg"></img></a>
-                    <br>
+                    <a href="https://www.facebook.com/Intop-Solutions-440490166697561/" target="_blank"><img src="Facebook_Icon.svg"></img></a>
+                    <br><br>
                     <label for="rsociales" style="color:#4c4c4c;font-size:15px;">NUESTROS HORARIOS DE ATENCIÓN</label><br>
                     <text id="rsociales" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">OFICINAS</text><br>
                     <text id="rsociales2" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">Lunes -  Viernes 8:00 - 13:00, 15:00 - 18:00</text><br>
@@ -182,6 +182,8 @@
          <div class="row">
             <div class="col-md-6 px-4">
                <h6 style="color: white;">MENÚ</h6>
+                     <div class="row ">
+                  <div class="col-md-6">
                      <ul style="list-style-type:none;padding-left:-20px;padding-inline-start: 0px;">
                         <li> <a style="color: #4c4c4c;" href="index.php">INICIO</a> </li>
                         <li> <a style="color: #4c4c4c;" href="productos.php">PRODUCTOS (SISTEMAS)</a> </li>
@@ -189,20 +191,28 @@
                         <li> <a style="color: #4c4c4c;" href="nosotros.php">COMPAÑÍA</a> </li>
                         <li> <a style="color: #4c4c4c;" href="contacto.php">CONTACTO</a> </li>
                      </ul>
+                  </div>
+               </div>
             </div>
             <div class="col-md-6 ">
                <h6 style="color: white;">CONTÁCTANOS</h6>
                <p style="color: #4c4c4c;">ventas@intop.solutions</p>
                <p style="color: #4c4c4c;font-size:13px;">TELEFONOS MEXICO</br>
-                    Oficinas</br>
-                    + 52 (272) 115 52 77</br>
-                    Ventas</br>
-                    +52 (442) 624 77 53
-               </p>
+               <table style="color: #4c4c4c;font-size:12px;text-align:left;width:100%;">
+                <tr>
+                    <td>
+                        <p>OFICINAS</br>+ 52 (272) 115 52 77</p>
+                    </td>
+                    <td>
+                        <p>VENTAS</br>+52 (442) 624 77 53</p>
+                    </td>
+                </tr>
+               </table>
+                   
                <form class="form-footer my-3">
-                  <input type="text" placeholder="Escribe tu email" name="search" style="width:180px;;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
+                  <input type="text" placeholder="Escribe tu email" name="search" style="width:100%;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
                   <br><br>
-                  <input type="button" value="Enviar" style="width:180px;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
+                  <input type="button" value="Enviar" style="width:100%;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
                </form>
             </div>
          </div>
