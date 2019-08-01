@@ -94,7 +94,7 @@
   </ol>
   <div class="carousel-inner">
     <ul>
-    <div class="carousel-item active" style="overflow:visible;">
+    <div class="carousel-item active" style="">
       <div class="anim1" style="height:620px;overflow:visible;">
         <div class="container" align="center" style="width:100%;padding-top:5%;padding-bottom:10%;overflow:visible">
             <div class="row" style="text-align:center;width:100%;overflow:visible;">
@@ -395,14 +395,47 @@
     <table align="center" style="width:100%;text-align:left;margin: 0 auto;">
         <tr>
             <td style="border-left: 5px solid #002E54;size:contain;">
-                <p style="padding-left:2%;font-size:25px;font-family: 'Roboto', sans-serif;">Desde el primer mes de operación de SOV obtendrá</br> ahorros sustanciales en su empresa.</p>
-                <h5 class="subtitulo" style="padding-left:2%;text-align:left;color: #002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:30px;">
+                <p style="padding-left:2%;font-size:30px;font-family: 'Roboto', sans-serif;">Desde el primer mes de operación de SOV obtendrá</br> ahorros sustanciales en su empresa.</p>
+                <h5 class="subtitulo" style="padding-left:2%;text-align:left;color: #002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:40px;">
                     EL SISTEMA ES 100% </br>AUTOFINANCIABLE Y RENTABLE
                 </h5> 
             </td>
         </tr>
     </table>
 </div>
+
+<br>
+
+<!--button class="collapsible">LIBRO DE RUTA</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<br>
+<button class="collapsible">MAPA DE RUTA</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+<button class="collapsible">REPORTE DE VENTA DIARIO</button>
+<div class="content">
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script-->
 
 <br><br><br><br>
 
