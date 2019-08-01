@@ -367,7 +367,7 @@
         <div class="container" style="height:506px;" align="center">
           <div align="center" class="row" style="text-align:center;width:90%;">
             <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:200px;width:100%;">
-                Sistemas realizados con base en análisis nivel dirección y corporativos, estructurados por asesores de alto nivel y experiencia
+                Sistemas realizados con base en</br> análisis nivel dirección y corporativos,</br> estructurados por asesores de alto</br> nivel y experiencia
             </h3>
           </div>
         </div>
@@ -378,7 +378,7 @@
          <div class="container" style="height:506px;" align="center">
           <div align="center" class="row" style="text-align:center;width:90%;">
             <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:200px;width:100%;">
-                Enfocados en el desarrollo de sistemas que facilitaran las operaciones de tu empresa
+                Enfocados en el desarrollo de</br> sistemas que facilitaran las </br>operaciones de tu empresa
             </h3>
             </div>
         </div>
@@ -471,6 +471,8 @@
          <div class="row">
             <div class="col-md-6 px-4">
                <h6 style="color: white;">MENÚ</h6>
+                     <div class="row ">
+                  <div class="col-md-6">
                      <ul style="list-style-type:none;padding-left:-20px;padding-inline-start: 0px;">
                         <li> <a style="color: #4c4c4c;" href="index.php">INICIO</a> </li>
                         <li> <a style="color: #4c4c4c;" href="productos.php">PRODUCTOS (SISTEMAS)</a> </li>
@@ -478,20 +480,28 @@
                         <li> <a style="color: #4c4c4c;" href="nosotros.php">COMPAÑÍA</a> </li>
                         <li> <a style="color: #4c4c4c;" href="contacto.php">CONTACTO</a> </li>
                      </ul>
+                  </div>
+               </div>
             </div>
             <div class="col-md-6 ">
                <h6 style="color: white;">CONTÁCTANOS</h6>
                <p style="color: #4c4c4c;">ventas@intop.solutions</p>
-               <!--p style="color: #4c4c4c;font-size:13px;">TELEFONOS MEXICO</br>
-                    Oficinas</br>
-                    + 52 (272) 115 52 77</br>
-                    Ventas</br>
-                    +52 (442) 624 77 53
-               </p-->
+               <p style="color: #4c4c4c;font-size:13px;">TELEFONOS MEXICO</br>
+               <table style="color: #4c4c4c;font-size:12px;text-align:left;width:100%;">
+                <tr>
+                    <td>
+                        <p>OFICINAS</br>+ 52 (272) 115 52 77</p>
+                    </td>
+                    <td>
+                        <p>VENTAS</br>+52 (442) 624 77 53</p>
+                    </td>
+                </tr>
+               </table>
+                   
                <form class="form-footer my-3">
-                  <input type="text" placeholder="Escribe tu email" name="search" style="width:180px;;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
+                  <input type="text" placeholder="Escribe tu email" name="search" style="width:100%;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
                   <br><br>
-                  <input type="button" value="Enviar" style="width:180px;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
+                  <input type="button" value="Enviar" style="width:100%;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
                </form>
             </div>
          </div>
