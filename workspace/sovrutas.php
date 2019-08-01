@@ -174,8 +174,11 @@
 <div class="container">
   <div class="row">
     <div class="col-sm">
-    <table align="right">
+    <table align="center" style="width:100%;">
         <tr>
+            <td>
+                <img src="GRAFICA CIRCULO_0.svg"></img>
+            </td>
             <td style="border-left: 4px solid #002E54;size:contain;">
                 <h2 class="titulo" style="text-align:right;color:#002E54;font-weight:medium;">GENERADOR DE INDICADORES</h2>
                 <h5 class="subtitulo" style="text-align:right;color: #002E54;">APOYAN UN PROCESO SENCILLO Y CLARO</h5> 
@@ -188,10 +191,10 @@
 
 <br><br>
 
-<div class="container">
+<div style="background-color: black;width:100%;">
     <div class="row" style="text-algin:center;width:100%;" align="center">
         <div class="container">
-            <div class="row" style="padding-bottom:%;">
+            <div class="row" style="padding-bottom:5%;padding-top:5%;">
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
@@ -214,7 +217,7 @@
                     </div>
                 </div>
             </div>
-            <div class="row" style="padding-bottom:%;">
+            <div class="row" style="padding-bottom:5%;">
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
