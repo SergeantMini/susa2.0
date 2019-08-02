@@ -49,7 +49,7 @@
 </nav>
 
 
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="background-image: url('fondo-abajo.png');background-repeat: no-repeat;background-size:100% 100%;max-height:!00%;">
+<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" style="background-image: url('fondo-abajo.png');background-repeat: no-repeat;background-size:100% 100%;max-height:100%;">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -65,13 +65,13 @@
                     <tr>
                       <td>
                         <h1 style="color:white;padding-top:40px;font-weight:bold;font-size: 55px;">SOV Rutas</h1>
-                        <p style="color:white;padding-top:40px;font-size: 20px;">Genera reportes con indicadores para </br>una mejor administración comercial y </br>operativa, de manera inmediata y clara</br> para la toma de decisiones. Certifica </br>las actividades realizadas por tu fuerza de ventas.</p>
+                        <p style="color:white;padding-top:40px;font-size: 20px;">Genera reportes con indicadores para </br>una mejor administración comercial y </br>operativa, de manera inmediata y clara</br> para la toma de decisiones. </br>Certifica las actividades realizadas por </br> tu fuerza de ventas.</p>
                         <form>
                           <input type="button" onclick="window.location='sovrutas.php';" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
                         </form>
                       </td>
                       <td style="text-align:center;">
-                        <img src="ruta_movil.gif" alt="autotransportegif" style="padding-top:2%;max-width:100%;max-height:100%">
+                        <img src="ruta_movil01.gif" alt="autotransportegif" style="padding-top:2%;max-width:100%;max-height:100%">
                       </td>
                     </tr>
                   </table>
@@ -86,13 +86,13 @@
                     <tr>
                       <td style="width:50%;">
                         <h1 style="color:white;padding-top:40px;font-weight:bold;font-size:55px;">SOV <h2 style="color:white;font-weight:bold;font-size: 2em;">Autotransporte</h2></h1>
-                        <p style="color:white;padding-top:40px;font-size: 20px;">A través del círculo de servicio conoce la productividad de tu flotilla. Saber en tiempo real el estatus de tus unidades. Cumple al 100% con la NOM 87 de la SCT.</p>
+                        <p style="color:white;padding-top:40px;font-size: 20px;">A través del círculo de servicio conoce </br>la productividad de tu flotilla. Saber en </br>tiempo real el estatus de tus unidades.</br></br> Cumple al 100% con la NOM 87 de la SCT.</p>
                         <form>
-                          <input type="button" onclick="window.location='sovautotranporte.php';" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
+                          <input type="button" onclick="window.location='sovautotransporte.php';" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
                         </form>
                       </td>
                       <td style="text-align:center;">
-                        <img src="autotransporte_movil.gif" alt="autotransportegif" style="padding-top:2%;max-width:100%;max-height:100%">
+                        <img src="autotransporte_movil01.gif" alt="autotransportegif" style="padding-top:2%;max-width:100%;max-height:100%">
                       </td>
                     </tr>
                   </table>
@@ -108,14 +108,14 @@
                       <td style="width:50%;">
                         <h1 style="color:white;padding-top:40px;font-weight:bold;font-size:55px;">SOV Evaluación</h1>
                         <p style="color:white;padding-top:40px;font-size: 20px;">
-                            Evalúa en forma práctica personal y sucursales. Conoce el nivel de satisfacción de tus clientes, lo que permite generar una calificación única de sucursal conociendo a detalle fortalezas y debilidades. </br>Todo lo que es medible es perfeccionable.
+                            Evalúa en forma práctica personal y sucursales. Conoce el nivel de satisfacción de tus clientes, lo que permite generar una calificación única de sucursal conociendo a detalle fortalezas y debilidades. </br></br>Todo lo que es medible es perfeccionable.
                         </p>
                         <form>
                           <input type="button" onclick="window.location='sovevaluacion.php';" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
                         </form>
                       </td>
                       <td style="text-align:center;">
-                        <img src="evaluacion_movil.gif" alt="autotransportegif" style="padding-top:2%;max-width:100%;max-height:100%">
+                        <img src="evaluacion_movil_01.gif" alt="autotransportegif" style="padding-top:2%;max-width:100%;max-height:100%">
                       </td>
                     </tr>
                   </table>
@@ -132,7 +132,7 @@
                       <td style="width:50%;">
                         <h1 style="color:white;padding-top:45px;font-weight:bold;font-size:55px;">SOV Sistemas </br>Ad-Hoc</h1>
                         <p style="color:white;padding-top:40px;font-size: 20px;">
-                            Desarrollamos sistemas a la medida de las necesidades de tu empresa. Planea, supervisa y analiza de una forma fácil y sencilla. 
+                            Desarrollamos sistemas a la medida de las necesidades de tu empresa. </br></br> Planea, supervisa y analiza de una forma fácil y sencilla. 
                         </p>
                         <form>
                           <input type="button" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
@@ -182,7 +182,7 @@
         <img src="aparatos_ruta_parte3.gif" class="card-img-top" alt="..." >
         <div class="card-body">
           <p class="card-text textoTarjeta">
-            Obtén la posibilidad una persona que no conoce la ruta puede realizarla al 100%. Convirtiéndola en una ventaja competitiva.
+            Una persona que no conoce la ruta puede realizarla al 100%. Convirtiéndola en una ventaja competitiva.
          </p><br><br>
           <table style="width:100%;">
         <tr style="border-top: 1px solid #DDDDDD;">
@@ -219,7 +219,7 @@
     </div>
     <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
       <div class="card tarjeta" style="flex: 1;">
-  <img src="aparatos_autotransporte_parte3.gif" class="card-img-top" alt="...">
+  <img src="aparatos_autotransporte_parte13.gif" class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text textoTarjeta">
         Geoposiciona las rutas de tus vendedores</br>·Cambio de estatus durante el recorrido en tiempo real </br>·Sistema de alarma</br>·Geolocalización de unidades
@@ -321,8 +321,12 @@
     <br>
     <h5 class="card-title" style="text-align: left;">Soporte técnico</h5>
     <br>
-    <p class="card-text">Contamos con un soporte 24/7 y los 365 días del año</p>
-    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">VER MÁS <a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a></p>
+    <p class="card-text">
+        Contamos con un soporte 24/7 y los 365 días del año
+    </p>
+    <p style="color: #B8B8B8;font-size: 11px;font-family: 'Roboto', sans-serif;font-weight: normal;">
+        VER MÁS<a href="servicios.php"><image src="flecha_parte4.png" style="padding-left:15px;"></image></a>
+    </p>
   </div>
 </div>
     </div>

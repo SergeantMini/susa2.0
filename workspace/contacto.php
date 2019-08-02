@@ -67,16 +67,16 @@
                     <text id="vintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">ventas@intop.solutions</text>
                     <br><br>
                     <label for="tintop" style="color:#4c4c4c;font-size:15px;">TELÉFONOS MÉXICO</label></br>
-                    <text id="tintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">Oficina Matriz</br>
+                    <text id="tintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">OFICINAS</br>
                         + 52 (272) 115 52 77</br>
-                        Oficina corporativa - Ventas</br>
+                        VENTAS</br>
                         +52 (442) 624 77 53 
                     </text>
                     <br><br>
                     <label for="dintop" style="color:#4c4c4c;font-size:15px;">DIRECCIÓN</label></br>
-                    <text id="dintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">OFICINA MATRIZ</br> Camino Real #38 Int B, Col. Los Pinos</br> C.P. 94732 <text style="font-family: 'Roboto', sans-serif;color:#4c4c4c;">Río Blanco, Veracruz</text></text>
+                    <text id="dintop" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">OFICINAS</br> Camino Real #38 Int B, Col. Los Pinos</br> C.P. 94732 <text style="font-family: 'Roboto', sans-serif;color:#4c4c4c;">Río Blanco, Ver. México</text></text>
                     <hr style="border-top: 1px solid #8d8d8d;width:62%;" align="left">
-                    <text id="dintop2" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">OFICINA CORPORATIVA - VENTAS</br> Rufino Tamayo 4D, Col. Puebla Nuevo</br> C.P. 76900 <text style="font-size:15px;font-family: 'Roboto', sans-serif;color:#4c4c4c;">Corregidora Querétaro, Querétaro</text></text>
+                    <text id="dintop2" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">VENTAS</br> Rufino Tamayo #4 Int D, Col. Pueblo Nuevo</br> C.P. 76900 <text style="font-size:15px;font-family: 'Roboto', sans-serif;color:#4c4c4c;">Corregidora Querétaro, Qro. México</text></text>
                     <br><br>
                     <label for="rsociales" style="color:#4c4c4c;font-size:15px;">REDES SOCIALES</label><br>
                     <a href="https://www.facebook.com/Intop-Solutions-440490166697561/" target="_blank"><img src="Facebook_Icon.svg"></img></a>
@@ -117,7 +117,7 @@
         <div id="error_message"
                 style="width:100%; height:100%; display:none; ">
                     <h3>Error</h3>
-                    Lo sentimos, hubo un error enviando su mensaje :(
+                    Lo sentimos, hubo un error enviando su mensaje.
 
         </div>
     </div>
@@ -126,8 +126,8 @@
 <br><br><br><br><br>
 
 <div style="padding-left:10%;">
-  <h2 style="font-family: 'Roboto', sans-serif;">OFICINA MATRIZ</h2>
-  <p style="font-family: 'Roboto', sans-serif;">CAMINO REAL #38 INT B, COL. LOS PINOS</br>C.P. 94732 RÍO BLANCO, VERACRUZ</p>
+  <h2 style="font-family: 'Roboto', sans-serif;">OFICINAS</h2>
+  <p style="font-family: 'Roboto', sans-serif;">CAMINO REAL #38 INT B, COL. LOS PINOS</br>C.P. 94732 RÍO BLANCO, VER. MÉXICO</p>
 </div>
 
 <iframe style="width:100%; height:300px;" 
@@ -140,8 +140,8 @@
 </iframe>
 <br><br><br><br>
 <div style="padding-left:10%;">
-<h2 style="font-family: 'Roboto', sans-serif;">OFICINA CORPORATIVA - VENTAS</h2>
-<p style="font-family: 'Roboto', sans-serif;">RUFINO TAMAYO 4D, COL. PUEBLA NUEVO</br>C.P. 76900 CORREGIDORA QUERÉTARO, QUERÉTARO</p>
+<h2 style="font-family: 'Roboto', sans-serif;">VENTAS</h2>
+<p style="font-family: 'Roboto', sans-serif;">RUFINO TAMAYO #4 INT D, COL. PUEBLO NUEVO</br>C.P. 76900 CORREGIDORA QUERÉTARO, QRO. MÉXICO</p>
 </div>
 <iframe style="width:100%; height:300px;" 
   frameborder="0" 
@@ -157,69 +157,7 @@
 
 <!-- Footer -->
 
-<footer class="container-fluid bg-grey py-5" style="background: black;">
-  <div class="container">
-   <div class="row">
-      <div class="col-md-6">
-         <div class="row">
-            <div class="col-md-6 ">
-               <div class="logo-part">
-                  <img src="Logo_intop_blanco_parte7.png" class="w-50 logo-footer"/>
-                  <br>
-                  <p style="color: #4c4c4c;">Soluciones operativas integrales para mejores análisis y toma de decisiones, todos nuestros sistemas son autofinanciables, se traduce en utilidades</p>
-                  <p style="color: #4c4c4c;">© 2019 INTOP Solutions</p>
-                  <p style="color: #4c4c4c;">Operado por GRAMA SAPI DE CV</p>
-               </div>
-            </div>
-            <div class="col-md-6 px-4">
-               <h6 style="color: white;">COMPAÑÍA</h6>
-               <p style="color: #4c4c4c;">TERMINOS Y CONDICIONES</p>
-               <p style="color: #4c4c4c;">POLÍTICAS DE PRIVACIDAD</p>
-            </div>
-         </div>
-      </div>
-      <div class="col-md-6">
-         <div class="row">
-            <div class="col-md-6 px-4">
-               <h6 style="color: white;">MENÚ</h6>
-                     <div class="row ">
-                  <div class="col-md-6">
-                     <ul style="list-style-type:none;padding-left:-20px;padding-inline-start: 0px;">
-                        <li> <a style="color: #4c4c4c;" href="index.php">INICIO</a> </li>
-                        <li> <a style="color: #4c4c4c;" href="productos.php">PRODUCTOS (SISTEMAS)</a> </li>
-                        <li> <a style="color: #4c4c4c;" href="servicios.php">SERVICIOS</a> </li>
-                        <li> <a style="color: #4c4c4c;" href="nosotros.php">COMPAÑÍA</a> </li>
-                        <li> <a style="color: #4c4c4c;" href="contacto.php">CONTACTO</a> </li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="col-md-6 ">
-               <h6 style="color: white;">CONTÁCTANOS</h6>
-               <p style="color: #4c4c4c;">ventas@intop.solutions</p>
-               <p style="color: #4c4c4c;font-size:13px;">TELEFONOS MEXICO</br>
-               <table style="color: #4c4c4c;font-size:12px;text-align:left;width:100%;">
-                <tr>
-                    <td>
-                        <p>OFICINAS</br>+ 52 (272) 115 52 77</p>
-                    </td>
-                    <td>
-                        <p>VENTAS</br>+52 (442) 624 77 53</p>
-                    </td>
-                </tr>
-               </table>
-                   
-               <form class="form-footer my-3">
-                  <input type="text" placeholder="Escribe tu email" name="search" style="width:100%;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
-                  <br><br>
-                  <input type="button" value="Enviar" style="width:100%;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
-               </form>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-</footer>
+<?php include "./footer.html" ?>
 
     <!-- JavaScript -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

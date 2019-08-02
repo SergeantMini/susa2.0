@@ -44,11 +44,9 @@
     </div>
 </nav>
 
-<div class="container" style="text-align:center;">
+<div  style="text-align:center;width:100%;">
   <div class="row" style="display: flex;width:100%;">
-    <div class="col-sm-8 form-group" style="display: flex;
-                                            display: -webkit-flex;
-                                            flex-wrap: wrap;">
+    <div class="col-sm-8 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;padding-left:5%;">
       <div class="container">
         <div class="row">
           <h2 style="font-family: 'Roboto', sans-serif;
@@ -83,8 +81,8 @@
                                             flex-wrap: wrap;">
       <div class="container">
         <div class="row" style="padding-top:20%;">
-            <div class="container" style="text-align:center;padding-top:5%;padding-bottom:5%;">
-                <img align="center" src="logo_sov.svg" style="width:75%;height:75%;"></img>
+            <div class="container" style="text-align:center">
+                <img align="center" src="logo_sov.svg" style="width:70%;height:70%;"></img>
             </div>
         </div>
       </div>
@@ -139,15 +137,15 @@
           </div>
           <div class="col-sm-6 form-group" style="padding-top:20%;">
               <div>
-                    <h5 style="font-family: 'Roboto', sans-serif; width:100%;font-weight: bold;text-align: left;padding-left:5%;padding-top:5%;color: #002E54;">
+                    <h6 style="font-family: 'Roboto', sans-serif; width:90%;font-weight: bold;text-align: left;padding-left:%;padding-top:5%;color: #002E54;">
                         CONTEMPLA LAS PRINCIPALES VARIABLES DE RUTAS:</br>
                                     -AUTOVENTA</br>
                                     -PREVENTA</br>
                                     -CALL CENTER</br>
                                     -PORTEO</br>
-                    </h5>
+                    </h6>
                   	<br>
-                  	<form>
+                  	<form style="text-align: left;padding-left:5%;">
                         <a href="sovrutas.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
                     </form>
               </div>
@@ -216,7 +214,8 @@
                   	color: #ffffff;">
                   	· Conocer la productividad de la flotilla, mediante gráficos que facilitan la toma de decisiones.</br>
                     · Estatus en tiempo real de carga de unidad</br>
-                    Cumple al 100% con la NORMA 87</br>
+                    · Cumple al 100% con la NORMA 87</br>
+                    · Estatus en tiempo real de cada unidad</br>
                     · ¿Cuánto equivale el tiempo productivo e improductivo de la flotilla? </br>
                     · En el proceso de carga o descarga, ¿cuál de mis clientes o clientes de mi cliente tarda más las unidades?</br>
                     · ¿Cuánto tiempo real están invirtiendo mis unidades por incidencias en el camino que retrasan mis viajes? </br>
@@ -257,7 +256,7 @@
                   	font-size: 17px;
                   	color: #ffffff;">
                   	 SISTEMAS MANEJADOS A TRAVÉS DE APLICACIONES.</br><br>
-                  	 Obtener el control donde antes era difícil tenerlo. Y calificar el desempeño por funciones. Información específica de las áreas de oportunidad contenidas en las revisiones con información inmediata a las área involucradas.
+                  	 Obtener el control donde antes era difícil tenerlo. Y calificar el desempeño por funciones. Información específica de las áreas de oportunidad contenidas en las revisiones con información inmediata a las áreas involucradas.
             </p>
         </div>
       </div>
@@ -327,53 +326,7 @@
 
 <!-- Footer -->
 
-<footer class="container-fluid bg-grey py-5" style="background: black;">
-  <div class="container">
-   <div class="row">
-      <div class="col-md-6">
-         <div class="row">
-            <div class="col-md-6 ">
-               <div class="logo-part">
-                  <img src="Logo_intop_blanco_parte7.png" class="w-50 logo-footer"/>
-                  <br>
-                  <p style="color: #4c4c4c;">Soluciones operativas integrales para mejores análisis y toma de decisiones, todos nuestros sistemas son autofinanciables, se traduce en utilidades</p>
-                  <p style="color: #4c4c4c;">© 2019 INTOP Solutions</p>
-                  <p style="color: #4c4c4c;">Operado por GRAMA SAPI DE CV</p>
-               </div>
-            </div>
-            <div class="col-md-6 px-4">
-               <h6 style="color: white;">COMPAÑÍA</h6>
-               <p style="color: #4c4c4c;">TERMINOS Y CONDICIONES</p>
-               <p style="color: #4c4c4c;">POLÍTICAS DE PRIVACIDAD</p>
-            </div>
-         </div>
-      </div>
-      <div class="col-md-6">
-         <div class="row">
-            <div class="col-md-6 px-4">
-               <h6 style="color: white;">MENÚ</h6>
-                     <ul style="list-style-type:none;padding-left:-20px;padding-inline-start: 0px;">
-                        <li> <a style="color: #4c4c4c;" href="index.php">INICIO</a> </li>
-                        <li> <a style="color: #4c4c4c;" href="productos.php">PRODUCTOS (SISTEMAS)</a> </li>
-                        <li> <a style="color: #4c4c4c;" href="servicios.php">SERVICIOS</a> </li>
-                        <li> <a style="color: #4c4c4c;" href="nosotros.php">COMPAÑÍA</a> </li>
-                        <li> <a style="color: #4c4c4c;" href="contacto.php">CONTACTO</a> </li>
-                     </ul>
-            </div>
-            <div class="col-md-6 ">
-               <h6 style="color: white;">CONTÁCTANOS</h6>
-               <p style="color: #4c4c4c;">ventas@intop.solutions<br/>+52 (272) 115 5277</p>
-               <form class="form-footer my-3">
-                  <input type="text" placeholder="Escribe tu email" name="search" style="width:180px;;background-color:transparent;color:#4c4c4c;font:18px 'Roboto', sans-serif;;border: solid 1px #4c4c4c;"/>
-                  <br><br>
-                  <input type="button" value="Enviar" style="width:180px;background-color:white;color:black;border: none;font:18px 'Roboto', sans-serif;border: solid 1px white;">
-               </form>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-</footer>
+<?php include "./footer.html" ?>
 
     <!-- JavaScript -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
