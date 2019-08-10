@@ -13,6 +13,32 @@
     <title>Intop Solutions</title>
   </head>
   <body>
+    <style>
+#recuadrodobleblanco{
+    padding-top:10%;
+    padding-bottom:10%;
+    padding-left:10%;
+    padding-right:10%;
+    text-align:center;
+    color:#002E54;
+    font-weight:bold;
+    font-family: 'Roboto', sans-serif;
+    border: solid 2px #002E54;
+    flex:1;
+}
+#recuadrodobleazul{
+    padding-top:10%;
+    padding-bottom:10%;
+    padding-left:10%;
+    padding-right:10%;
+    text-align:center;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    flex:1;
+    border: solid 2px #002E54;
+    background-color:#002E54;
+}
+</style>
     
     <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
     <div class="container" style="margin-left: 0px;">
@@ -48,18 +74,14 @@
 
 <div class="container" style="text-align:center;">
   <div class="row" style="display: flex;width:100%;">
-    <div class="col-sm-8 form-group" style="display: flex;
+    <div class="col-sm-9 form-group" style="display: flex;
                                             display: -webkit-flex;
                                             flex-wrap: wrap;">
       <div class="container">
         <div class="row">
-          <h1 style="font-family: 'Roboto', sans-serif;
-                  	font-weight: bold;
-                  	text-align: left;
-                  	padding-top: 10%;
-                  	padding-bottom: 10px;
-                  	font-size: 70px;
-                  	color: #002C55;">SOV AUTOTRANSPORTE</h1>
+          <h1 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;padding-top: 10%;padding-bottom: 10px;font-size: 70px;color: #002C55;">
+            SOV AUTOTRANSPORTE
+        </h1>
         </div>
         <div class="row">
           <h5 style="font-family: 'Roboto', sans-serif;
@@ -70,13 +92,12 @@
         </div>
       </div>
     </div>
-    <div class="col-sm-4 form-group" style="display: flex;
-                                            display: -webkit-flex;
-                                            flex-wrap: wrap;">
+    <div class="col-sm-3 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
       <div class="container">
         <div class="row" style="padding-top:20%;">
             <div class="container" style="text-align:center;">
-                <img align="center" src="logo_sov.svg" style="max-width:95%;max-height:95%;"></img>
+            <br><br>
+                <img align="center" src="logo_sov.svg" style="max-width:80%;max-height:80%;"></img>
             </div>
         </div>
       </div>
@@ -96,13 +117,16 @@
     <ul>
     <div class="carousel-item active">
       <div class="anim1" style="height:620px;">
-        <div class="container" align="center" style="width:100%;padding-top:10%;padding-bottom:10%;">
-            <div class="row" style="text-align:center;width:100%;">
-              <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">Nuestros sistemas convierten tu problemática en ventajas competitivas
+        <div align="center" style="width:100%;padding-top:10%;padding-bottom:10%;">
+            <div class="row" align="center" style="text-align:center;width:100%;">
+              <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">
+                Nuestros sistemas convierten tu problemática en ventajas competitivas
               </h3>
             </div>
             <div align="center" class="row" style="text-align:center;width:100%;">
-              <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;padding-top:5%;padding-bottom:5%;">EFICACIA = UTILIDADES</h1>
+              <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;padding-top:5%;padding-bottom:5%;">
+                EFICACIA = UTILIDADES
+              </h1>
             </div>
         </div>
       </div>
@@ -111,20 +135,22 @@
        <div class="anim2" style="height:620px;">
             <div class="container" align="center" style="width:100%;">
                 <div class="row" style="text-align:center;width:100%;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:15%;">Por un sistema generador de indicadores que apoyan un proceso sencillo y claro en la toma de decisiones comerciales y la eficiencia en el servicio a clientes
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:15%;">
+                    SOV ofrece garantía de funcionamiento, ocupando los mejores sistemas de soporte
                   </h3>
                 </div>
                 <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;padding-bottom:10%;">
-                <img align="center" src="icono_generador_parte3_slider2.png"></img>
+                    <img align="center" src="rectangulo 1_sovr.svg"></img>
                 </div>
             </div>
         </div>
     </div>
     <div class="carousel-item">
-       <div class="anim3" style="display:flex;">
+       <div class="anim3" style="min-height:620px;display:flex;">
             <div class="container" align="center" style="width:100%;">
                 <div class="row" style="text-align:center;width:100%;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;padding-bottom:5%;">Las principales desviaciones comerciales en cualquier operación están contempladas en el Sistema SOV
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;padding-bottom:5%;">
+                    CONCEPTOS DE SOV AUTOTRANSPORTE
                   </h3>
                 </div>
                 <div class="row" style="text-algin:center;width:90%;" align="center">
@@ -133,21 +159,27 @@
                         <div class="col-sm" style="display:flex;">
                           <div class="card tarjeta" style="background:transparent;border-color:white;">
                             <div class="card-body">
-                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">LA POSIBILIDAD DE QUE UNA PERSONA QUE NO CONOCE LAS RUTAS LAS REALICE</p>
+                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">
+                                Métodos y herramientas; tecnología y experiencia
+                              </p>
                             </div>
                           </div>
                         </div>
                         <div class="col-sm" style="display:flex;">
                           <div class="card tarjeta" style="background:transparent;border-color:white;">
                             <div class="card-body">
-                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">LOS PRECIOS A LOS QUE SE LE VENDE A CADA CLIENTE</p>
+                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">
+                                Registro, control y seguimiento de operaciones logísticas de autotransporte
+                              </p>
                             </div>
                           </div>
                         </div>
                         <div class="col-sm" style="display:flex;">
                           <div class="card tarjeta" style="background:transparent;border-color:white;">
                             <div class="card-body">
-                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">CONOCE SI CADA RUTA TIENE LA COBERTURA ADECUADA</p>
+                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">
+                                Optimización de recursos y sistemas
+                              </p>
                             </div>
                           </div>
                         </div>
@@ -171,132 +203,133 @@
 
 <br><br><br>
 
+<div class="row">
+<div class="container" style="width:70%;">
+    <table>
+        <tr>
+            <td style="border-left: 4px solid #002E54;size:contain;">
+                <h5 style="padding-left:15px;text-align:left;color: #002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:35px;">
+                    CONCEPTOS DE SOV AUTOTRANSPORTE
+                </h5> 
+            </td>
+        </tr>
+    </table>
+    <br><br>
+  <div class="row" align="center" style="">
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+      <div id="recuadrodobleblanco" >
+        <div class="card-body">
+            <p>
+                Métodos y herramientas
+            </p>
+        </div>
+    </div>
+    </div>
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+      <div id="recuadrodobleblanco">
+        <div class="card-body">
+            <p class="card-text">
+                Registro, control y seguimiento de operaciones logísticas de Autotransporte
+            </p>
+        </div>
+    </div>
+    </div>
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
+      <div id="recuadrodobleblanco">
+        <div class="card-body">
+            <p class="card-text">
+                Optimización
+            </p>
+        </div>
+    </div>
+    </div>
+  </div>
+  <div class="row" style="padding-top:%;">
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
+      <div id="recuadrodobleazul">
+        <div class="card-body">
+            <p>
+                Tecnología y experiencia
+            </p>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
+      <div id="recuadrodobleazul">
+        <div class="card-body">
+            <p class="card-text">
+                Reportes precisos en tiempo real
+            </p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
+      <div id="recuadrodobleazul">
+        <div class="card-body">
+            <p>
+                Recursos y sistemas
+            </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+<br><br><br>
+
+
 <div class="container">
   <div class="row">
-    <div class="col-sm">
-      <h2 class="titulo">VENTAJAS COMPETITIVAS</h2>
-    </div>
-  </div>
-  <div class="row">
-    <div class="col-sm">
-      <h5 class="subtitulo">CÍRCULO DE CALIDAD DE SERVICIOS</h5>
-    </div>
-  </div>
-</div>
-
-<br><br>
-
-<div class="container">
-  <div class="row">
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-      <div class="card" style="flex:1;">
-  <div class="card-body">
-    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Tener la posibilidad de que una persona que no conoce la ruta la pueda realizar al 100%</p>
-  </div>
-</div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-      <div class="card" style="flex:1;">
-  <div class="card-body">
-    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Tener libros de ruta actualizando en forma automática</p>
-  </div>
-</div>
-    </div>
-    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-      <div style="flex:1;" class="card">
-  <div class="card-body">
-    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Punteo en mapas electrónico al 100%, actualizados en forma automática</p>
-  </div>
-</div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-  <div class="card-body">
-    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Registro de visita a cliente por horario y por los no visitadosan</p>
-  </div>
-</div>
-    </div>
-  </div>
-  <div class="row" style="padding-top:2%;">
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conoce la cobertura y penetración de tus productos</p>
-        </div>
+  <div class="col-sm-4" style="vertical-align:middle">
+    <br><br><br><br><br>
+        <table align="right" style="width:100%;height:120px;">
+        <tr>
+            <td style="border-left: 4px solid #002E54;padding-left:15px;">
+                <h2 style="text-align:left;color:#002E54;font-weight:medium;font-family: 'Roboto', sans-serif;">
+                    GENERADOR DE INDICADORES
+                </h2>
+                <h5 style="text-align:left;color: #4c4c4c;font-family: 'Roboto', sans-serif;">
+                    APOYAN UN PROCESO SENCILLO Y CLARO
+                </h5> 
+            </td>
+        </tr>
+        </table>
       </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conocer si cada ruta tiene la cobertura adecuada</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conocer los horarios y ubicación en que el vendedor realizó las operaciones</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Los precios a los que se le vende a cada cliente</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="row" style="padding-top:2%;">
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Reportes de liquidación por ruta</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Los clientes en dispositivo, que nos permite realizar ventas a clientes de otro día</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Reporte de pedido contra surtido por cliente</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Efectividad de visita y de compra</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="row" style="padding-top:2%;">
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Venta promedio por ruta</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Permite un acercamiento visual a los clientes, rutas y estatus gracias a sus mapas</p>
-        </div>
-      </div>
+    <div class="col-sm-8">
+        <img src="GRAFICA CIRCULO_0.svg" style="width:85%;height:85%;"></img>
     </div>
   </div>
 </div>
 
-<br><br>
+<br><br><br>
 
+<div style="background: #002C55;">
+    <div class="row" style="text-algin:center;width:100%;" align="center">
+        <div class="container">
+            <div class="row" align="center" style="padding-top:7%;padding-bottom:7%;padding-left:15%;padding-right:15%;text-align:center;">
+                <div class="col-sm" style="display:flex;">
+                    <div class="card tarjeta" style="background:white;border-color:white;text-align:center;padding-top:5%;padding-bottom:5%;padding-right:5%;padding-left:5%;">
+                        <table align="right" style="width:100%;">
+                            <tr>
+                                <td style="border-left: 7px solid #002E54;padding-left:15px;">
+                                    <h2 style="font-size:40px;text-align:left;color:#002E54;font-weight:medium;font-family: 'Roboto', sans-serif;">
+                                        NORMATIVIDAD
+                                    </h2>
+                                    <h5 style="font-size:27px;text-align:left;color: #4c4c4c;font-family: 'Roboto', sans-serif;">
+                                        SOV Autotransporte cumple con la Norma Oficial Mexicana PROY NOM-087-SCT-2-2017 que establece los tiempos de conducción y pausas para conductores de los servicios de autotransporte federal, así como la inspección ocular.
+                                    </h5> 
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-color: #D4D3DA;">
   <ol class="carousel-indicators">
@@ -332,7 +365,9 @@
                         <img src="laptop.png" style="max-width:90%;max-height:90%">
                       </td>
                       <td style="text-align:center">
-                        <h1 style="color:#002E54;padding-top:40px;font-weight:bold;font-size: 38px;text-align:left">NUESTROS SISTEMAS CONTEMPLAN LAS PRINCIPALES VARIANTES DE RUTA </h1>
+                        <h1 style="color:#002E54;padding-top:40px;font-weight:bold;font-size: 38px;text-align:left">
+                            NUESTROS SISTEMAS CONTEMPLAN LAS PRINCIPALES VARIANTES DE RUTA
+                        </h1>
                         <p style="color:black;padding-top:40px;font-size: 27px;font-family: 'Roboto', sans-serif;text-align:left">Autoventa</br>Preventa</br>Call Center</br>Porteo</p>
                       </td>
                     </tr>
