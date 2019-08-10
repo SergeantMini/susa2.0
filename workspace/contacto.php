@@ -58,7 +58,7 @@
         <hr style="border-top: 2px solid #8d8d8d;width:50px;" align="center">
         <br>
     </div>
-        <form name="contactform" method="post" action="send_form_email.php" enctype="multipart/form-data" style="height:auto; margin:0 auto;width:70%;">
+        <form name="contactform" method="post" <!--action="send_form_email.php"--> enctype="multipart/form-data" style="height:auto; margin:0 auto;width:70%;">
             <div class="row">
                 <div class="col-sm-6 form-group">
                     <p style="font-family: 'Roboto', sans-serif;font-weight:bold;font-size:21px;">Siempre estamos listos para ayudarte. Escribenos y te contactaremos con gusto.</p>
@@ -151,9 +151,6 @@
   src="https://www.openstreetmap.org/export/embed.html?bbox=-100.43059051036835%2C20.54537525793482%2C-100.42648136615755%2C20.54844943264829&amp;layer=mapnik&amp;marker=20.54691235301952%2C-100.42853593826294"
   style="border: 0px solid black">
 </iframe>
-
-
-
 
 <!-- Footer -->
 
