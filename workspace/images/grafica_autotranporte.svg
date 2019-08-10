@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="798px" height="778px" viewBox="0 0 798 778" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>grafica generador de indicadores</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.000541486185 288.434298 0.000541486185 288.434298 264.714982 0 264.714982"></polygon>
+        <polygon id="path-3" points="4.20445256e-05 -2.84217094e-14 305.286689 -2.84217094e-14 305.286689 297.544634 4.20445256e-05 297.544634"></polygon>
+        <polygon id="path-5" points="0 -2.84217094e-14 272.712523 -2.84217094e-14 272.712523 286.800307 0 286.800307"></polygon>
+        <polygon id="path-7" points="0 0.000535740939 281.969212 0.000535740939 281.969212 297.707596 0 297.707596"></polygon>
+        <polygon id="path-9" points="0 0 280.448407 0 280.448407 284.95465 0 284.95465"></polygon>
+        <polygon id="path-11" points="0.000345839059 0.00117466913 296.946653 0.00117466913 296.946653 281.579043 0.000345839059 281.579043"></polygon>
+        <polygon id="path-13" points="0.000832871325 0 301.824702 0 301.824702 283.927174 0.000832871325 283.927174"></polygon>
+    </defs>
+    <g id="AUTOTRANSPORTE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SOV-AUTOTRANSPORTE" transform="translate(-599.000000, -2145.000000)">
+            <g id="Parte-3" transform="translate(76.000000, 2145.000000)">
+                <g id="grafica-generador-de-indicadores" transform="translate(523.000000, 0.000000)">
+                    <g id="registro" transform="translate(226.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M194.141387,260.310526 L134.281493,264.633155 C122.371004,265.493208 111.015968,259.519603 105.05355,249.2559 L4.16385461,75.6167344 C-5.29320922,59.3407948 1.99942908,38.6039669 19.542344,31.5303886 C27.6363936,28.269101 35.8780177,25.2314678 44.2651667,22.4235887 C117.343223,-2.03403497 192.427883,-5.8341263 263.073011,7.85962175 C281.642798,11.4584241 292.852309,30.3470536 286.77306,48.1235108 L221.356578,239.433406 C217.337223,251.185427 206.617578,259.409809 194.141387,260.310526" id="Fill-1" fill="#AAB1C3" mask="url(#mask-2)"></path>
+                    </g>
+                    <text id="GEOLOCALIZACIÓN-DE-S" font-family="Roboto-Medium, Roboto" font-size="22" font-weight="400" letter-spacing="1.82397985" fill="#FFFFFF">
+                        <tspan x="264.668296" y="79">GEOLOCALIZACIÓN </tspan>
+                        <tspan x="333.934799" y="104">DE SUS </tspan>
+                        <tspan x="297.345921" y="129">OPERADORES</tspan>
+                    </text>
+                    <g id="cobertuda-clientes" transform="translate(463.000000, 39.000000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M51.7526635,288.379703 L9.11115,245.951442 C0.222677027,237.109415 -2.43828243,223.872908 2.35227162,212.348881 L82.6855419,19.2142644 C89.8641365,1.95679863 110.721758,-5.1319274 127.202339,4.0060589 C200.776731,44.8014425 262.528772,106.875251 302.02965,185.104333 C310.448785,201.776004 301.87665,221.95836 284.031474,228.018374 L84.2548257,295.858278 C72.8645959,299.726155 60.2379608,296.819634 51.7526635,288.379703" id="Fill-1" fill="#44557A" mask="url(#mask-4)"></path>
+                    </g>
+                    <text id="CUMPLE-CON-LA-NOM-87" font-family="Roboto-Medium, Roboto" font-size="22" font-weight="400" letter-spacing="1.82397985" fill="#FFFFFF">
+                        <tspan x="514.522549" y="179">CUMPLE CON LA </tspan>
+                        <tspan x="527.5195" y="204">NOM 87 DE LA </tspan>
+                        <tspan x="587.923698" y="229">SCT</tspan>
+                    </text>
+                    <g id="cobertura-productos" transform="translate(525.000000, 291.000000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M189.2163,282.178604 L14.8995955,176.17383 C4.64968636,169.941249 -1.07504091,158.485674 0.167936364,146.692213 L6.41177727,87.4053411 C7.71473182,75.0480574 16.4052318,64.6590645 28.4772091,61.0298376 L226.9813,1.36029858 C245.255755,-4.13341064 264.142391,7.58880922 267.192959,26.1522135 C281.01255,110.20454 268.452482,194.23244 234.389527,268.547121 C226.582141,285.575788 205.364664,291.997667 189.2163,282.178604" id="Fill-1" fill-opacity="0.70069067" fill="#44557A" mask="url(#mask-6)"></path>
+                    </g>
+                    <text id="CAMBIO-DE-ESTATUS-DU" font-family="Roboto-Medium, Roboto" font-size="22" font-weight="400" letter-spacing="1.82397985" fill="#FFFFFF">
+                        <tspan x="606.875587" y="382">CAMBIO DE </tspan>
+                        <tspan x="620.564313" y="407">ESTATUS </tspan>
+                        <tspan x="599.878148" y="432">DURANTE EL </tspan>
+                        <tspan x="585.813445" y="457">RECORRIDO EN </tspan>
+                        <tspan x="593.616548" y="482">TIEMPO REAL</tspan>
+                    </text>
+                    <g id="reportes" transform="translate(421.000000, 471.000000)">
+                        <mask id="mask-8" fill="white">
+                            <use xlink:href="#path-7"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M54.2829117,296.9719 C35.6173058,301.015311 17.6168533,287.927804 16.1460796,269.100736 L0.091510219,63.446037 C-0.831854745,51.5913521 5.18757591,40.2571466 15.5862766,34.2746945 L67.8586489,4.20935205 C78.7572474,-2.05885342 92.3908241,-1.27099041 102.473474,6.20758493 L269.435211,130.059242 C284.527167,141.254653 286.260284,162.973955 273.163788,176.398242 C226.677423,224.053749 168.255481,261.703804 100.40778,284.323229 C85.100992,289.425968 69.7074445,293.632667 54.2829117,296.9719 Z" id="Fill-1" fill="#D4D3DA" mask="url(#mask-8)"></path>
+                    </g>
+                    <text id="REPORTES-DE-CONSULTA" font-family="Roboto-Medium, Roboto" font-size="22" font-weight="400" letter-spacing="1.65816355" fill="#002C55">
+                        <tspan x="467.894749" y="603">REPORTES DE </tspan>
+                        <tspan x="485.770178" y="628">CONSULTA </tspan>
+                        <tspan x="494.315588" y="653">ÁGILES Y </tspan>
+                        <tspan x="474.832698" y="678">OPORTUNOS</tspan>
+                    </text>
+                    <g id="efectividad" transform="translate(138.000000, 493.000000)">
+                        <mask id="mask-10" fill="white">
+                            <use xlink:href="#path-9"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M246.363732,284.867614 C160.90851,278.689533 79.485117,247.892518 12.3739911,197.462889 C-2.83955704,186.030495 -4.26120889,164.152413 9.42245037,151.010539 L157.401213,8.8659426 C166.041443,0.566239528 178.786354,-2.18070232 190.207443,1.79454686 L247.606376,21.7783965 C259.570732,25.9424599 267.817561,36.6906565 268.537754,49.0630613 L280.398036,252.371272 C281.484569,271.019211 265.463406,286.248191 246.363732,284.867614" id="Fill-1" fill="#44557A" mask="url(#mask-10)"></path>
+                    </g>
+                    <text id="INTEGRACIÓN-Y-ALMACE" font-family="Roboto-Medium, Roboto" font-size="22" font-weight="400" letter-spacing="1.82397985" fill="#FFFFFF">
+                        <tspan x="202.79794" y="623">INTEGRACIÓN Y </tspan>
+                        <tspan x="182.668176" y="648">ALMACENAMIENTO </tspan>
+                        <tspan x="211.487273" y="673">HISTÓRICO DE </tspan>
+                        <tspan x="216.798189" y="698">BITÁCORAS Y </tspan>
+                        <tspan x="225.439183" y="723">CHECK LIST</tspan>
+                    </text>
+                    <g id="venta-promedio" transform="translate(0.000000, 353.000000)">
+                        <mask id="mask-12" fill="white">
+                            <use xlink:href="#path-11"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M133.107701,273.023204 C119.55284,285.729552 97.7202014,284.1009 86.4893264,269.353117 C59.4209931,233.808857 37.5593819,193.452204 22.3737986,149.008596 C9.17902083,110.39503 1.89664583,71.2256391 0.0362152778,32.4485957 C-0.863993056,13.658813 15.3066458,-1.56918696 34.2793125,0.130986957 L247.030618,19.1864217 C259.037535,20.2633348 269.361993,28.0244652 273.606424,39.1695957 L294.934118,95.1772478 C299.381354,106.849596 296.316507,120.01777 287.157146,128.604465 L133.107701,273.023204 Z" id="Fill-1" fill="#7C88A1" mask="url(#mask-12)"></path>
+                    </g>
+                    <text id="COMUNICACIÓN-ACERTIV" font-family="Roboto-Medium, Roboto" font-size="22" font-weight="400" letter-spacing="1.82397985" fill="#FFFFFF">
+                        <tspan x="53.4862967" y="425">COMUNICACIÓN </tspan>
+                        <tspan x="51.3013575" y="450">ACERTIVAHACIA </tspan>
+                        <tspan x="63.2240896" y="475">SUS CLIENTES </tspan>
+                        <tspan x="49.9381957" y="500">DEL ESTATUS DE </tspan>
+                        <tspan x="78.0890851" y="525">SUS VIAJES</tspan>
+                    </text>
+                    <g id="supervisiones" transform="translate(15.000000, 68.000000)">
+                        <mask id="mask-14" fill="white">
+                            <use xlink:href="#path-13"></use>
+                        </mask>
+                        <g id="Clip-2"></g>
+                        <path d="M233.54599,283.677717 L27.3702636,257.688813 C8.56566708,255.318404 -3.75472816,237.14798 1.03928828,219.036663 C22.4875073,138.014713 67.8397696,64.1773663 131.893442,7.89491158 C146.10214,-4.59101286 168.165346,-1.96175355 178.812067,13.6059074 L296.456363,185.643032 C303.506023,195.952174 303.621591,209.430695 296.749411,219.856014 L263.775328,269.864934 C257.216833,279.813317 245.472215,285.179859 233.54599,283.677717" id="Fill-1" fill="#44557A" mask="url(#mask-14)"></path>
+                    </g>
+                    <text id="SISTEMA-DE-ALARMAS" font-family="Roboto-Medium, Roboto" font-size="22" font-weight="400" letter-spacing="1.82397985" fill="#FFFFFF">
+                        <tspan x="99.4089093" y="233">SISTEMA DE </tspan>
+                        <tspan x="113.370465" y="258">ALARMAS</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
