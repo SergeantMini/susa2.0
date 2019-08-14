@@ -98,11 +98,14 @@
       <div class="anim1" style="height:620px;">
         <div class="container" align="center" style="width:100%;padding-top:10%;padding-bottom:10%;">
             <div class="row" style="text-align:center;width:100%;">
-              <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">Nuestros sistemas convierten tu problemática en ventajas competitivas
+              <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">
+                Obtener una calificación general desde 3 perspectivas nos brinda un resultado
               </h3>
             </div>
             <div align="center" class="row" style="text-align:center;width:100%;">
-              <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;padding-top:5%;padding-bottom:5%;">EFICACIA = UTILIDADES</h1>
+              <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;padding-top:5%;padding-bottom:5%;">
+                EFICACIA = UTILIDADES
+              </h1>
             </div>
         </div>
       </div>
@@ -111,7 +114,8 @@
        <div class="anim2" style="height:620px;">
             <div class="container" align="center" style="width:100%;">
                 <div class="row" style="text-align:center;width:100%;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:15%;">Por un sistema generador de indicadores que apoyan un proceso sencillo y claro en la toma de decisiones comerciales y la eficiencia en el servicio a clientes
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:15%;">
+                     5 aplicaciones corriendo simultáneamente para crear evaluaciones que hacen un sistema único que trabaja para el beneficio de tu empresa
                   </h3>
                 </div>
                 <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;padding-bottom:10%;">
@@ -121,38 +125,15 @@
         </div>
     </div>
     <div class="carousel-item">
-       <div class="anim3" style="display:flex;">
+       <div class="anim3" style="height:620px;">
             <div class="container" align="center" style="width:100%;">
                 <div class="row" style="text-align:center;width:100%;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;padding-bottom:5%;">Las principales desviaciones comerciales en cualquier operación están contempladas en el Sistema SOV
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:15%;">
+                    Las principales desviaciones comerciales en cualquier operación están contempladas en el Sistema SOV
                   </h3>
-                </div>
-                <div class="row" style="text-algin:center;width:90%;" align="center">
-                <div class="container">
-                      <div class="row" style="padding-bottom:10%;">
-                        <div class="col-sm" style="display:flex;">
-                          <div class="card tarjeta" style="background:transparent;border-color:white;">
-                            <div class="card-body">
-                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">LA POSIBILIDAD DE QUE UNA PERSONA QUE NO CONOCE LAS RUTAS LAS REALICE</p>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="col-sm" style="display:flex;">
-                          <div class="card tarjeta" style="background:transparent;border-color:white;">
-                            <div class="card-body">
-                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">LOS PRECIOS A LOS QUE SE LE VENDE A CADA CLIENTE</p>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="col-sm" style="display:flex;">
-                          <div class="card tarjeta" style="background:transparent;border-color:white;">
-                            <div class="card-body">
-                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">CONOCE SI CADA RUTA TIENE LA COBERTURA ADECUADA</p>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
+                  <div class="container" style="padding-top:5%;">
+                    <img align="center" src="./images/icono funcionamiento.svg"/>
+                  </div>
                 </div>
             </div>
       </div>
@@ -186,109 +167,70 @@
 
 <br><br>
 
+<style>
+    #recuadrosvc{
+        padding-top:5%;
+        padding-bottom:5%;
+        padding-left:5%;
+        padding-right:5%;
+        text-align:center;
+        font-family: 'Roboto', sans-serif;
+        font-size:22px;
+    }
+</style>
+
 <div class="container">
   <div class="row">
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
       <div class="card" style="flex:1;">
-  <div class="card-body">
-    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Tener la posibilidad de que una persona que no conoce la ruta la pueda realizar al 100%</p>
-  </div>
-</div>
+        <div class="card-body">
+            <p class="card-text" id="recuadrosvc">
+                La confianza y certidumbre de saber que está realizando nuestro personal operativo, así como sus horarios. Conocer qué actividades se realizaron contra las actividades programadas y conocer si fueron realizadas desde la ubicación real o no. En Resumen un control efectivo.
+            </p>
+        </div>
     </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-      <div class="card" style="flex:1;">
-  <div class="card-body">
-    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Tener libros de ruta actualizando en forma automática</p>
-  </div>
 </div>
-    </div>
-    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-      <div style="flex:1;" class="card">
-  <div class="card-body">
-    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Punteo en mapas electrónico al 100%, actualizados en forma automática</p>
-  </div>
 </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-  <div class="card-body">
-    <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Registro de visita a cliente por horario y por los no visitadosan</p>
-  </div>
-</div>
-    </div>
-  </div>
   <div class="row" style="padding-top:2%;">
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
       <div style="flex:1;" class="card">
         <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conoce la cobertura y penetración de tus productos</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conocer si cada ruta tiene la cobertura adecuada</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Conocer los horarios y ubicación en que el vendedor realizó las operaciones</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Los precios a los que se le vende a cada cliente</p>
+            <p class="card-text" id="recuadrosvc">
+                Obtener el control donde antes era difícil tenerlo. Y calificar el desempeño por funciones.
+            </p>
         </div>
       </div>
     </div>
   </div>
   <div class="row" style="padding-top:2%;">
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
       <div style="flex:1;" class="card">
         <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Reportes de liquidación por ruta</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Los clientes en dispositivo, que nos permite realizar ventas a clientes de otro día</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10%;padding-right:10%;text-align:center;">Reporte de pedido contra surtido por cliente</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div style="flex:1;" class="card">
-        <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Efectividad de visita y de compra</p>
+            <p class="card-text" id="recuadrosvc">
+                Información específica de las áreas de oportunidad contenidas en las revisiones con información inmediata a las áreas involucradas.
+            </p>
         </div>
       </div>
     </div>
   </div>
   <div class="row" style="padding-top:2%;">
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
       <div style="flex:1;" class="card">
         <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Venta promedio por ruta</p>
+            <p class="card-text" id="recuadrosvc">
+                ¿Cómo saber si los clientes que consideras fieles realmente lo son? Interpretar su nivel de satisfacción te permitirá implementar mejores prácticas, enfocadas en la experiencia de usuario. Descubre en qué consiste el NPS y brinda un servicio focalizado en las relaciones con tus clientes.
+            </p>
         </div>
       </div>
     </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
+  </div>
+  <div class="row" style="padding-top:2%;">
+    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
       <div style="flex:1;" class="card">
         <div class="card-body">
-            <p class="card-text" style="padding-top:10%;padding-bottom:10%;padding-left:10;padding-right:10%;text-align:center;">Permite un acercamiento visual a los clientes, rutas y estatus gracias a sus mapas</p>
+            <p class="card-text" id="recuadrosvc">
+                5 aplicaciones corriendo simultáneamente para hacer de SOV Evaluación un Sistema único trabajando en beneficio de su empresa.
+            </p>
         </div>
       </div>
     </div>
@@ -297,32 +239,26 @@
 
 <br><br>
 
+<style>
+    #textocuadrogris{
+        padding-top:5%;
+        padding-bottom:5%;
+        padding-left:5%;
+        padding-right:5%;
+        text-align:left;
+        font-family: 'Roboto', sans-serif;
+        font-size:38px;
+        color: #002E54;
+        font-weight:bold;
+    }
+</style>
 
-<div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-color: #D4D3DA;">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
-  </ol>
-  <div class="carousel-inner">
-    <ul>
-    <div class="carousel-item">
-       <div class="anim5" style="display:flex;">
-            <div class="container" align="center" style="width:100%;padding-top:5%;padding-bottom:5%;">
-                  <table style="width:100%;">
-                    <tr style="width:100%;">
-                      <td style="text-align:center;">
-                        <img src="laptop.png" style="max-width:90%;max-height:90%">
-                      </td>
-                      <td style="text-align:center">
-                        <h1 style="color:#002E54;padding-top:40px;font-weight:bold;font-size: 38px;text-align:left">NUESTROS SISTEMAS CONTEMPLAN LAS PRINCIPALES VARIANTES DE RUTA </h1>
-                        <p style="color:black;padding-top:40px;font-size: 27px;font-family: 'Roboto', sans-serif;text-align:left">Autoventa</br>Preventa</br>Call Center</br>Porteo</p>
-                      </td>
-                    </tr>
-                  </table>
-                </div>
-      </div>
+<div style="background-color:#D4D3DA;">
+    <div class="container">
+        <p id="textocuadrogris">PERMITE GENERAR PROGRAMAS DE ACTIVIDADES EN LA APP</p>
+        <br>
+        <p id="textocuadrogris">AUTOADMINISTRABLE (FACILITA ESTRUCTURAR EL SISTEMA DE ACORDE A LAS NECESIDADES DE CADA EMPRESA)</p>
     </div>
-    </ul>
-  </div>
 </div>
 
 
