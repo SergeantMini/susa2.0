@@ -450,28 +450,6 @@
 
 <br><br><br><br>
 
-<div style="background-color:#E4E4E4;width:100%;">
-    <div class="container" style="padding-top:5%;padding-bottom:5%;">
-        <div class="row">
-            <div class="col-sm-4" style="padding-top:10%;padding-bottom:10%;"> 
-                <h2 style="color:#002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:50px;">
-                    REPORTES
-                </h2>
-                <p style="color:black;font-weight:light;font-family: 'Roboto', sans-serif;font-size:20px;">
-                    El sistema SOV cuenta con estos</br> reportes que ayudan a tener resultados tangibles de las operaciones
-                </p>
-                <form>
-                    <input type="button" onclick="window.location='sovrutas.php';" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
-                </form>
-            </div>
-            <div class="col-sm-8">
-                <img src="laptop.png" style="width:100%;height:100%;"/>
-            </div>
-        </div>
-    </div>
-</div>
-
-<br>
 <!--Collapsibles-->
 <style>
 .collapsible {
@@ -616,6 +594,24 @@ button:focus {outline:0;}
 }
 </style>
 <div style="background-color:#E4E4E4;width:100%;">
+    <div class="container" style="padding-top:5%;padding-bottom:5%;">
+        <div class="row">
+            <div class="col-sm-4" style="padding-top:10%;padding-bottom:10%;"> 
+                <h2 style="color:#002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:50px;">
+                    REPORTES
+                </h2>
+                <p style="color:black;font-weight:light;font-family: 'Roboto', sans-serif;font-size:20px;">
+                    El sistema SOV cuenta con estos</br> reportes que ayudan a tener resultados tangibles de las operaciones
+                </p>
+                <form>
+                    <input type="button" onclick="window.location='sovrutas.php';" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
+                </form>
+            </div>
+            <div class="col-sm-8">
+                <img src="laptop.png" style="width:100%;height:100%;"/>
+            </div>
+        </div>
+    </div>
     <div class="container" style="padding-top:5%;padding-bottom:5%;">
         <button class="collapsible">LIBRO DE RUTA</button>
         <div class="content">
