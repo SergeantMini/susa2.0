@@ -54,11 +54,14 @@
       <!--img src="Rectangulo_blanco_contacto.png" style="visibility: hidden;position:fixated;"  /-->
     <div style="background-image: url('Rectangulo_blanco_contacto.png');background-position:center;background-repeat: no-repeat;background-size:90% 100%;width:100%;padding-top:10%">
     <div class="col-md-12" id="form_container">
-        <h2 style="font-family: 'Roboto', sans-serif; font-weight:bold;text-align:center; font-size:50px;"></br>Contáctanos</h2>
+        <h2 style="font-family: 'Roboto', sans-serif; font-weight:bold;text-align:center; font-size:50px;">
+            </br>Contáctanos
+        </h2>
         <hr style="border-top: 2px solid #8d8d8d;width:50px;" align="center">
         <br>
     </div>
-        <form name="contactform" method="post" <!--action="send_form_email.php"--> enctype="multipart/form-data" style="height:auto; margin:0 auto;width:70%;">
+    <!--action="send_form_email.php"-->
+        <form name="contactform" method="post" enctype="multipart/form-data" style="height:auto; margin:0 auto;width:70%;">
             <div class="row">
                 <div class="col-sm-6 form-group">
                     <p style="font-family: 'Roboto', sans-serif;font-weight:bold;font-size:21px;">Siempre estamos listos para ayudarte. Escribenos y te contactaremos con gusto.</p>
@@ -79,7 +82,7 @@
                     <text id="dintop2" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">VENTAS</br> Rufino Tamayo #4 Int D, Col. Pueblo Nuevo</br> C.P. 76900 <text style="font-size:15px;font-family: 'Roboto', sans-serif;color:#4c4c4c;">Corregidora Querétaro, Qro. México</text></text>
                     <br><br>
                     <label for="rsociales" style="color:#4c4c4c;font-size:15px;">REDES SOCIALES</label><br>
-                    <a href="https://www.facebook.com/Intop-Solutions-440490166697561/" target="_blank"><img src="Facebook_Icon.svg"></img></a>
+                    <a href="https://www.facebook.com/Intop-Solutions-440490166697561/" target="_blank"><img src="./images/Facebook_Icon.svg"></img></a>
                     <br><br>
                     <label for="rsociales" style="color:#4c4c4c;font-size:15px;">NUESTROS HORARIOS DE ATENCIÓN</label><br>
                     <text id="rsociales" style="font-family: 'Roboto', sans-serif;color:#8d8d8d;font-size:15px;">OFICINAS</text><br>
