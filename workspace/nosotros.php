@@ -44,21 +44,15 @@
 <div style="background-image: url('fondo-abajo.png');background-repeat: no-repeat;background-size:100% 500px;">
    <div class="col-md-12" style="width:100%;">
         <div style="background-image: url('Rectangulo_blanco_contacto.png');background-position:center;background-repeat: no-repeat;background-size:90% 100%;width:100%;padding-top:10%">
-          <div class="row" style="padding-top:0%;">
-          <div class="col-md-12" id="form_container" style="width:100%;padding-top:5%;padding-bottom-5%;">
-          <br><br>
+          <div class="col-md-12" id="form_container">
               <h2 style="font-family: 'Roboto', sans-serif;font-weight:bold;text-align:center;font-size:50px;">
-              Nosotros</h2>
+                <br>Nosotros</h2>
               <hr style="border-top: 2px solid #8d8d8d;width:50px;" align="center">
               <br>
           </div>
-          </div>
           <div class="row">
             <div class="col-md-12" style="width:100%">
-              <div style="position: relative; top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);width:70%;text-align:left;">
+              <div style="position: relative; top: 50%;left: 50%;-webkit-transform: translate(-50%, -50%);transform: translate(-50%, -50%);width:70%;text-align:left;">
                 <text style="	font-family: 'Roboto', sans-serif;
                           	font-weight: medium;
                           	color: #4c4c4c;
@@ -72,88 +66,91 @@
           <br><br>
           <div class="row">
           <style>
-            #textotarjetasrojas{
+          #titulotarjetasRojas{
+              font-family: 'Roboto', sans-serif;
+              color:white;
+              text-align:center;
+              font-size:17px;
+              padding-top:10%;
+          }
+          #textotarjetasrojas{
                 font-family: 'Roboto', sans-serif;
                 color:white;
                 text-align:center;
-                font-size:15px;
+                font-size:13px;
                 font-weight:lighter;
+                padding-right:10%;
+                padding-left:10%;
+                padding-bottom:10%;
             }
+          #tarjetaroja{
+              display: flex;display: -webkit-flex;
+              flex-wrap: wrap;
+              background-image: url('Rectangulo_vino.png');
+              background-size: 100% 100%;
+              padding-top:5%;
+              padding-bottom:5%;
+              padding-right:3%;
+              padding-left:3%;
+          }
           </style>
-            <div class="col-md-12" style="width:100%">
-                <div style="position: relative; top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);width:80%;text-align:left;">
-                  <div class="row" >
-                    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
-                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
-                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
-                                APUESTA POR LA CALIDAD
-                              </h2>
-                              <hr style="border-top: 1px solid white;width:60%;" align="center">
-                              <p id="textotarjetasrojas">
-                                Todos nuestros sistemas son creados con un propósito, facilitar, generar y optimizar con ayuda de la tecnología la experiencia de tu empresa
-                              </p>
-                              <br><br>
-                        </div>
-                      </div>
+          
+          <div align="center" style="width:100%;padding-bottom:5%;">
+            <div class="row" style="width:77%">
+                <div class="col-sm-12 col-md-6 col-lg-3" id="tarjetaroja">
+                    <div class="container" >
+                        <h2 id="titulotarjetasRojas">
+                            APUESTA POR LA CALIDAD
+                        </h2>
+                        <hr style="border-top: 1px solid white;width:60%;" align="center">
+                        <p id="textotarjetasrojas">
+                            Todos nuestros sistemas son creados con un propósito, facilitar, generar y optimizar con ayuda de la tecnología la experiencia de tu empresa
+                        </p>
+                    </div>
                 </div>
-                
-                <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
-                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
-                        <br>
-                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
-                                TRANSPARENCIA
-                              </h2>
-                              <hr style="border-top: 1px solid white;width:60%;" align="center">
-                              <p id="textotarjetasrojas">
-                                En INTOP apostamos por la transparencia, desde el inicio se tiene un trato directo y personalizado con cada cliente, brindando la mejor atención
-                              </p>
-                              <br><br>
-                        </div>
-                      </div>
+                <div class="col-sm-12 col-md-6 col-lg-3" id="tarjetaroja">
+                    <div class="container" style="flex:1;">
+                        <h2 id="titulotarjetasRojas">
+                            <br>TRANSPARENCIA
+                        </h2>
+                        <hr style="border-top: 1px solid white;width:60%;" align="center">
+                        <p id="textotarjetasrojas">
+                            En INTOP apostamos por la transparencia, desde el inicio se tiene un trato directo y personalizado con cada cliente, brindando la mejor atención
+                        </p>
+                    </div>
                 </div>
-                
-                <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
-                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
-                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
-                                NUESTROS OBJETIVOS
-                              </h2>
-                              <hr style="border-top: 1px solid white;width:60%;" align="center">
-                              <p id="textotarjetasrojas">
-                                Son cubrir las necesidades de tu empresa, obtener un control y una perspectiva 360º de tu empresa, porque nos preocupamos por ti
-                              </p>
-                              <br><br>
-                        </div>
-                      </div>
+                <div class="col-sm-12 col-md-6 col-lg-3" id="tarjetaroja">
+                    <div class="container" style="flex:1;">
+                        <h2 id="titulotarjetasRojas">
+                            NUESTROS OBJETIVOS
+                        </h2>
+                        <hr style="border-top: 1px solid white;width:60%;" align="center">
+                        <p id="textotarjetasrojas">
+                            Son cubrir las necesidades de tu empresa, obtener un control y una perspectiva 360º de tu empresa, porque nos preocupamos por ti
+                        </p>
+                    </div>
                 </div>
-                
-                <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-                        <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('Rectangulo_vino.png');background-size: 100% 100%;padding-top:15%;text-align:center;">
-                        <div class="container" align="center" style="padding-top:10%;text-align:center;width:80%;">
-                              <h2 align="center" style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:17px;">
-                                NUESTROS VALORES
-                              </h2>
-                              <hr style="border-top: 1px solid white;width:60%;" align="center">
-                              <p style="font-family: 'Roboto', sans-serif;color:white;text-align:center;font-size:15px;font-weight:lighter;">
+                <div class="col-sm-12 col-md-6 col-lg-3" id="tarjetaroja">
+                    <div class="container" style="flex:1;">
+                        <h2 id="titulotarjetasRojas">
+                            NUESTROS VALORES
+                        </h2>
+                        <hr style="border-top: 1px solid white;width:60%;" align="center">
+                        <p id="textotarjetasrojas">
                                 · Empatía</br>
                                 · Compromiso</br>
                                 · Mejora continua</br>
                                 · Responsabilidad</br>
                                 · Colaboración</br>
                                 · Integración
-                              </p>
-                        </div>
-                      </div>
-                </div>
-                
+                        </p>
+                    </div>
                 </div>
             </div>
-          </div>
+           </div>
+           </div>
+            
+            
         </div>
     </div>
 </div>
@@ -174,21 +171,23 @@
 
 <div class="container">
   <div class="row">
-    <div style="display: flex;
-  display: -webkit-flex;
-  flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
+    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
       <div class="card" style="flex:1;">
-  <div class="card-body">
-    <h5 style="text-align: left;
-	color: black;
-	font-size: 33px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;">Empatizar</h5>
-    <p style="text-align: left;
-	color: #4c4c4c;
-	font-size: 15px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;">Nos gusta conocer a nuestros clientes, sus inquietudes y sus opiniones y poder solucionarlas en conjunto</p>
+        <div class="card-body">
+            <h5 style="text-align: left;
+        	color: black;
+        	font-size: 33px;
+        	font-family: 'Roboto', sans-serif;
+        	font-weight: normal;">
+        	   Empatizar
+        	</h5>
+            <p style="text-align: left;
+        	color: #4c4c4c;
+        	font-size: 15px;
+        	font-family: 'Roboto', sans-serif;
+        	font-weight: normal;">
+        	   Nos gusta conocer a nuestros clientes, sus inquietudes y sus opiniones y poder solucionarlas en conjunto
+        	</p>
   </div>
 </div>
     </div>
