@@ -46,17 +46,11 @@
 
 <div  style="text-align:center;width:100%;">
   <div class="row" style="display: flex;width:100%;">
-    <div class="col-sm-9 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;padding-left:5%;">
-      <div class="container">
-        <div class="row">
-          <h2 style="font-family: 'Roboto', sans-serif;
-                  	font-weight: bold;
-                  	text-align: left;
-                  	padding-top: 10%;
-                  	padding-bottom: 10px;
-                  	color: #002C55;">NUESTRA LÍNEA DE PRODUCTOS</h2>
-        </div>
-        <div class="row">
+    <div class="col-sm-10 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;padding-left:5%;">
+      <div>
+          <h2 style="font-family: 'Roboto', sans-serif; font-weight: bold; text-align: left;padding-top: 5%;padding-bottom: 10px;color: #002C55;">
+            NUESTRA LÍNEA DE PRODUCTOS
+          </h2>
             <h5 style="font-family: 'Roboto', sans-serif;
                   	    font-weight: medium;
                   	    text-align: left;
@@ -64,27 +58,17 @@
                     	color: #002E54;">
                    FÁCILES DE USAR · CONFIABLES · PRÁCTICOS · INNOVADORES · ÚTILES
             </h5>
-        </div>
-        <div class="row">
             <h5 style="font-family: 'Roboto', sans-serif;
                   	    font-weight: normal;
                   	    text-align: left;
-                    	padding-bottom: 20px;
                     	color: #000000;">
                 Los sistemas SOV cuentan con dos herramientas para brindar un control total: teléfono móvil y mesa de control.
             </h5>
-        </div>
       </div>
     </div>
-    <div class="col-sm-3 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-      <div class="container">
-        <div class="row">
-            <div class="container" style="text-align:center;">
-                <br><br><br>
-                <img align="center" src="logo_sov.svg" style="width:80%;height:80%;"></img>
-            </div>
-        </div>
-      </div>
+    <div class="col-sm-2 form-group" style="background-image: url('./images/logo_sov.svg');background-repeat: no-repeat;background-size:100% 100%;padding-top:5%;display: flex;display: -webkit-flex;flex-wrap: wrap;">
+        <!--img align="center" src="./images/logo_sov.svg" style="width:100%;height:100%;"></img-->
+        <p style="color:transparent"><br>SOV<br></p>
     </div>
   </div>
 </div>
@@ -97,8 +81,8 @@
         width:100%;
         font-weight: bold;
         text-align: center;
-        padding-left: 7%;
-        padding-top:10%;
+        padding-left: 0%;
+        padding-top:7%;
         font-size: 35px;
         color: #ffffff;
     }
@@ -109,8 +93,12 @@
         font-weight: bold;
         text-align: left;
         padding-left:%;
+        padding-right:%;
         padding-top:5%;
         color: #002E54;
+        position: absolute;
+        bottom: 0;
+        left: 0;
     }
 </style>
 <div style="width:100%;" align="center" style="text-align:center;">
@@ -125,51 +113,58 @@
                   	</h3>
                 </div>
                 <br>
-                <div class="row" style="width:100%;">
-                    <p style="font-family: 'Roboto', sans-serif;
-                    width: 100%;
-                  	font-weight: regular;
-                  	text-align: left;
-                  	padding-left: 10%;
-                  	padding-right:10%;
-                  	font-size: 17px;
-                  	color: #ffffff;">
-                        OBTENER EL CONTROL TOTAL DE LOS CLIENTES
-                    </p>
-                </div>
-                <div class="row" style="width:100%;text-align:center;" align="center">
-                    <div class="container" align="center" style="text-align:center;padding-bottom:5%;">
-                        <img src="GRAFICA CIRCULO_0.svg" style="width:50%;" align="center"/>
+                <div align="center" style="width:100%;">
+                <div class="row" style="width:80%;">
+                    <div class="col-sm-6">
+                            <p style="font-family: 'Roboto', sans-serif;
+                            width: 100%;
+                          	font-weight: regular;
+                          	text-align: left;
+                          	padding-left: 10%;
+                          	padding-right:10%;
+                          	font-size: 17px;
+                          	color: #ffffff;">
+                                OBTENER EL CONTROL</br> TOTAL DE LOS CLIENTES
+                            </p>
                     </div>
+                    <div class="col-sm-6" style="width:100%;text-align:center;" align="center">
+                        <img src="GRAFICA CIRCULO_0.svg" style="width:100%;" align="center"/>
+                    </div>
+                </div>
                 </div>
             </div>
         </div>
     </div>
     <!--div style="display: flex;display: -webkit-flex;flex-wrap: wrap;width:24px;">
     </div-->
+    <style>
+    span {
+     
+    }
+    </style>
     <div class="col-sm-5 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
       <div style="width:100%;background-color: #D4D3DA;">
           <div class="row">
               <div class="col-sm-6 form-group" style="text-align:center;">
                 <div>
-                  <img src="ruta_movil01.gif" align="center" style="padding-top:10%;max-width: 90%;max-height: 90%;"></img>
+                  <img src="ruta_movil01.gif" align="center" style="padding-left:5%;padding-top:10%;max-width: 90%;max-height: 90%;"></img>
                 </div>
               </div>
-              <div class="col-sm-6 form-group" style="padding-top:20%;">
-                <div>
+              <div class="col-sm-6 form-group" style="padding-top:50%;padding-left:2%;padding-right:2%;">
+                    <div class="container" style="padding-left:2%;padding-right:2%;">
                     <h6 id="textorecuadrogris">
                         CONTEMPLA LAS PRINCIPALES VARIABLES DE RUTAS:</br>
                                     -AUTOVENTA</br>
                                     -PREVENTA</br>
                                     -CALL CENTER</br>
                                     -PORTEO</br>
-                    </h6>
-                  	<br>
+                        <br>
                   	<form style="text-align: left;padding-left:5%;">
                         <a href="sovrutas.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
                     </form>
-              </div>
-          </div>
+                    </h6>
+                    </div>
+            </div>   
           </div>
       </div>
     </div>
@@ -185,18 +180,18 @@
           <div class="row">
               <div class="col-sm-6 form-group" style="text-align:center;">
               <div>
-                  <img src="autotransporte_movil01.gif" align="center" style="padding-top:10%;max-width: 90%;max-height: 90%;"></img>
+                  <img src="autotransporte_movil01.gif" align="center" style="padding-left:5%;padding-top:10%;max-width: 90%;max-height: 90%;"></img>
               </div>
           </div>
           <div class="col-sm-6 form-group" style="padding-top:30%;">
-                <div style="width:100%;">
+                <div class="container" style="width:100%;">
                     <h6 id="textorecuadrogris">
                       	MÁS FÁCIL QUE PLUMA Y LÁPIZ, CUMPLE CON LA NORMA 87
+                      	<br><br>
+                      	 <form style="text-align: left;">
+                            <a href="sovautotransporte.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="padding-left:px;width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
+                        </form>
                   	</h6>
-                  	<br>
-                  	<form style="text-align: left;padding-left:5%;">
-                        <a href="sovautotransporte.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="padding-left:px;width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
-                    </form>
               </div>
           </div>
           </div>
@@ -271,18 +266,18 @@
           <div class="row">
               <div class="col-sm-6 form-group" style="text-align:center;">
               <div>
-                  <img src="evaluacion_movil_01.gif" align="center" style="padding-top:10%;max-width: 100%;max-height: 100%;"></img>
+                  <img src="evaluacion_movil_01.gif" align="center" style="padding-left:5%;padding-top:10%;max-width: 90%;max-height: 90%;"></img>
               </div>
           </div>
           <div class="col-sm-6 form-group" style="padding-top:30%;">
               <div>
                   <h6 id="textorecuadrogris">
                   	OBTÉN UNA PERSPECTIVA 360° DE LA EVALUACIÓN DE TU NEGOCIO, OBTENIENDO 3 CALIFICACIONES
-                  </h6>
-                  	<br>
-                  	<form style="text-align: left;padding-left:5%;">
+                  	<br><br>
+                  	<form style="text-align: left;">
                         <a href="sovevaluacion.php"><input type="button" href="sovrutas.php" value="VER MÁS" style="padding-left:px;width:160px;height:35px;background-color:transparent;color:white;font-size:18px;border-radius: 20px;border: solid 1px #ffffff;"/></a>
                     </form>
+                  </h6>
               </div>
           </div>
           </div>
