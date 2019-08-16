@@ -140,7 +140,7 @@
                   </h3>
                 </div>
                 <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;padding-bottom:10%;">
-                    <img align="center" src="rectangulo 1_sovr.svg"></img>
+                    <img align="center" src="./images/icono funcionamiento.svg"></img>
                 </div>
             </div>
         </div>
@@ -285,21 +285,21 @@
   <div class="row">
   <div class="col-sm-4" style="vertical-align:middle">
     <br><br><br><br><br>
-        <table align="right" style="width:100%;height:120px;">
+        <table align="left" style="width:100%;height:120px;">
         <tr>
             <td style="border-left: 4px solid #002E54;padding-left:15px;">
                 <h2 style="text-align:left;color:#002E54;font-weight:medium;font-family: 'Roboto', sans-serif;">
-                    GENERADOR DE INDICADORES
+                    VENTAJAS COMPETITIVAS
                 </h2>
                 <h5 style="text-align:left;color: #4c4c4c;font-family: 'Roboto', sans-serif;">
-                    APOYAN UN PROCESO SENCILLO Y CLARO
+                    CÍRCULO DE CALIDAD DE SERVICIOS
                 </h5> 
             </td>
         </tr>
         </table>
       </div>
     <div class="col-sm-8">
-        <img src="GRAFICA CIRCULO_0.svg" style="width:85%;height:85%;"></img>
+        <img src="./images/grafica_autotranporte.svg" style="width:85%;height:85%;"></img>
     </div>
   </div>
 </div>
@@ -331,80 +331,190 @@
     </div>
 </div>
 
-<div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-color: #D4D3DA;">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators2" data-slide-to="1"></li>
-  </ol>
-  <div class="carousel-inner">
-    <ul>
-    <div class="carousel-item active">
-      <div class="anim4" style="height:620px;">
-        <div class="container" align="center" style="width:100%;padding-top:5%;padding-bottom:5%;">
-                  <table style="width:100%;">
-                    <tr style="width:100%;">
-                      <td style="text-align:center;">
-                        <img src="laptop.png" style="max-width:90%;max-height:90%;min-width:30%;min-height:30%">
-                      </td>
-                      <td style="text-align:center;">
-                      <img src="quote-watermark_rutas.svg" align="center" style="text-align:center;">
-                        <p style="color:black;padding-top:40px;font-size: 27px;font-family: 'Roboto', sans-serif;text-align:left;"> Desde el primer mes de operación de SOV obtendrá ahorros sustanciales en su empresa. </p>
-                        <h1 style="color:#002E54;padding-top:40px;font-weight:bold;font-size: 38px;text-align:left;">EL SISTEMA ES 100% AUTOFINANCIABLE Y RENTABLE</h1>
-                      </td>
-                    </tr>
-                  </table>
-                </div>
-      </div>
-    </div>
-    <div class="carousel-item">
-       <div class="anim5" style="display:flex;">
-            <div class="container" align="center" style="width:100%;padding-top:5%;padding-bottom:5%;">
-                  <table style="width:100%;">
-                    <tr style="width:100%;">
-                      <td style="text-align:center;">
-                        <img src="laptop.png" style="max-width:90%;max-height:90%">
-                      </td>
-                      <td style="text-align:center">
-                        <h1 style="color:#002E54;padding-top:40px;font-weight:bold;font-size: 38px;text-align:left">
-                            NUESTROS SISTEMAS CONTEMPLAN LAS PRINCIPALES VARIANTES DE RUTA
-                        </h1>
-                        <p style="color:black;padding-top:40px;font-size: 27px;font-family: 'Roboto', sans-serif;text-align:left">Autoventa</br>Preventa</br>Call Center</br>Porteo</p>
-                      </td>
-                    </tr>
-                  </table>
-                </div>
-      </div>
-    </div>
-    </ul>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleIndicators2" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators2" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
+<br><br>
 
-
-<br><br><br><br>
-
-
-<div class="container">
+<div class="container" style="width:70%;">
     <div class="row">
-        <div class="col-sm" >
-            <h5 style="color: #4c4c4c;
-	font-size: 30px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;
-	text-align: center;
-	color: #4C4C4C;">TODOS NUESTROS SISTEMAS SON OPERADOS POR GRAMA SAPI DE CV. </h5>
+        <div class="col-sm-6" style="display:flex;">
+            <img src="./images/celular_autotransporte_app.png"/>
+        </div>
+        <div class="col-sm-6" style="display:flex;">
+            <div class="container" style="padding-top:10%;">
+                <div class="row">
+                    <h1 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;padding-top: 10%;padding-bottom: 10px;font-size: 35px;color: #002C55;">
+                        Mapas
+                    </h1>
+                </div>
+            <div class="row">
+              <h5 style="font-family: 'Roboto', sans-serif;fonr-size:20px;font-weight: normal;text-align: left;padding-bottom: 30px;color: #002E54;">
+                 SOV permite un acercamiento visual a los clientes, rutas y estatus gracias a sus mapas. 
+              </h5>
+            </div>
+            <div class="row">
+                <img src="./images/icono_googleplay.png" style="max-width:60%;max-height:60%;"/>
+            </div>
         </div>
     </div>
 </div>
+</div>
+
+<br><br>
+
+<div style="background-color:#E4E4E4;">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                <div class="row">
+                    <h1 style="font-family: 'Roboto', sans-serif;font-weight: medium;text-align: left;padding-top: 10%;padding-bottom: 10px;font-size: 40px;color: #002C55;">
+                        2 Herramientas
+                    </h1>
+                </div>
+                <div class="row">
+                    <h5 style="font-family: 'Roboto', sans-serif;fonr-size:20px;font-weight: normal;text-align: left;padding-bottom: 30px;color: #002E54;">
+                        El sistema SOV cuenta con dos herramientas para brindarle un control total de tus unidades: el teléfono y mesa de control. 
+                    </h5>
+                </div>
+            </div>
+            <div class="col-sm-6">
+                <img src="./images/compu-celular-autotransporte.png" style="max-height:90%;max-width:90%;"/>
+            </div>
+        </div>
+    </div>
+</div>
+
 <br>
 
+<div style="background-color:#E4E4E4;">
+    <div class="container">
+        <div class="row" align="center" style="padding-top:7%;padding-bottom:7%;padding-left:15%;padding-right:15%;text-align:center;">
+            <div class="col-sm" style="display:flex;">
+                    <div class="card tarjeta" style="background:transparent;border-color:transparent;text-align:center;padding-top:5%;padding-bottom:5%;padding-right:5%;padding-left:5%;">
+                        <table align="right" style="width:100%;">
+                            <tr>
+                                <td style="border-left: 7px solid #002E54;padding-left:15px;">
+                                    <h5 style="font-size:27px;text-align:left;color: #002E54;font-family: 'Roboto', sans-serif;">
+                                        Encontramos el sistema SOV en internet (la nube), teniendo acceso con las debidas credenciales en nuestro dispositivo u oficina y desde cualquier parte del mundo.
+                                    </h5> 
+                                </td>
+                            </tr>
+                        </table>
+                        <br>
+                        <table>
+                            <tr>
+                                <td>
+                                    <img src="./images/mundo_icono.svg"/>
+                                </td>
+                                <td>
+                                    <img src="./images/icono_nube.svg"/>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+            </div>
+    </div>
+</div>
+
+<br><br>
+
+<style>
+#fondodegrad2cuad{
+    padding-top:10%;
+    padding-bottom:10%;
+    padding-left:10%;
+    padding-right:10%;
+    text-align:center;
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    flex:1;
+    border: solid 2px white;
+    background-color:transparent;
+    font-size:20px;
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap;
+    flex:1;
+}
+
+#colsmfondoazul{
+    display: flex;
+    display: -webkit-flex;
+    flex-wrap: wrap; flex:1;
+}
+</style>
+<div style="background-image: url('fondo.png');background-repeat: no-repeat;background-size:100% 100%;">
+    <div class="container" style="padding-top:10%;padding-bottom:10%;">
+        <div class="row">
+            <div class="col-sm-6" id="colsmfondoazul">
+                <div class="container" id="fondodegrad2cuad">
+                    <table>
+                        <tr>
+                            <td>
+                                <p>SOV ofrece garantía de funcionamiento, ocupando los mejores sistemas de soporte</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="./images/icono funcionamiento.svg"/>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div class="col-sm-6" id="colsmfondoazul">
+                <div class="container" id="fondodegrad2cuad">
+                    <table>
+                        <tr>
+                            <td>
+                                <p>Soporte técnico por personal calificado 24/7 los 365 días del año</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="./images/celular icon.svg"/>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <br>
+        <div class="row">
+            <div class="col-sm-6" id="colsmfondoazul">
+                <div class="container" id="fondodegrad2cuad">
+                    <table>
+                        <tr>
+                            <td>
+                                <p>SOV se encuentra alojado en los servidores de la empresa Hostgator, los cuales garantizan 99.9% uptime.</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="./images/icono_nube.svg"/>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div class="col-sm-6" id="colsmfondoazul">
+                <div class="container" id="fondodegrad2cuad">
+                    <table>
+                        <tr>
+                            <td>
+                                <p>Bajo licencia con Google Maps</p>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <img src="./images/google icon.svg"/>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <br><br>
 
