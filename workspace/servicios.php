@@ -60,170 +60,138 @@
  </div>
 
 <br><br>
+<style>
+#recuadrogrischico{
+    font-family: 'Roboto', sans-serif; 
+    width:100%;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 20%;
+    padding-bottom: 32%;
+    padding-left: 7%;
+    padding-right:10%;
+    font-size: 22px;
+    color: #ffffff;
+}
+#titulorecuadrogrisg{
+    font-family: 'Roboto', sans-serif; 
+    width:100%;
+    font-weight: bold;
+    text-align: left;
+    padding-left: 7%;
+    padding-top:20%;
+    font-size: 40px;
+    color: #000000;
+}
+#textorecuadrogrisg{
+    font-family: 'Roboto', sans-serif;
+    font-weight: regular;
+    text-align: left;
+    padding-left: 7%;
+    padding-bottom:10%;
+    padding-right:10%;
+    font-size: 22px;
+    color: #000000;
+}
+</style>
 
+<div class="container">
+<div class="row flex-column-reverse flex-md-row" style="display: flex;">
+    <div class="col-sm-4 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+            <div class="container" style="background-color: #982A27;height:100px;">
+                <!-- recuadro rojo -->
+            </div>
+            <div style="height:15px;background-color:white;">
+                <p style="color:transparent">.</p>
+            </div>
+            <div class="container" style="background-color: #4C4C4C;">
+                <p id="recuadrogrischico">
+              	     Lo más importante es nuestro cliente
+                </p>
+            </div>
+    </div>
+    <div class="col-sm-8 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+      <div class="container" style="background-color: #D8D8D8;">
+            <h3 id="titulorecuadrogrisg">
+                SOPORTE TÉCNICO
+            </h3>
+            <p id="textorecuadrogrisg">
+                Contamos con asistencia técnica para resolver cualquier eventualidad que se llegue a presentar, en un horario 24/7 los 365 días del año
+            </p>
+      </div>
+    </div>
+</div>
+</div>
+
+  <br>
+ 
+ <div class="container">
+  <div class="row" style="display: flex;">
+    <div class="col-sm-8 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+      <div class="container" style="background-color: #D8D8D8;">
+          <h3 id="titulorecuadrogrisg">
+            FACTURACIÓN
+          </h3>
+          <p id="textorecuadrogrisg">
+            Todos nuestros sistemas y servicios son 100% deducibles de impuestros.
+          </p>
+      </div>
+    </div>
+    <div class="col-sm-4 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+        <div class="container" style="background-color: #982A27;height:100px;">
+            <!-- recuadro rojo -->
+        </div>
+        <div style="height:20px;background-color:white;">
+            <p style="color:transparent">.</p>
+        </div>
+        <div class="container" style="background-color: #4C4C4C;">
+          <p id="recuadrogrischico">
+            Nuestros sistemas y servicios son 100% deducibles de impuestos
+          </p>
+        </div>
+    </div>
+  </div>
+ </div>
+  
+  <br>
+  
 <div class="container" style="width:100%;">
 <div class="row flex-column-reverse flex-md-row" style="display: flex;">
     <div class="col-sm-4 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-      <div class="container" style="width:100%;padding-left:5%;">
-        <div class="row" style="background-color: #982A27;height:100px;">
-        </div>
-        <br>
-        <div class="row" style="background-color: #4C4C4C ;">
-          <p style="font-family: 'Roboto', sans-serif; width:100%;
-              	font-weight: bold;
-              	text-align: left;
-              	padding-top: 20%;;
-              	padding-bottom: 32%;
-              	padding-left: 7%;
-              	padding-right:10%;
-              	font-size: 22px;
-              	color: #ffffff;">Lo más importante es nuestro clientes</p>
-        </div>
+            <div class="container" style="background-color: #982A27;height:100px;">
+                <!-- recuadro rojo -->
+            </div>
+            <div style="height:20px;background-color:white;">
+                <p style="color:transparent">.</p>
+            </div>
+            <div class="container" style="background-color: #4C4C4C ;">
+                <p id="recuadrogrischico">
+              	     Creamos sistemas de acuerdo a las necesidades de la empresa
+                </p>
+            </div>
+    </div>
+    <div class="col-sm-8 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+      <div class="container" style="background-color: #D8D8D8;">
+            <h3 id="titulorecuadrogrisg">
+                TRAJE A LA MEDIDA
+            </h3>
+            <p id="textorecuadrogrisg">
+                Implementamos soluciones en sistemas los cuales permiten que la operación administrativa y comercial se realice de una forma fácil y sencilla.
+            </p>
       </div>
     </div>
-    <div class="col-sm-8 form-group" style="background-color: #D8D8D8;display: flex;
-                                            display: -webkit-flex;
-                                            flex-wrap: wrap;">
-      <br>
-      <div class="container">
-        <div class="row">
-          <h3 style="font-family: 'Roboto', sans-serif; width:100%;
-                  	font-weight: bold;
-                  	text-align: left;
-                  	padding-left: 7%;
-                  	padding-top:20%;
-                  	font-size: 40px;
-                  	color: #000000;">SOPORTE TÉCNICO</h3>
-        </div>
-        <div class="row">
-          <p style="font-family: 'Roboto', sans-serif;
-                  	font-weight: regular;
-                  	text-align: left;
-                  	padding-left: 7%;
-                  	padding-bottom:10%;
-                  	padding-right:10%;
-                  	font-size: 22px;
-                  	color: #000000;">Contamos con asistencia técnica para resolver cualquier eventualidad que se llegue a presentar, en un horario 24/7 los 365 días del año</p>
-        </div>
-      </div>
-    </div>
-    
-  <br>
-  
-  <div class="row" style="display: flex;">
-    <div class="col-sm-8 form-group" style="background-color: #D8D8D8;display: flex;
-                                            display: -webkit-flex;
-                                            flex-wrap: wrap;">
-      <br>
-      <div class="container">
-        <div class="row">
-          <h3 style="font-family: 'Roboto', sans-serif; width:100%;
-                  	font-weight: bold;
-                  	text-align: left;
-                  	padding-left: 7%;
-                  	padding-top:20%;
-                  	font-size: 40px;
-                  	color: #000000;">FACTURACIÓN</h3>
-        </div>
-        <div class="row">
-          <p style="font-family: 'Roboto', sans-serif;
-                  	font-weight: regular;
-                  	text-align: left;
-                  	padding-left: 7%;
-                  	padding-bottom:10%;
-                  	padding-right:10%;
-                  	font-size: 22px;
-                  	color: #000000;">Todos nuestros sistemas y servicios son 100% deducibles de impuestros.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-4 form-group" style="display: flex;
-                                            display: -webkit-flex;
-                                            flex-wrap: wrap;">
-      <div class="container" style="width:100%;">
-        <div class="row" style="background-color: #982A27;height:100px;">
-        </div>
-        <br>
-        <div class="row" style="background-color: #4C4C4C ;">
-          <p style="font-family: 'Roboto', sans-serif; width:100%;
-              	font-weight: bold;
-              	text-align: left;
-              	padding-top: 20%;;
-              	padding-bottom: 32%;
-              	padding-left: 7%;
-              	padding-right:10%;
-              	font-size: 22px;
-              	color: #ffffff;">Nuestros sistemas y servicios son 100% deducibles de impuestos</p>
-        </div>
-      </div>
-    </div>
-  </div>
-  
-  <br>
-  
-  <div class="row flex-column-reverse flex-md-row" style="display: flex;">
-    <div class="col-sm-4 form-group" style="display: flex;
-                                            display: -webkit-flex;
-                                            flex-wrap: wrap;">
-      <div class="container" style="width:100%;">
-        <div class="row" style="background-color: #982A27;height:100px;">
-        </div>
-        <br>
-        <div class="row" style="background-color: #4C4C4C ;">
-          <p style="font-family: 'Roboto', sans-serif; width:100%;
-              	font-weight: bold;
-              	text-align: left;
-              	padding-top: 20%;;
-              	padding-bottom: 32%;
-              	padding-left: 7%;
-              	padding-right:10%;
-              	font-size: 22px;
-              	color: #ffffff;">Creamos sistemas de acuerdo a las necesidades de la empresa</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-8 form-group" style="background-color: #D8D8D8;display: flex;
-                                            display: -webkit-flex;
-                                            flex-wrap: wrap;">
-      <br>
-      <div class="container">
-        <div class="row">
-          <h3 style="font-family: 'Roboto', sans-serif; width:100%;
-                  	font-weight: bold;
-                  	text-align: left;
-                  	padding-left: 7%;
-                  	padding-top:20%;
-                  	font-size: 40px;
-                  	color: #000000;">TRAJE A LA MEDIDA</h3>
-        </div>
-        <div class="row">
-          <p style="font-family: 'Roboto', sans-serif;
-                  	font-weight: regular;
-                  	text-align: left;
-                  	padding-left: 7%;
-                  	padding-bottom:10%;
-                  	padding-right:10%;
-                  	font-size: 22px;
-                  	color: #000000;">Implementamos soluciones en sistemas los cuales permiten que la operación administrativa y comercial se realice de una forma fácil y sencilla. </p>
-        </div>
-      </div>
-    </div>
-  </div>
-  </div>
-  
-  <br>
-  
-  </div>
+</div>
+</div>
 
 <BR><BR>
 
 <!-- Footer -->
-
 <?php include "./footer.html" ?>
 
     <!-- JavaScript -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  
   </body>
 </html>
