@@ -174,127 +174,168 @@
   </div>
 </div>
 
+<style>
+#tarjetiux {
+    color: #DDDDDD;
+}
 
-<div class="container">
+#tarjetiux:hover span {display:none}
+
+#tarjetiux:hover:before{
+    padding-right: 5%;
+    padding-left:5%;
+    padding-top:30%;
+    padding-bottom:5%;
+    display: block;
+    white-space: pre;
+    content: "· Programa y agenda tus viajes \A · Registro de visita a clientes por horario \A · Cobertura de productos \A · Carga óptima en rutas de reparto";
+}
+
+#tarjetiux2 {
+    color: #DDDDDD;
+}
+
+#tarjetiux2:hover span {display:none}
+
+#tarjetiux2:hover:before{
+    padding-right: 5%;
+    padding-left:5%;
+    padding-top:30%;
+    padding-bottom:5%;
+    display: block;
+    white-space: pre;
+    content: "· Geoposiciona las rutas de tus vendedores \A · Cambio de estatus durante el recorrido \A   en tiempo real \A · Sistema de alarmas \A · Geolocalización de unidades";
+}
+
+#tarjetiux3 {
+    color: #DDDDDD;
+}
+
+#tarjetiux3:hover span {display:none}
+
+#tarjetiux3:hover:before{
+    padding-right: 5%;
+    padding-left:5%;
+    padding-top:30%;
+    padding-bottom:5%;
+    display: block;
+    white-space: pre;
+    content: "· Exporta los reportes en Excel \A · Exporta la evidencia fotográfica \A · Conoce la agenda de las actividades \A   realizadas \A · 5 aplicaciones corriendo simultáneamente \A   para crear evaluaciones que beneficiaran \A   a tu empresa";
+}
+
+#sovabajotarjeta{
+    padding-top: 7px;
+    text-align: left;
+    color: white;
+    font-size: 26px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    float: left;
+    width: 100%;
+}
+</style>
+
+
+<div class="container" align="">
   <div class="row">
-    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-      <div class="card tarjeta" style="flex: 1;">
+    <div class="col-sm" style="width:350px;height:464px;display: flex;display: -webkit-flex;flex-wrap: wrap;">
+      <div class="card tarjeta" id="" style="flex: 1;">
+        <div id="tarjetiux">
+        <span>
         <img src="aparatos_ruta_parte3.gif" class="card-img-top" alt="..." >
         <div class="card-body">
           <p class="card-text textoTarjeta">
             Una persona que no conoce la ruta puede realizarla al 100%. Convirtiéndola en una ventaja competitiva.
-         </p><br><br>
-          <table style="width:100%;">
-        <tr style="border-top: 1px solid #DDDDDD;">
-            <td>
-                <h5 style="padding-top: 7px;
-            	text-align: left;
-            	color: white;
-            	font-size: 26px;
-            	font-family: 'Roboto', sans-serif;
-            	font-weight: normal;
-            	float: left;
-            	width: 100%;">
-            	   SOV Rutas
-            	</h5>
-            </td>
-            <td>
-                <a href="sovrutas.php">
-                    <text style="padding-top: 7px;
-                	text-align: right;
-                	color: white;
-                	font-size: 26px;
-                	font-family: 'Roboto', sans-serif;
-                	font-weight: normal;
-                	float: left;
-                	width: 100%;">
-                	   >
-                	</text>
-            	</a>
-            </td>
-        </tr>
-    </table>
-  </div>
-</div>
+         </p>
+         </div>
+         </span>
+         </div >
+         <div class="card-body">
+             <div class="container" style="position: absolute;bottom: 0;left: 0;">
+              <table align="center" style="width:100%;">
+                <tr style="border-top: 1px solid #DDDDDD;">
+                    <td>
+                        <h5 id="sovabajotarjeta">
+                    	   SOV Rutas
+                    	</h5>
+                    </td>
+                    <td>
+                        <a href="sovrutas.php">
+                            <text id="sovabajotarjeta">
+                        	   >
+                        	</text>
+                    	</a>
+                    </td>
+                </tr>
+            </table>
+          </div>
+        </div>
     </div>
-    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-      <div class="card tarjeta" style="flex: 1;">
-  <img src="aparatos_autotransporte_parte13.gif" class="card-img-top" alt="...">
-  <div class="card-body">
-    <p class="card-text textoTarjeta">
-        Geoposiciona las rutas de tus vendedores</br>·Cambio de estatus durante el recorrido en tiempo real </br>·Sistema de alarma</br>·Geolocalización de unidades
-    </p>
-    <table style="width:100%;">
-        <tr style="border-top: 1px solid #DDDDDD;">
-            <td>
-                <h5 style="padding-top: 7px;
-            	text-align: left;
-            	color: white;
-            	font-size: 26px;
-            	font-family: 'Roboto', sans-serif;
-            	font-weight: normal;
-            	float: left;
-            	width: 100%;">
-            	   SOV Autotransporte
-            	</h5>
-            </td>
-            <td>
-                <a href="sovautotransporte.php">
-                    <text style="padding-top: 7px;
-                	text-align: right;
-                	color: white;
-                	font-size: 26px;
-                	font-family: 'Roboto', sans-serif;
-                	font-weight: normal;
-                	float: left;
-                	width: 100%;">
-                	   >
-                	</text>
-            	</a>
-            </td>
-        </tr>
-    </table>
-  </div>
 </div>
-    </div>
-    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+    <div class="col-sm" style="width:350px;height:464px;display: flex;display: -webkit-flex;flex-wrap: wrap;">
       <div class="card tarjeta" style="flex: 1;">
-  <img src="aparatos_evaluacion_parte3.gif" class="card-img-top" alt="...">
-  <div class="card-body">
-    <p class="card-text textoTarjeta">
-        Obtener una visión integral de 360º de tu empresa , generando una calificación desde 3 perspectivas, nos brinda un resultado efectivo y objetivo
-    </p><br>
-    <table style="width:100%;">
-        <tr style="border-top: 1px solid #DDDDDD;">
-            <td>
-                <h5 style="padding-top: 7px;
-            	text-align: left;
-            	color: white;
-            	font-size: 26px;
-            	font-family: 'Roboto', sans-serif;
-            	font-weight: normal;
-            	float: left;
-            	width: 100%;">
-            	   SOV Evaluación
-            	</h5>
-            </td>
-            <td>
-                <a href="sovevaluacion.php">
-                    <text style="padding-top: 7px;
-                	text-align: right;
-                	color: white;
-                	font-size: 26px;
-                	font-family: 'Roboto', sans-serif;
-                	font-weight: normal;
-                	float: left;
-                	width: 100%;">
-                	   >
-                	</text>
-            	</a>
-            </td>
-        </tr>
-    </table>
-  </div>
+        <div id="tarjetiux2">
+        <span>
+        <img src="aparatos_autotransporte_parte13.gif" class="card-img-top" alt="...">
+            <div class="card-body">
+                <p class="card-text textoTarjeta">
+                    Geoposiciona las rutas de tus vendedores</br>·Cambio de estatus durante el recorrido en tiempo real </br>·Sistema de alarma</br>·Geolocalización de unidades
+                </p>
+            </div>
+         </span>
+         </div >
+            <div class="container" style="position: absolute;bottom: 0;left: 0;">
+                <table style="width:100%;">
+                    <tr style="border-top: 1px solid #DDDDDD;">
+                        <td>
+                            <h5 id="sovabajotarjeta">
+                        	   SOV Autotransporte
+                        	</h5>
+                        </td>
+                        <td>
+                            <a href="sovautotransporte.php">
+                                <text id="sovabajotarjeta">
+                            	   >
+                            	</text>
+                        	</a>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-sm" style="width:350px;height:464px;display: flex;display: -webkit-flex;flex-wrap: wrap;">
+      <div class="card tarjeta" style="flex: 1;">
+        <div id="tarjetiux3">
+        <span>
+          <img src="aparatos_evaluacion_parte3.gif" class="card-img-top" alt="...">
+          <div class="card-body">
+            <p class="card-text textoTarjeta">
+                Obtener una visión integral de 360º de tu empresa , generando una calificación desde 3 perspectivas, nos brinda un resultado efectivo y objetivo
+            </p>
+          </div>
+         </span>
+         </div >
+            <div class="container" style="position: absolute;bottom: 0;left: 0;">
+            <table style="width:100%;">
+                <tr style="border-top: 1px solid #DDDDDD;">
+                    <td>
+                        <h5 id="sovabajotarjeta">
+                    	   SOV Evaluación
+                    	</h5>
+                    </td>
+                    <td>
+                        <a href="sovevaluacion.php">
+                            <text id="sovabajotarjeta">
+                        	   >
+                        	</text>
+                    	</a>
+                    </td>
+                </tr>
+            </table>
+            </div>
+          </div>
 </div>
     </div>
   </div>
@@ -358,6 +399,16 @@
 <br><br><br><br>
 <br><br><br><br>
 
+<style>
+#textosslider{
+    font-family: 'Roboto', sans-serif;
+    color:white;
+    text-align:center;
+    padding-top:200px;
+    width:100%;
+}
+</style>
+
 <div id="carouselExampleIndicators2" class="carousel slide" data-ride="carousel" style="background-image: url('fondo-frase.png');background-repeat: no-repeat;background-size:100% 100%;">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators2" data-slide-to="0" class="active"></li>
@@ -369,10 +420,12 @@
     <div class="carousel-item active">
       <div class="anim5">
         <div class="container" style="height:506px;" align="center">
-          <div align="center" class="row" style="text-align:center;width:90%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:200px;width:100%;">
+          <div align="center" class="row" style="text-align:center;width:100%;">
+            <div style="width:85%;" class="container">
+            <h3 id="textosslider">
                 Sistemas realizados con base en</br> análisis nivel dirección y corporativos,</br> estructurados por asesores de alto</br> nivel y experiencia
             </h3>
+            </div>
           </div>
         </div>
       </div>
@@ -380,10 +433,12 @@
     <div class="carousel-item">
        <div class="anim6">
          <div class="container" style="height:506px;" align="center">
-          <div align="center" class="row" style="text-align:center;width:90%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:200px;width:100%;">
+          <div align="center" class="row" style="text-align:center;width:100%;">
+            <div style="width:85%;" class="container">
+            <h3 id="textosslider">
                 Enfocados en el desarrollo de</br> sistemas que facilitarán las </br>operaciones de tu empresa
             </h3>
+            </div>
             </div>
         </div>
        </div>
@@ -391,10 +446,12 @@
     <div class="carousel-item">
       <div class="anim7">
         <div class="container" style="height:506px;" align="center">
-          <div align="center" class="row" style="text-align:center;width:90%;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:220px;width:100%;">
-                Fáciles de usar ·  Confiables · Prácticos · Innovadores · Útiles 
+          <div align="center" class="row" style="text-align:center;width:100%;">
+            <div style="width:85%;" class="container">
+            <h3 id="textosslider">
+                <br>Fáciles de usar ·  Confiables · Prácticos · Innovadores · Útiles 
             </h3>
+            </div>
           </div>
         </div>
        </div>
@@ -402,10 +459,12 @@
     <div class="carousel-item">
       <div class="anim8">
         <div class="container" style="height:506px;" align="center">
-          <div align="center" class="row" style="text-align:center;width:90%;vertical-align:middle;">
-            <h3 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:170px;width:100%;height:506px;">
+          <div align="center" class="row" style="text-align:center;width:100%;vertical-align:middle;">
+            <div style="width:85%;" class="container">
+            <h3 id="textosslider">
                 Todos nuestros sistemas cuentan </br>con un portal web para su administración</br> y aplicaciones móviles para el personal
             </h3>
+            </div>
           </div>
         </div>
       </div>
