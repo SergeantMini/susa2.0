@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="461px" height="137px" viewBox="0 0 461 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Clip 83</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 137 461 137 461 0 0 0"></polygon>
+    </defs>
+    <g id="RUTAS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SOV-RUTAS-Copy-3" transform="translate(-683.000000, -8364.000000)">
+            <g id="parte-nube" transform="translate(0.000000, 5632.000000)">
+                <g id="reporte-de-venta-diario" transform="translate(128.000000, 179.000000)">
+                    <g id="texto-reporte" transform="translate(229.000000, 1501.000000)">
+                        <g id="cliente-fuera-de-ruta" transform="translate(326.000000, 1052.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-83"></g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
