@@ -39,9 +39,10 @@
           <li class="nav-item">
             <a class="nav-link" style="color : white" href="nosotros.php">NOSOTROS</a>
           </li>
-          <li class="nav-item active tabActiva">
-            <a class="nav-link" style="color : white" href="contacto.php">CONTACTO
-            <span class="sr-only">(current)</span></a>
+          <li class="nav-item">
+            <a class="nav-link" style="color : white;border-bottom: 2px solid #FFFFFF;" href="contacto.php">
+                CONTACTO
+            </a>
           </li>
         </ul>
       </div>
