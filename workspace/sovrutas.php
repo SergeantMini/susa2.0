@@ -52,10 +52,10 @@
   <div class="row" style="display: flex;width:100%;">
     <div class="col-sm-9 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;padding-left:5%;">
       <div>
-          <h2 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;
+          <h1 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;
                   	padding-top: 5%;padding-bottom: 10px;color: #002C55;">
                   SOV RUTAS
-          </h2>
+          </h1>
           <h5 style="font-family: 'Roboto', sans-serif;
                   	    font-weight: normal;
                   	    text-align: left;
@@ -84,16 +84,22 @@
     <ul>
     <div class="carousel-item active" style="">
       <div class="anim1" style="height:620px;overflow:visible;">
-        <div class="container" align="center" style="width:100%;padding-top:5%;padding-bottom:10%;overflow:visible">
-            <div class="row" style="text-align:center;width:100%;overflow:visible;">
-              <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">
+        <div class="container" align="center" >
+            <div class="row" style="text-align:center;width:100%;">
+                <div class="col-sm" align="center" style="height:620px;display: table;overflow: hidden;">
+                
+                        <div style="display: table-cell; vertical-align: middle;">
+              <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
                 Nuestros sistemas convierten tu problemática en ventajas competitivas
               </h3>
-              <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;padding-top:5%;padding-bottom:5%;">
-                EFICACIA = UTILIDADES
+              <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;">
+                <br/>EFICACIA = UTILIDADES
               </h1>
-              <br>
-              <!--img src="laptop.png" style="display:block;position:relative;display: flex;flex:1;max-width: 1000%!important;"/-->
+              <div class="container" align="center" style="width:100%;text-align:center;"">
+                <img align="center" style="max-width:65%;max-height:65%;" src="./images/sept/rutas-slider01.png">
+              </div>
+            </div>
+            </div>
             </div>
         </div>
       </div>
@@ -125,7 +131,7 @@
                 <div class="col-sm" align="center" style="height:620px;display: table;overflow: hidden;">
                 <div style="display: table-cell; vertical-align: middle;">
                 <div class="row" style="text-align:center;width:100%;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-bottom:5%;">
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
                     Las principales desviaciones comerciales en cualquier<br/> operación están contempladas en el Sistema SOV
                   </h3>
                 </div>
@@ -140,7 +146,7 @@
                 </style>
                 <div class="row" style="text-algin:center;width:100%;" align="center">
                 <div class="container">
-                      <div class="row" style="padding-bottom:10%;">
+                      <div class="row" style="width:75%;">
                         <div class="col-sm" style="display:flex;">
                           <div class="card tarjeta" style="background:transparent;border-color:white;">
                             <div class="card-body">
@@ -601,15 +607,7 @@
 }
 
 .collapsible:after {
-  content: '\002B';
-  color: white;
-  font-weight: bold;
-  float: left;
-  margin-right: 5px;
-}
-
-.collapsible2:after {
-  content: '\002B';
+  content: url(./images/+_icono.svg);
   color: white;
   font-weight: bold;
   float: left;
@@ -617,24 +615,20 @@
 }
 
 .active:after {
-  content: +url(./images/x_icono.svg);
+  content: url(./images/x_icono.svg);
   /*color:white;
   font-weight:bold;
   float:left;
-  margin-right:5px;*/
+  margin-right:5px;
+  background:#002E54;
+  border-radius:50%;
+  width:15px;
+  height:15px;*/
 }
 
 button:focus {outline:0;}
 
 .content {
-  padding: 0 18px;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.8s ease-out;
-  background-color: transparent;
-}
-
-.content2 {
   padding: 0 18px;
   max-height: 0;
   overflow: hidden;
@@ -664,6 +658,10 @@ button:focus {outline:0;}
     padding-right:5%;
     border: solid 1px #002E54;
     text-align:center;
+}
+#divseparador{
+    padding-top:2px;
+    padding-bottom:2px;
 }
 
 #collapsibletext{
@@ -744,7 +742,7 @@ button:focus {outline:0;}
                 </div>
             </div>
             <div class="col-sm-8">
-                <img src="laptop.png" style="width:100%;height:100%;"/>
+                <img src="./images/sept/rutas-parte_reportes.png" style="width:100%;height:100%;"/>
             </div>
         </div>
        <!-- Intento 2 -->
@@ -756,62 +754,37 @@ button:focus {outline:0;}
                     <button class="collapsible">LIBRO DE RUTA</button>
                     <div class="content">
                         <br>
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     Son generados de forma automática cuando se da de alta clientes.
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     Te permite tener el universo de clientes, se pueden separar por ruta y día de visita.
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     El libro electrónico en mesa de control como en el dispositivo móvil nos permite con un click trazar la ruta desde la ubicación actual hasta el domicilio del cliente.
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     Se puede realizar operaciones de venta a los clientes del día como a otro cliente que corresponda a esa ruta.
                                 </p>
                             </div>
                         </div>
-                        
-                        <div class="row">
-                            <div class="container">
-                                <input type="button" class="collapsible2" value="Ver más"/>
-                                <br><br>
-                                <div class="content2">
-                                <table>
-                                    <tr style="width:100%;">
-                                        <td>
-                                            Libro de rutas día:</br>Lunes Ruta:P02
-                                        </td>
-                                        <td style="text-align:left;">
-                                            Clientes sin ubicación:0</br>Del día:0
-                                        </td>
-                                    </tr>
-                                    <tr align="center" style="width:100%;text-align:center;">
-                                        <td>
-                                            <img align="center" src="./images/reporte libro de ruta.svg"/>
-                                        </td>
-                                    </tr>
-                                </table>
-                                </div>
-                            </div>
-                        </div>
-                        <br>
                         
                         </div>
                     
@@ -823,7 +796,7 @@ button:focus {outline:0;}
                         <div class="row">
                             <div class="container">
                                 <p id="collapsiblelibbroderuta">
-                                    Marca el punteo de clientes correspondientes al día de ruta del libro. Se puede obtener el punteo por día o por clientes totales de la ruta identificados con colores por día de visita. 
+                                    Marca el punteo de clientes correspondientes al día de ruta del libro.<br/> Se puede obtener el punteo por día o por clientes<br/> totales de la ruta identificados con colores por día de visita. 
                                 </p>
                             </div>
                         </div>
@@ -834,112 +807,73 @@ button:focus {outline:0;}
                     <button class="collapsible" style="">REPORTE DE VENTA DIARIO</button>
                     <div class="content">
                         <br>
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsibletext">
-                                    Reporte utilizado para cnocer el desempeño de la ruta durante el día. </br> Nos indica:
+                        <div id="divseparador">
+                            <div id="collapsibletext">
+                                <p>
+                                    Reporte utilizado para conocer el desempeño de la ruta durante el día. </br> Nos indica:
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     La visita de todos los clientes del día 
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     Cuantos clientes no visitó
                                 </p>
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="container" style="padding-bottom:10px;">
-                                <p id="collapsibletext">
-                                    <b>EJEMPLO:</b> No visitó el cliente 3220 Dulcería Juquilita 
-                                </p>
-                            </div>
-                        </div>
                         
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     Clientes con compra o motivo por el que no compraron.
                                 </p>
                             </div>
                         </div>
-                        
-                        <div class="row">
-                            <div class="container" style="padding-bottom:10px;">
-                                <p id="collapsibletext">
-                                    <b>EJEMPLO:</b> Los clientes 1234 y 1030 estuvieron cerrados
-                                </p>
-                            </div>
-                        </div>
-                        
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                       
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     Comparativo de venta contra las dos semanas anteriores
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     A qué hora realizó la primera operación y así subsecuentemente.
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container" style="padding-bottom:10px;">
-                                <p id="collapsibletext">
-                                    <b>EJEMPLO:</b> La primera operación se realizó a las 9.52 hr (puede tratarse de una ruta foránea) Entre el cliente 9 y 10 existe un lapso de tiempo sin operaciones de 11.30 a 12.55 (1 hr 30 min aprox)
-                                </p>
-                            </div>
-                        </div>
-                        
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     Este reporte nos arroja información valiosa en el desempeño
                                 </p>
                             </div>
                         </div>
-                        
-                        <div class="row">
-                            <div class="container" style="padding-bottom:10px;">
-                                <p id="collapsibletext">
-                                    <b>EJEMPLO:</b> En la última columna nos da la información si la operación registrada fue tomada en el domicilio del cliente o fuera de esa ubicación. Ok en el domicilio, X fuera  de ubicación
-                                </p>
-                            </div>
-                        </div>
-                        
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                       
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     Al regresar la ruta en la mesa de control podemos ubicar el lugar donde se registró la operación (por lo general en el domicilio del vendedor)
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container" style="padding-bottom:10px;">
-                                <p id="collapsibletext">
-                                    <b>EJEMPLO:</b> OK al cliente 12 visita en la última operación, se registro a las 14:45 las subsecuentes fueron fuera de ruta, aunque a las 16:28 se realizó una venta a un cliente fuera de ruta.
-                                </p>
-                            </div>
-                        </div>
-                        
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     Como resumen de desempeño tenemos una efectividad del 88.24% Y una venta promedio por cliente de $1,084.26
                                 </p>
                             </div>
@@ -959,7 +893,10 @@ button:focus {outline:0;}
                             </div>
                         </div>
                         
-                        <div class="row">
+                        
+                        <div class="row" style="z-index:-10;">
+                            <div class="container" style="z-index:1;position:relative;">
+                            <div class="row">
                             <div class="col-sm" style="display:flex;">
                                 <div id="tarjetarecuadro3">
                                     <div class="card-body" style="background-color:transparent;">
@@ -973,7 +910,7 @@ button:focus {outline:0;}
                                 <div id="tarjetarecuadro3">
                                     <div class="card-body">
                                         <p id="textoRecuadrode3">
-                                            Una vez teniendo la preventa se realiza la asignación de cargas a las rutas de reparto. (véase más adelante)    
+                                            Una vez teniendo la preventa se realiza la asignación de cargas a las rutas de reparto.  
                                         </p>
                                     </div>
                                 </div>
@@ -987,20 +924,21 @@ button:focus {outline:0;}
                                     </div>
                                 </div>
                             </div>
+                            <div class="container" align="center" style="text-align:center;z-index:20;position:absolute;width:100%;padding-top:25%;padding-left:20%;">
+                                <p align="center" id="sobrecontenedorazul">
+                                    <b>IMPORTANTE:</b> La asignación de cargas a las rutas puede ser combinada, esto quiere decir que una ruta de reparto puede llevar la carga de varias rutas de reparto, de una sola preventa.
+                                </p>
+                            </div>
                         </div>
-                        
-                        <div class="container" id="sobrecontenedorazul" >
-                            <p>
-                                <b>IMPORTANTE:</b> La asignación de cargas a las rutas puede ser combinada, esto quiere decir que una ruta de reparto puede llevar la carga de varias rutas de reparto, de una sola preventa.
-                            </p>
+                        </div>
                         </div>
                         
                         <br>
                         
-                        <div class="row">
-                            <div class="container" style="padding-bottom:10px;">
-                                <p id="collapsibletext">
-                                    Se genera el siguiente reporte de consolidado de carga a la ruta de reparto, y el reporte de pedidos por cliente.
+                        <div id="divseparador" style="padding-top:20%;">
+                            <div id="collapsibletext">
+                                <p>
+                                    Se genera un reporte consolidado de carga a la ruta de reparto, y el reporte de pedidos por cliente.
                                 </p>
                             </div>
                         </div>
@@ -1043,15 +981,68 @@ button:focus {outline:0;}
                     <button class="collapsible" style="">REPORTE DE PEDIDOS A ENTREGAR</button>
                     <div class="content">
                     <br>
-                        <div class="row">
-                            <div class="container" style="padding-bottom:10px;">
-                                <p id="collapsibletext">
-                                    Proporciona al personal de reparto la guía de los pedidos a entregar, la variedad y cantidad de producto (véase la ubicación de los clientes en el mapa)
+                        <div id="divseparador">
+                            <div id="collapsibletext">
+                                <p>
+                                    Proporciona al personal de reparto la guía de los pedidos a entregar, la variedad y cantidad de producto 
                                 </p>
                             </div>
                         </div>
-                        
-                        <br>
+                        <style>
+                            .circle {
+                                border: 0px solid black;
+                                border-radius: 50%;
+                                display: inline-block;
+                                background:#002E54;
+                                height:200px;
+                                width:200px;
+                                text-align:center;
+                            }
+                            .circle2 {
+                                border: 0px solid black;
+                                border-radius: 50%;
+                                display: inline-block;
+                                background:#002E54;
+                                height:200px;
+                                width:200px;
+                                text-align:center;
+                            }
+                            .circle img {
+                                display: block;
+                                vertical-align:middle
+                                height:160px;
+                                width:130px;
+                                margin:auto;
+                                padding-top:15%;
+                            }
+                            .circle2 img {
+                                display: block;
+                                vertical-align:middle
+                                height:120px;
+                                width:100px;
+                                margin:auto;
+                                padding-top:20px;;
+                                padding-left:5%;
+                            }
+                        </style>
+                        <div class="container">
+                        <div class="row" style="width:100%;padding-right:10%;padding-left:10%;">
+                            <div class="col-sm">
+                                <div align="center" id="divseparador">
+                                    <div class="circle">
+                                        <img src="./images/mundo_icono.svg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm">
+                                <div align="center" id="divseparador">
+                                    <div class="circle2">
+                                        <img src="./images/sept/celular icon.png" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
                         
                         <div class="row">
                             <div class="container" style="padding-bottom:10px;">
@@ -1079,33 +1070,33 @@ button:focus {outline:0;}
                     <button class="collapsible" style="">REPORTE DE PEDIDO CONTRA ENTREGA</button>
                     <div class="content">
                     <br>
-                        <div class="row">
-                            <div class="container" style="padding-bottom:10px;">
-                                <p id="collapsibletext">
+                        <div id="divseparador">
+                            <div id="collapsibletext">
+                                <p>
                                     Este reporte nos muestra cliente a cliente el regreso de la ruta de reparto y el comparativo de lo pedido contra lo real surtido
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     Así como las diferencias y lo importante si hubo pedidos que no se entregaron, por qué no pasó el repartidor o por causa de rechazo.
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     Los horarios de reparto y los tiempos muertos.
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     Efectividad de reparto.
                                 </p>
                             </div>
@@ -1140,7 +1131,7 @@ button:focus {outline:0;}
                                     <div style="background-color:transparent;display: table; height: 300px; overflow: hidden;">
                                         <div style="display: table-cell; vertical-align: middle;">
                                         <p>
-                                            Muestra de facil forma la variedad y cantidad de producto vendido.
+                                            Muestra de fácil forma la variedad y cantidad de producto vendido.
                                         </p>
                                         </div>
                                     </div>
@@ -1175,33 +1166,33 @@ button:focus {outline:0;}
                     <button class="collapsible" style="">REPORTE DE PREVENTA POR LAPSO DE TIEMPO</button>
                     <div class="content">
                         <br>
-                        <div class="row">
-                            <div class="container" style="padding-bottom:10px;">
-                                <p id="collapsibletext">
+                        <div id="divseparador">
+                            <div id="collapsibletext">
+                                <p>
                                     Nos muestra lo mismo que el reporte anterior, de forma clara y precisa:
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     El importe y producto entregado por las rutas de reparto.
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     De acuerdo al periodo de tiempo seleccionado por el usuario (semanal, mensual, trimestral, anual, etc)
                                 </p>
                             </div>
                         </div>
                         
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                        <div id="divseparador">
+                            <div id="collapsiblelibbroderuta">
+                                <p>
                                     Corresponde a determinada ruta de preventa
                                 </p>
                             </div>
@@ -1260,10 +1251,6 @@ for (j = 0; j < coll2.length; j++) {
 }
 </script>
 
-<br><br><br><br>
-
-
-<br><br>
 
 <!-- Footer -->
 <?php include "./footer.html" ?>
