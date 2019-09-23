@@ -27,8 +27,8 @@
           </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav mx-auto">
-          <li class="nav-item active tabActiva">
-            <a class="nav-link" style="color : white" href="index.php">INICIO
+          <li class="nav-item">
+            <a class="nav-link" style="color : white;border-bottom: 2px solid #FFFFFF;" href="index.php">INICIO
             <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
@@ -220,7 +220,7 @@
     padding-bottom:5%;
     display: block;
     white-space: pre;
-    content: "· Exporta los reportes en Excel \A · Exporta la evidencia fotográfica \A · Conoce la agenda de las actividades \A   realizadas \A · 5 aplicaciones corriendo simultáneamente \A   para crear evaluaciones que beneficiaran \A   a tu empresa";
+    content: "· Exporta los reportes en Excel \A · Exporta la evidencia fotográfica \A · Conoce la agenda de las actividades \A   realizadas \A · 5 aplicaciones corriendo \A    simultáneamente para crear \A    evaluaciones que beneficiaran a tu \A    empresa";
 }
 
 #sovabajotarjeta{
