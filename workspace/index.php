@@ -135,11 +135,11 @@
                             Desarrollamos sistemas a la medida de las necesidades de tu empresa. </br></br> Planea, supervisa y analiza de una forma fácil y sencilla. 
                         </p>
                         <form>
-                          <input type="button" value="Ver más" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
+                          <input type="button" onclick="window.location='contacto.php';" value="Cotizar" style="padding-top:px;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
                         </form>
                       </td>
                       <td style="text-align:center;">
-                        <!--img src="evaluacion_movil.gif" alt="autotransportegif" style="padding-top:px;max-width:100%;max-height:100%"-->
+                        <img src="./images/sept/ad-doh_inicio-gif.gif" alt="autotransportegif" style="padding-top:2%;max-width:100%;max-height:100%"-->
                       </td>
                     </tr>
                   </table>
@@ -242,7 +242,7 @@
       <div class="card tarjeta" id="" style="flex: 1;">
         <div id="tarjetiux">
         <span>
-        <img src="aparatos_ruta_parte3.gif" class="card-img-top" alt="..." >
+        <img src="./images/sept/inicio-ruta-gif.gif" class="card-img-top" alt="..." >
         <div class="card-body">
           <p class="card-text textoTarjeta">
             Una persona que no conoce la ruta puede realizarla al 100%. Convirtiéndola en una ventaja competitiva.
@@ -276,7 +276,7 @@
       <div class="card tarjeta" style="flex: 1;">
         <div id="tarjetiux2">
         <span>
-        <img src="aparatos_autotransporte_parte13.gif" class="card-img-top" alt="...">
+        <img src="./images/sept/inicio-autotransporte-gif.gif" class="card-img-top" alt="...">
             <div class="card-body">
                 <p class="card-text textoTarjeta">
                     Geoposiciona las rutas de tus vendedores</br>·Cambio de estatus durante el recorrido en tiempo real </br>·Sistema de alarma</br>·Geolocalización de unidades
@@ -309,7 +309,7 @@
       <div class="card tarjeta" style="flex: 1;">
         <div id="tarjetiux3">
         <span>
-          <img src="aparatos_evaluacion_parte3.gif" class="card-img-top" alt="...">
+          <img src="./images/sept/inicio-evaluacion-gif.gif" class="card-img-top" alt="...">
           <div class="card-body">
             <p class="card-text textoTarjeta">
                 Obtener una visión integral de 360º de tu empresa , generando una calificación desde 3 perspectivas, nos brinda un resultado efectivo y objetivo
