@@ -27,8 +27,9 @@
           <li class="nav-item">
             <a class="nav-link" style="color : white" href="index.php">INICIO</a>
           </li>
-          <li class="nav-item active tabActiva">
-            <a class="nav-link" style="color : white" href="productos.php">PRODUCTOS
+          <li class="nav-item">
+            <a class="nav-link" style="color : white;border-bottom: 2px solid #FFFFFF;" href="productos.php">
+                PRODUCTOS
             <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
@@ -44,47 +45,29 @@
       </div>
     </div>
 </nav>
+
 <br>
 
-<div class="container" style="text-align:center;">
+<div style="text-align:center;width:100%">
   <div class="row" style="display: flex;width:100%;">
-    <div class="col-sm-9 form-group" style="display: flex;
-                                            display: -webkit-flex;
-                                            flex-wrap: wrap;">
-      <div class="container">
-        <div class="row">
-          <h1 style="font-family: 'Roboto', sans-serif;
-                  	font-weight: bold;
-                  	text-align: left;
-                  	padding-top: 10%;
-                  	padding-bottom: 10px;
-                  	font-size: 70px;
-                  	color: #002C55;">
+    <div class="col-sm-9 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;padding-left:5%;">
+      <div>
+          <h2 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;
+                  	padding-top: 5%;padding-bottom: 10px;color: #002C55;">
                   SOV RUTAS
-          </h1>
-        </div>
-        <div class="row">
+          </h2>
           <h5 style="font-family: 'Roboto', sans-serif;
                   	    font-weight: normal;
                   	    text-align: left;
                     	padding-bottom: 30px;
                     	color: #002E54;">
-                CONVIERTE EL PROBLEMA DE MANEJO DE RUTAS Y VENDEDORES EN UNA VENTAJA COMPETITIVA
+                CONVIERTE EL PROBLEMA DE MANEJO DE RUTAS Y VENDEDORES EN UNA</br> VENTAJA COMPETITIVA
           </h5>
-        </div>
       </div>
     </div>
-    <div class="col-sm-3 form-group" style="display: flex;
-                                            display: -webkit-flex;
-                                            flex-wrap: wrap;">
-      <div class="container" align="center" style="text-align:center;">
-        <div class="row" style="padding-top:20%;">
-            <div class="container" style="text-align:center;">
-            <br><br>
-                <img align="center" src="./images/logo_sov.svg" style="max-width:80%;max-height:80%;"></img>
-            </div>
-        </div>
-      </div>
+    <div class="col-sm-3 form-group" style="background-image: url('./images/logo_sov.svg');background-repeat: no-repeat;background-size:70% 70%;padding-top:5%;display: flex;display: -webkit-flex;flex-wrap: wrap;background-position: center;">
+        <!--img align="center" src="./images/logo_sov.svg" style="width:100%;height:100%;"></img-->
+        <p style="color:transparent"><br>SOV<br></p>
     </div>
   </div>
 </div>
@@ -119,12 +102,18 @@
        <div class="anim2" style="height:620px;">
             <div class="container" align="center" style="width:100%;">
                 <div class="row" style="text-align:center;width:100%;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:15%;">
-                    Por un sistema generador de indicadores que apoyan un proceso sencillo y claro en la toma de decisiones comerciales y la eficiencia en el servicio a clientes
-                  </h3>
+                <div class="col-sm" align="center" style="height:620px;display: table;overflow: hidden;">
+                
+                        <div style="display: table-cell; vertical-align: middle;">
+                          <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                            Por un sistema generador de indicadores que apoyan<br/> un proceso sencillo y claro en la toma de decisiones<br/> comerciales y la eficiencia en el servicio a clientes
+                          </h3>
+                          <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;">
+                            <img align="center" src="icono_generador_parte3_slider2.png"></img>
+                          </div>
+                        </div>
+                
                 </div>
-                <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;padding-bottom:10%;">
-                <img align="center" src="icono_generador_parte3_slider2.png"></img>
                 </div>
             </div>
         </div>
@@ -132,18 +121,30 @@
     <div class="carousel-item">
        <div class="anim3" style="height:620px;display:flex;">
             <div class="container" align="center" style="width:100%;">
+            <div class="row" style="text-align:center;width:100%;">
+                <div class="col-sm" align="center" style="height:620px;display: table;overflow: hidden;">
+                <div style="display: table-cell; vertical-align: middle;">
                 <div class="row" style="text-align:center;width:100%;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;padding-bottom:5%;">
-                    Las principales desviaciones comerciales en cualquier operación están contempladas en el Sistema SOV
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-bottom:5%;">
+                    Las principales desviaciones comerciales en cualquier<br/> operación están contempladas en el Sistema SOV
                   </h3>
                 </div>
-                <div class="row" style="text-algin:center;width:90%;" align="center">
+                <br/>
+                <style>
+                #texto3recuadrocarrusel{
+                    padding-top:25%;
+                    padding-bottom:25%;
+                    font-size:20px;
+                    font-family: 'Roboto', sans-serif;
+                }
+                </style>
+                <div class="row" style="text-algin:center;width:100%;" align="center">
                 <div class="container">
                       <div class="row" style="padding-bottom:10%;">
                         <div class="col-sm" style="display:flex;">
                           <div class="card tarjeta" style="background:transparent;border-color:white;">
                             <div class="card-body">
-                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">
+                              <p class="card-text textoTarjeta" id="texto3recuadrocarrusel">
                                 LA POSIBILIDAD DE QUE UNA PERSONA QUE NO CONOCE LAS RUTAS LAS REALICE
                             </p>
                             </div>
@@ -152,7 +153,7 @@
                         <div class="col-sm" style="display:flex;">
                           <div class="card tarjeta" style="background:transparent;border-color:white;">
                             <div class="card-body">
-                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">
+                              <p class="card-text textoTarjeta" id="texto3recuadrocarrusel">
                                 LOS PRECIOS A LOS QUE SE LE VENDE A CADA CLIENTE
                             </p>
                             </div>
@@ -161,11 +162,14 @@
                         <div class="col-sm" style="display:flex;">
                           <div class="card tarjeta" style="background:transparent;border-color:white;">
                             <div class="card-body">
-                              <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:25px;font-family: 'Roboto', sans-serif;">
+                              <p class="card-text textoTarjeta" id="texto3recuadrocarrusel">
                                 CONOCE SI CADA RUTA TIENE LA COBERTURA ADECUADA
                             </p>
                             </div>
                           </div>
+                        </div>
+                        </div>
+                        </div>
                         </div>
                       </div>
                     </div>
@@ -189,11 +193,12 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-8">
-    <img src="GRAFICA CIRCULO_0.svg" style="width:85%;height:85%;"></img>
+    <div class="col-sm-7">
+    <img src="GRAFICA CIRCULO_0.svg" style="width:100%;height:100%;"></img>
     </div>
-    <div class="col-sm-4" style="vertical-align:middle">
+    <div class="col-sm-5" style="vertical-align:middle">
     <br><br><br><br><br>
+    <div style="position: absolute;bottom: 0;left: 0;">
     <table align="right" style="width:100%;height:120px;">
         <tr>
             <td style="border-left: 4px solid #002E54;padding-left:15px;">
@@ -206,40 +211,96 @@
             </td>
         </tr>
     </table>
+    </div>
       </div>
   </div>
 </div>
 
 <br><br><br><br><br>
 
+<style>
+    #tarjetasdegradconicono{
+        padding-top:2%;
+        padding-bottom:2%;
+        font-size:22px;
+        font-family: 'Roboto', sans-serif;
+    }
+    #diviconodegrad{
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        padding-bottom:5%;
+    }
+    #tablecuadrosdegrad{
+        text-align:center;
+    }
+    td img { 
+  vertical-align: bottom;
+}
+</style>
 <div style="background-image: url('fondo.png');background-repeat: no-repeat;background-size:100% 100%;">
     <div class="row" style="text-algin:center;width:100%;" align="center">
-        <div class="container" style="width:70%;">
+        <div class="container" style="width:100%;">
             <div class="row" style="padding-bottom:5%;padding-top:5%;">
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:2%;padding-bottom:2%;font-size:25px;font-family: 'Roboto', sans-serif;">
-                                Certfica que todos los clientes correspondientes al día se visitaron <br><br><br><img src="rectangulo 1_sovr.svg"/>
-                            </p>
+                        <table id="tablecuadrosdegrad">
+                            <tr>
+                                <td>
+                                    <p class="card-text textoTarjeta" id="tarjetasdegradconicono">
+                                        Certfica que todos los clientes correspondientes al día se visitaron
+                                    </p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <br>
+                                    <img style="width:92px;height:96px;" src="rectangulo 1_sovr.svg"/>
+                                </td>
+                            </tr>
+                        </table>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:2%;padding-bottom:2%;font-size:25px;font-family: 'Roboto', sans-serif;">
-                                Conocer los horarios y ubicación en que el vendedor realiza las operaciones</br><br><img src="rectangulo 2_sovr.svg"/>
-                            </p>
+                            <table id="tablecuadrosdegrad">
+                                <tr>
+                                    <td>
+                                       <p class="card-text textoTarjeta" id="tarjetasdegradconicono">
+                                            Conocer los horarios y ubicación en que el vendedor realiza las operaciones
+                                        </p> 
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img style="width:92px;height:120px;" src="rectangulo 2_sovr.svg"/>
+                                    </td>
+                                </tr>
+                            </table>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:2%;padding-bottom:2%;font-size:25px;font-family: 'Roboto', sans-serif;">
-                                Libro de rutas actualizado en forma automática </br><br><br><br><img src="rectangulo 3_sovr.svg"/>
-                            </p>
+                            <table id="tablecuadrosdegrad">
+                                <tr>
+                                    <td>
+                                        <p class="card-text textoTarjeta" id="tarjetasdegradconicono">
+                                            </br>Libro de rutas actualizado en forma automática
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <br>
+                                        <img style="width:92px;height:96px;" src="rectangulo 3_sovr.svg"/>
+                                    </td>
+                                </tr>
+                            </table>
                         </div>
                     </div>
                 </div>
@@ -248,27 +309,60 @@
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:2%;padding-bottom:2%;font-size:25px;font-family: 'Roboto', sans-serif;">
-                                Punteo en mapas electrónicos al 100%, actualizados en forma automática </br><br><img src="rectangulo 4_sovr.svg"/>
-                            </p>
+                            <table id="tablecuadrosdegrad">
+                                <tr>
+                                    <td>
+                                        <p class="card-text textoTarjeta" id="tarjetasdegradconicono">
+                                            Punteo en mapas electrónicos al 100%, actualizados en forma automática
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img style="width:92px;height:96px;" src="rectangulo 4_sovr.svg"/>
+                                    </td>
+                                </tr>
+                            </table>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:2%;padding-bottom:2%;font-size:25px;font-family: 'Roboto', sans-serif;">
-                                Carga óptima en ruta de reparto </br><br><br><br><img src="rectangulo 5_sovr.svg"/>
-                            </p>
+                            <table id="tablecuadrosdegrad">
+                                <tr>
+                                    <td>
+                                        <p class="card-text textoTarjeta" id="tarjetasdegradconicono">
+                                            </br>Carga óptima en ruta de reparto
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                         <img style="width:92px;height:96px;" src="rectangulo 5_sovr.svg"/>
+                                    </td>
+                                </tr>
+                            </table>
                         </div>
                     </div>
                 </div>
                 <div class="col-sm" style="display:flex;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:2%;padding-bottom:2%;font-size:25px;font-family: 'Roboto', sans-serif;">
-                                Reporte de pedidos contra surtido por cliente </br><br><br><br><img src="rectangulo 6_sovr.svg"/>
-                            </p>
+                            <table id="tablecuadrosdegrad">
+                                <tr>
+                                    <td>
+                                        <p class="card-text textoTarjeta" id="tarjetasdegradconicono">
+                                            </br>Reporte de pedidos contra surtido por cliente
+                                        </p>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <img style="width:92px;height:96px;" src="rectangulo 6_sovr.svg"/>
+                                    </td>
+                                </tr>
+                            </table>
                         </div>
                     </div>
                 </div>
@@ -281,8 +375,6 @@
 <br><br><br><br>
 <style>
 #recuadrodobleblanco{
-    padding-top:10%;
-    padding-bottom:10%;
     padding-left:10%;
     padding-right:10%;
     text-align:center;
@@ -291,10 +383,9 @@
     font-family: 'Roboto', sans-serif;
     border: solid 2px #002E54;
     flex:1;
+    font-size: 19px;
 }
 #recuadrodobleazul{
-    padding-top:10%;
-    padding-bottom:10%;
     padding-left:10%;
     padding-right:10%;
     text-align:center;
@@ -303,60 +394,65 @@
     flex:1;
     border: solid 2px #002E54;
     background-color:#002E54;
+    font-size:19px;
 }
 </style>
 <div class="container">
     <table>
         <tr>
             <td style="border-left: 4px solid #002E54;size:contain;">
-                <h5 class="subtitulo" style="padding-left:15px;text-align:left;color: #002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:30px;">
+                <h5 class="subtitulo" style="padding-left:15px;text-align:left;color: #002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:32px;">
                     LAS PRINCIPALES DESVIACIONES COMERCIALES CONTEMPLADAS EN CUALQUIER OPERACIÓN ESTÁN CONTEMPLADAS EN EL SISTEMA SOV</h5> 
             </td>
         </tr>
     </table>
     <br><br>
-  <div class="row" >
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-      <div id="recuadrodobleblanco" >
-        <div class="card-body">
-            <p>
-                La posibilidad de que una persona que no conoce la ruta la pueda realizar
-            </p>
-        </div>
-    </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-      <div id="recuadrodobleblanco">
-        <div class="card-body">
-            <p class="card-text">
-                Los precios a los que se le vende a cada
-            </p>
-        </div>
-    </div>
-    </div>
-    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-      <div id="recuadrodobleblanco">
-        <div class="card-body">
-            <p class="card-text">
-                Los clientes en dispositivo
-            </p>
-        </div>
-    </div>
-    </div>
+  <div class="container">
+            <div class="row" align="center" style="padding-left:7%;padding-right:7%;text-align:center;">
+                <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+                  <div id="recuadrodobleblanco" style="display: table; height: 210px; overflow: hidden;">
+                    <div style="display: table-cell; vertical-align: middle;">
+                        <p>
+                            La posibilidad de que una persona que no conoce la ruta la pueda realizar
+                        </p>
+                    </div>
+                </div>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+                  <div id="recuadrodobleblanco" style="display: table; height: 210px; overflow: hidden;">
+                    <div style="display: table-cell; vertical-align: middle;">
+                        <p>
+                            Los precios a los que se le vende a cada cliente
+                        </p>
+                    </div>
+                </div>
+                </div>
+                <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
+                  <div id="recuadrodobleblanco" style="display: table; height: 210px; overflow: hidden;">
+                    <div style="display: table-cell; vertical-align: middle;">
+                        <p>
+                            Los clientes en dispositivo
+                        </p>
+                    </div>
+                </div>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
+                  <div id="recuadrodobleblanco" style="display: table; height: 210px; overflow: hidden;">
+                    <div style="display: table-cell; vertical-align: middle;">
+                        <p>
+                            Conocer si cada ruta tiene la cobertura adecuada
+                        </p>
+                    </div>
+                </div>
+                </div>
+              </div>
+            </div>
+        
+  <div class="container">
+            <div class="row" align="center" style="padding-left:7%;padding-right:7%;text-align:center;">
     <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div id="recuadrodobleblanco">
-        <div class="card-body">
-            <p class="card-text">
-                Conocer si cada ruta tiene la cobertura adecuada
-            </p>
-        </div>
-    </div>
-    </div>
-  </div>
-  <div class="row" style="padding-top:%;">
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div id="recuadrodobleazul">
-        <div class="card-body">
+      <div id="recuadrodobleazul" style="display: table; height: 210px; overflow: hidden;">
+                    <div style="display: table-cell; vertical-align: middle;">
             <p>
                 El dispositivo nos permite ir guiando cómo ubicar a todos los clientes
             </p>
@@ -364,17 +460,17 @@
       </div>
     </div>
     <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div id="recuadrodobleazul">
-        <div class="card-body">
-            <p class="card-text">
+      <div id="recuadrodobleazul" style="display: table; height: 210px; overflow: hidden;">
+                    <div style="display: table-cell; vertical-align: middle;">
+            <p>
                 Los precios se asignan por descuentos o lista de precios
             </p>
         </div>
       </div>
     </div>
     <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div id="recuadrodobleazul">
-        <div class="card-body">
+      <div id="recuadrodobleazul" style="display: table; height: 210px; overflow: hidden;">
+                    <div style="display: table-cell; vertical-align: middle;">
             <p>
                 Nos permite realizar ventas a clientes de otro día
             </p>
@@ -382,14 +478,15 @@
       </div>
     </div>
     <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div id="recuadrodobleazul">
-        <div class="card-body">
+      <div id="recuadrodobleazul" style="display: table; height: 210px; overflow: hidden;">
+                    <div style="display: table-cell; vertical-align: middle;">
             <p>
                 Se revisa en el mapa tanto la zona de los clientes como la secuencia de visita
             </p>
         </div>
       </div>
     </div>
+  </div>
   </div>
 </div>
 
@@ -400,31 +497,43 @@
         <div class="container">
             <div class="row" align="center" style="padding-top:7%;padding-bottom:7%;padding-left:15%;padding-right:15%;text-align:center;">
                 <div class="col-sm" align="center" style="display:flex;text-align:center;">
-                    <div class="card tarjeta" style="background:white;border-color:white;text-align:center;padding-top:15%;height:400px;">
-                        <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
+                    <div style="-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;display: table;border-radius:1%;height: 400px; overflow: hidden;background:white;border-color:white;text-align:center;padding-left:5%;padding-right:5%;">
+                        <div style="display: table-cell; vertical-align: middle;">
+                           <div>
+                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
                                 ¿LOS CLIENTES DE LA RUTA CORRESPONDEN A SU ZONA ASIGNADA?
                             </p>
-                        </div>
-                    </div>
+                           </div>
+                         </div>
+                       </div>
                 </div>
                 <div class="col-sm" style="display:flex;">
-                    <div class="card tarjeta" style="background:white;border-color:white;text-align:center;padding-top:15%;height:400px;">
-                        <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
+                    <div style="-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;display: table;border-radius:1%;height: 400px; overflow: hidden;background:white;border-color:white;text-align:center;padding-left:5%;padding-right:5%;">
+                        <div style="display: table-cell; vertical-align: middle;">
+                           <div>
+                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
                                 ¿QUÉ EFECTIVIDAD DE REPARTO SE TIENE EN PREVENTA?
                             </p>
-                        </div>
-                    </div>
+                           </div>
+                         </div>
+                       </div>
                 </div>
                 <div class="col-sm" style="display:flex;">
-                    <div class="card tarjeta" style="background:white;border-color:white;text-align:center;padding-top:15%;height:400px;">
-                        <div class="card-body">
-                            <p class="card-text textoTarjeta" style="padding-top:25%;padding-bottom:25%;font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
+                    <div style="-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;display: table;border-radius:1%;height: 400px; overflow: hidden;background:white;border-color:white;text-align:center;padding-left:5%;padding-right:5%;">
+                        <div style="display: table-cell; vertical-align: middle;">
+                           <div>
+                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
                                 ¿CONOZCO LA COBERTURA Y PENETRACIÓN DE MIS PRODUCTOS?
                             </p>
-                        </div>
-                    </div>
+                           </div>
+                         </div>
+                       </div>
                 </div>
             </div>
         </div>
@@ -433,14 +542,14 @@
 
 <br><br><br><br>
 
-<div class="container">
-    <table align="center" style="width:70%;text-align:left;margin: 0 auto;">
+<div class="contianer" align="center">
+    <table>
         <tr>
-            <td style="border-left: 5px solid #002E54;size:contain;">
-                <p style="padding-left:2%;font-size:30px;font-family: 'Roboto', sans-serif;">
+            <td style="border-left: 7px solid #002E54;size:contain;">
+                <p style="padding-left:2%;font-size:22px;font-family: 'Roboto', sans-serif;">
                     Desde el primer mes de operación de SOV obtendrá</br> ahorros sustanciales en su empresa.
                 </p>
-                <h5 class="subtitulo" style="padding-left:2%;text-align:left;color: #002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:40px;">
+                <h5 class="subtitulo" style="padding-left:2%;text-align:left;color: #002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:32px;">
                     EL SISTEMA ES 100% </br>AUTOFINANCIABLE Y RENTABLE
                 </h5> 
             </td>
@@ -466,6 +575,20 @@
   font-family: 'Roboto', sans-serif;
 }
 
+.collapsible2{
+    text-align:center;
+    float:right;
+    padding-top:-10px;
+    width:160px;
+    height:35px;
+    background-color:#4c4c4c;
+    color:white;
+    font-size:18px;
+    border-radius: 20px;
+    border: solid 0px #000;
+    cursor:pointer;
+}
+
 .collapsiblevm{
   width:160px;
   height:35px;
@@ -485,8 +608,16 @@
   margin-right: 5px;
 }
 
+.collapsible2:after {
+  content: '\002B';
+  color: white;
+  font-weight: bold;
+  float: left;
+  margin-right: 5px;
+}
+
 .active:after {
-  content: ''; /*url(./images/x_icono.svg);
+  content: +url(./images/x_icono.svg);
   /*color:white;
   font-weight:bold;
   float:left;
@@ -496,6 +627,14 @@
 button:focus {outline:0;}
 
 .content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.8s ease-out;
+  background-color: transparent;
+}
+
+.content2 {
   padding: 0 18px;
   max-height: 0;
   overflow: hidden;
@@ -569,9 +708,7 @@ button:focus {outline:0;}
 }
 
 #tarjetarecuadro2{
-    margin-right:10%;
-    margin-left:10%;
-    font-size:24px;
+    font-size:22px;
     font-family: 'Roboto', sans-serif;
     background-color:#002E54;
     border: solid 2px #002E54;
@@ -610,12 +747,12 @@ button:focus {outline:0;}
                 <img src="laptop.png" style="width:100%;height:100%;"/>
             </div>
         </div>
-        <div class="row">
-            <div class="container">
-                <input type="button" class="collapsible" value="Ver más" style="text-align:center;padding-bottom:3%;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
-                
-                <div class="content">
-                <div class="container" style="padding-top:5%;padding-bottom:5%;">
+       <!-- Intento 2 -->
+       <div class="container">
+            
+       </div>
+       
+            <div class="container" style="padding-top:5%;padding-bottom:5%;">
                     <button class="collapsible">LIBRO DE RUTA</button>
                     <div class="content">
                         <br>
@@ -626,7 +763,6 @@ button:focus {outline:0;}
                                 </p>
                             </div>
                         </div>
-                        <br>
                         
                         <div class="row">
                             <div class="container">
@@ -635,7 +771,6 @@ button:focus {outline:0;}
                                 </p>
                             </div>
                         </div>
-                        <br>
                         
                         <div class="row">
                             <div class="container">
@@ -644,29 +779,39 @@ button:focus {outline:0;}
                                 </p>
                             </div>
                         </div>
-                        <br>
                         
                         <div class="row">
                             <div class="container">
                                 <p id="collapsiblelibbroderuta">
                                     Se puede realizar operaciones de venta a los clientes del día como a otro cliente que corresponda a esa ruta.
                                 </p>
-                                <br>
-                                <input type="button" class="collapsible" value="Ver más" style="float:right;text-align:center;padding-bottom:3%;width:160px;height:35px;background-color:#4c4c4c;color:white;font-size:18px;border-radius: 20px;border: solid 0px #000;"/>
-                            <div class="content">
-                                <div class="row">
-                                <br><br>
-                                    <div class="container">
-                                        <p id="collapsiblelibbroderuta">
-                                            Se puede realizar operaciones de venta a los clientes del día como a otro cliente que corresponda a esa ruta.
-                                        </p>
-                                    </div>
-                                </div>
                             </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="container">
+                                <input type="button" class="collapsible2" value="Ver más"/>
+                                <br><br>
+                                <div class="content2">
+                                <table>
+                                    <tr style="width:100%;">
+                                        <td>
+                                            Libro de rutas día:</br>Lunes Ruta:P02
+                                        </td>
+                                        <td style="text-align:left;">
+                                            Clientes sin ubicación:0</br>Del día:0
+                                        </td>
+                                    </tr>
+                                    <tr align="center" style="width:100%;text-align:center;">
+                                        <td>
+                                            <img align="center" src="./images/reporte libro de ruta.svg"/>
+                                        </td>
+                                    </tr>
+                                </table>
+                                </div>
                             </div>
                         </div>
                         <br>
-                        
                         
                         </div>
                     
@@ -696,7 +841,7 @@ button:focus {outline:0;}
                                 </p>
                             </div>
                         </div>
-                        <br>
+                        
                         <div class="row">
                             <div class="container">
                                 <p id="collapsiblelibbroderuta">
@@ -704,7 +849,7 @@ button:focus {outline:0;}
                                 </p>
                             </div>
                         </div>
-                        <br>
+                        
                         <div class="row">
                             <div class="container">
                                 <p id="collapsiblelibbroderuta">
@@ -743,8 +888,6 @@ button:focus {outline:0;}
                                 </p>
                             </div>
                         </div>
-                        
-                        <br>
                         
                         <div class="row">
                             <div class="container">
@@ -846,9 +989,7 @@ button:focus {outline:0;}
                             </div>
                         </div>
                         
-                        <br>
-                        
-                        <div class="container" id="sobrecontenedorazul">
+                        <div class="container" id="sobrecontenedorazul" >
                             <p>
                                 <b>IMPORTANTE:</b> La asignación de cargas a las rutas puede ser combinada, esto quiere decir que una ruta de reparto puede llevar la carga de varias rutas de reparto, de una sola preventa.
                             </p>
@@ -872,22 +1013,26 @@ button:focus {outline:0;}
                     
                     <br>
                     
-                        <div class="row" align="center">
-                            <div class="col-sm" style="display:flex;width:90%;">
+                        <div class="row" align="center" style="padding-right:10%;padding-left:10%;">
+                            <div class="col-sm" style="display:flex;">
                                 <div id="tarjetarecuadro2">
-                                    <div class="card-body" style="background-color:transparent;">
-                                        <p id="textoRecuadrode3">
+                                    <div class="card-body" style="display: table; height: 400px; overflow: hidden;background-color:transparent;">
+                                    <div style="display: table-cell; vertical-align: middle;">
+                                        <p>
                                             En este reporte nos indica los pedidos a entregar y la cantidad de producto que se requiere. Facilitando sustancialmente el pedido de carga en bodega o almacén.    
                                         </p>
+                                    </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm" style="display:flex;">
                                 <div id="tarjetarecuadro2">
-                                    <div class="card-body">
-                                        <p id="textoRecuadrode3">
+                                    <div class="card-body" style="display: table; height: 400px; overflow: hidden;">
+                                    <div style="display: table-cell; vertical-align: middle;">
+                                        <p>
                                             De igual forma si tiene que realizar cambios u obsequios. El sistema SOV permite a los vendedores que al realizar la venta o preventa pudiera hacer algún cambio, merma u obsequio de producto si así se requiere.    
                                         </p>
+                                    </div>
                                     </div>
                                 </div>
                             </div>
@@ -942,8 +1087,6 @@ button:focus {outline:0;}
                             </div>
                         </div>
                         
-                        <br>
-                        
                         <div class="row">
                             <div class="container">
                                 <p id="collapsiblelibbroderuta">
@@ -952,8 +1095,6 @@ button:focus {outline:0;}
                             </div>
                         </div>
                         
-                        <br>
-                        
                         <div class="row">
                             <div class="container">
                                 <p id="collapsiblelibbroderuta">
@@ -961,8 +1102,6 @@ button:focus {outline:0;}
                                 </p>
                             </div>
                         </div>
-                        
-                        <br>
                         
                         <div class="row">
                             <div class="container">
@@ -980,14 +1119,13 @@ button:focus {outline:0;}
                         
                         <div class="row">
                             <div class="container">
-                                <p id="collapsiblelibbroderuta">
+                                <div id="collapsiblelibbroderuta">
                                     En forma rápida el resultado del día en el total de rutas.
-                                </p>
-                                <p id="collapsiblecuadroazul">
-                                    <b>CONSOLIDADOS DE REPORTES</b></br>
-                                    <br>
-                                    Los reportes generados facilitan el seguimiento y resultados de nuestra fuerza de ventas
-                                </p>
+                                </div>
+                                <div id="collapsiblecuadroazul">
+                                    <p style="font-weight:bolder;">CONSOLIDADOS DE REPORTES</p>
+                                    Los reportes generados facilitan el seguimiento </br>y resultados de nuestra fuerza de ventas
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -996,32 +1134,37 @@ button:focus {outline:0;}
                     <button class="collapsible" style="">REPORTE DE VENTA POR LAPSO DE TIEMPO</button>
                     <div class="content">
                         <br>
-                        <br>
                         <div class="row">
                             <div class="col-sm" style="display:flex;">
                                 <div id="textoRecuadrode3azul">
-                                    <div class="card-body" style="background-color:transparent;">
+                                    <div style="background-color:transparent;display: table; height: 300px; overflow: hidden;">
+                                        <div style="display: table-cell; vertical-align: middle;">
                                         <p>
                                             Muestra de facil forma la variedad y cantidad de producto vendido.
                                         </p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm" style="display:flex;">
                                 <div id="textoRecuadrode3azul">
-                                    <div class="card-body">
+                                    <div style="background-color:transparent;display: table; height: 300px; overflow: hidden;">
+                                        <div style="display: table-cell; vertical-align: middle;">
                                         <p>
                                             El precio promedio al que se vendieron los productos.   
                                         </p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm" style="display:flex;">
                                 <div id="textoRecuadrode3azul">
-                                    <div class="card-body">
+                                    <div style="background-color:transparent;display: table; height: 300px; overflow: hidden;">
+                                        <div style="display: table-cell; vertical-align: middle;">
                                         <p>
                                             Por periodo de tiempo seleccionado (día, semana, mes, trimestre, etc)
                                         </p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -1080,9 +1223,7 @@ button:focus {outline:0;}
                         </div>
                     </div>
                 </div>
-            </div>
-            </div>
-            </div>
+      
         </div>
     </div>
     
@@ -1099,6 +1240,21 @@ for (i = 0; i < coll.length; i++) {
       content.style.maxHeight = null;
     } else {
       content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+
+var coll2 = document.getElementsByClassName("collapsible2");
+var j;
+
+for (j = 0; j < coll2.length; j++) {
+  coll2[j].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content2 = this.nextElementSibling;
+    if (content2.style.maxHeight){
+      content2.style.maxHeight = null;
+    } else {
+      content2.style.maxHeight = content2.scrollHeight + "px";
     } 
   });
 }
