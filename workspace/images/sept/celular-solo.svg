@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="95px" height="150px" viewBox="0 0 95 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>celular</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="EVALUACION" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="SOV-EVALUACION" transform="translate(-558.000000, -775.000000)" stroke="#FFFFFF" stroke-width="3">
+            <g id="Parte-1">
+                <g id="slider" transform="translate(0.000000, 416.000000)">
+                    <g id="slider-2" transform="translate(254.000000, 134.000000)">
+                        <g id="celular" transform="translate(306.000000, 227.000000)">
+                            <g id="Group-7">
+                                <polyline id="Stroke-1" points="-0.000404347826 139.850156 -0.000404347826 0.444488889 91.2588783 0.444488889 91.2588783 146.000406 7.86820435 146.000406"></polyline>
+                                <path d="M15.7341848,15.1773083 L90.7770978,15.1773083" id="Stroke-3"></path>
+                                <path d="M0.372606522,115.457408 L89.8244543,115.457408" id="Stroke-5"></path>
+                            </g>
+                            <path d="M37,129 L52,129" id="Stroke-8"></path>
+                            <path d="M9.556,15 L8,15" id="Stroke-9"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
