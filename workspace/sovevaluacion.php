@@ -53,9 +53,9 @@
                                             display: -webkit-flex;
                                             flex-wrap: wrap;padding-left:5%;">
       <div>
-          <h2 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;padding-bottom: 10px;color: #002C55;">
+          <h1 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;padding-bottom: 10px;color: #002C55;">
             SOV EVALUACIÓN
-        </h2>
+        </h1>
           <h5 style="font-family: 'Roboto', sans-serif;font-weight: normal;
                   	    text-align: left;padding-bottom: 30px;color: #002E54;">
                   	    EVALUA EN FORMA PRÁCTICA EL DESEMPEÑO DE SU PERSONAL EXTERNO, DE TUS SUCURSALES DESDE UN PUNTO DE VISTA OPERATIVO Y TENIÉNDOLO EN TIEMPO REAL EL CONOCIMIENTO DE LAS ACTIVIDADES
@@ -87,6 +87,45 @@
               <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
                 Obtener una calificación general desde<br/> 3 perspectivas nos brinda un resultado
               </h3>
+              <style>
+                            .circle {
+                                border: 0px solid black;
+                                border-radius: 50%;
+                                display: inline-block;
+                                background:#E4E4E4;
+                                height:200px;
+                                width:200px;
+                                text-align:center;
+                            }
+                            
+                            .circle img {
+                                display: block;
+                                vertical-align:middle
+                                height:160px;
+                                width:130px;
+                                margin:auto;
+                                padding-top:15%;
+                            }
+                            
+                        </style>
+                        <div class="container">
+                        <div class="row" style="width:100%;padding-right:20%;padding-left:20%;">
+                            <div class="col-sm">
+                                <div align="center" id="divseparador">
+                                    <div class="circle">
+                                        <img src="./images/sept/icono-objetivo.svg" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm">
+                                <div align="center" id="divseparador">
+                                    <div class="circle">
+                                        <img src="./images/sept/icono-eficacia.svg" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
               <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;padding-top:5%;padding-bottom:5%;">
                 OBJETIVO & EFICACIA
               </h1>
@@ -104,8 +143,26 @@
                      5 aplicaciones corriendo simultáneamente para crear<br/> evaluaciones que hacen un sistema único que trabaja <br/>para el beneficio de tu empresa
                   </h3>
                   <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;padding-bottom:10%;">
-                <img align="center" src="icono_generador_parte3_slider2.png"></img>
-                </div>
+                    <table align="center">
+                        <tr>
+                            <td>
+                                <img align="center" src="./images/mundo_icono.svg"></img>
+                            </td>
+                            <td>
+                                <img align="center" src="./images/celular icon.svg"></img>
+                            </td>
+                            <td>
+                                <img align="center" src="./images/celular icon.svg"></img>
+                            </td>
+                            <td>
+                                <img align="center" src="./images/celular icon.svg"></img>
+                            </td>
+                            <td>
+                                <img align="center" src="./images/celular icon.svg"></img>
+                            </td>
+                        </tr>
+                    </table>
+                  </div>
                 </div>
                 </div>
             </div>
@@ -117,7 +174,7 @@
                 <div class="row" style="text-align:center;width:100%;display: table; height: 620px; overflow: hidden;">
             <div style="display: table-cell; vertical-align: middle;">
                   <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
-                    Las principales desviaciones comerciales en cualquier operación están contempladas en el Sistema SOV
+                    Obtener el control donde antes era difícil tenerlo.<br/> Y calificar el desempeño por funciones
                   </h3>
                   <div class="container" style="padding-top:5%;">
                     <img align="center" src="./images/icono funcionamiento.svg"/>
@@ -179,64 +236,76 @@
         </tr>
     </table>
     <br><br>
-  <div class="row">
-    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-      <div id="recuadrodobleblanco" >
-        <div class="card-body">
-            <p>
-                Evalúa el desempeño de su personal externo
-            </p>
+  <div class="row" align="center" style="padding-left:10%;padding-right:10%;text-align:center;">
+    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
+                    <div id="recuadrodobleblanco" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                        <div style="display: table-cell; vertical-align: middle;">
+                           <div>
+                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
+                                Evalúa el desempeño de su personal externo
+                    </p>
+                </div>
+              </div>
+            </div>
+        </div>
+    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
+                    <div id="recuadrodobleblanco" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                        <div style="display: table-cell; vertical-align: middle;">
+                           <div>
+                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
+                                Evalúa las sucursales desde un punto operativo
+                        </p>
+                    </div>
+                </div>
+                </div>
+            </div>
+    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
+                    <div id="recuadrodobleblanco" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                        <div style="display: table-cell; vertical-align: middle;">
+                           <div>
+                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
+                                Evaluaciones por parte del público
+                        </p>
+                    </div>
+                </div>
+                </div>
+              </div>
+            </div>
+  <div class="row" align="center" style="padding-left:10%;padding-right:10%;text-align:center;">
+    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
+                    <div id="recuadrodobleazul" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                        <div style="display: table-cell; vertical-align: middle;">
+                           <div>
+                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:white;">
+                                Teniendo en tiempo real las actividades realizadas
+                        </p>
+                    </div>
+                  </div>
+                </div>
+            </div>
+    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
+                    <div id="recuadrodobleazul" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                        <div style="display: table-cell; vertical-align: middle;">
+                           <div>
+                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:white;">
+                                Recibiendo calificaciones desde la perspectiva de un consumidor calificado
+                        </p>
+                    </div>
+                  </div>
+                </div>
+            </div>
+    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
+                    <div id="recuadrodobleazul" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                        <div style="display: table-cell; vertical-align: middle;">
+                           <div>
+                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:white;">
+                                Resultados efectivos y objetivos
+                </p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
-    <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm">
-      <div id="recuadrodobleblanco">
-        <div class="card-body">
-            <p class="card-text">
-                Evalúa las sucursales desde un punto operativo
-            </p>
-        </div>
-    </div>
-    </div>
-    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div id="recuadrodobleblanco">
-        <div class="card-body">
-            <p class="card-text">
-                Evaluaciones por parte del público
-            </p>
-        </div>
-    </div>
-    </div>
-  </div>
-  <div class="row" style="padding-top:%;">
-    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div id="recuadrodobleazul">
-        <div class="card-body">
-            <p>
-                Teniendo en tiempo real las actividades realizadas
-            </p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div id="recuadrodobleazul">
-        <div class="card-body">
-            <p class="card-text">
-                Recibiendo calificaciones desde la perspectiva de un consumidor calificado
-            </p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div id="recuadrodobleazul">
-        <div class="card-body">
-            <p>
-                Resultados efectivos y objetivos
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
 </div>
 
 <br><br>
@@ -289,7 +358,7 @@
                 <table align="center" style="width:100%;text-align:left;">
                     <tr>
                         <td style="border-left: 5px solid white;size:contain;">
-                            <p style="padding-left:2%;font-size:25px;font-family: 'Roboto', sans-serif;color:white;">
+                            <p style="padding-left:2%;font-size:22px;font-family: 'Roboto', sans-serif;color:white;">
                               INFORMACIÓN ESPECÍFICA DE LAS ÁREAS DE OPORTUNIDAD CONTENIDAS Y CON REVISIÓN INMEDIATA  
                             </p>
                         </td>
@@ -388,7 +457,7 @@
 
 <div style="background-color:#D4D3DA;">
     <div class="container">
-    <br>
+    <br><br><br>
         <table>
         <tr>
             <td style="border-left: 4px solid #002E54;size:contain;">
@@ -415,12 +484,9 @@
             </td>
         </tr>
     </table>
-    <br>
+    <br><br><br><br>
     </div>
 </div>
-
-
-<br><br><br><br>
 
 <div style="background-image: url('fondo.png');background-repeat: no-repeat;background-size:100% 100%;">
     <div class="container" style="padding-top:10%;padding-bottom:10%;">
@@ -437,7 +503,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <img src="./images/icono funcionamiento.svg"/>
+                                <img src="./images/sept/icono calendario.svg"/>
                             </td>
                         </tr>
                     </table>
@@ -455,7 +521,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <img src="./images/celular icon.svg"/>
+                                <img src="./images/sept/icono autoadministrable.svg"/>
                             </td>
                         </tr>
                     </table>
@@ -494,7 +560,7 @@
                         </tr>
                         <tr>
                             <td>
-                                <img src="./images/mundo_icono.svg"/>
+                                <img src="./images/sept/mundo.svg"/>
                             </td>
                         </tr>
                     </table>
@@ -533,7 +599,7 @@
 }
 
 .collapsible:after {
-  content: '\002B';
+  content: url(./images/+_icono.svg);
   color: white;
   font-weight: bold;
   float: left;
@@ -541,7 +607,7 @@
 }
 
 .active:after {
-  content: ''; /*url(./images/x_icono.svg);
+  content: url(./images/x_icono.svg);
   /*color:white;
   font-weight:bold;
   float:left;
@@ -574,11 +640,9 @@ button:focus {outline:0;}
     <button class="collapsible" style="">REVISIÓN DE PERSONAL</button>
                     <div class="content">
                         <br>
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
-                                    Marca el punteo de clientes correspondientes al día de ruta del libro. Se puede obtener el punteo por día o por clientes totales de la ruta identificados con colores por día de visita. 
-                                </p>
+                        <div class="row" style="width:100%;">
+                            <div class="container" align="center">
+                                <img align="center" src="./images/sept/esquema revision.svg" />
                             </div>
                         </div>
                     </div>
@@ -588,11 +652,9 @@ button:focus {outline:0;}
     <button class="collapsible" style="">REVISIÓN DE INSTALACIONES</button>
                     <div class="content">
                         <br>
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
-                                    Marca el punteo de clientes correspondientes al día de ruta del libro. Se puede obtener el punteo por día o por clientes totales de la ruta identificados con colores por día de visita. 
-                                </p>
+                        <div class="row" style="width:100%;">
+                            <div class="container" align="center">
+                                <img align="center" src="./images/sept/esquema revision.svg" />
                             </div>
                         </div>
                     </div>
@@ -602,25 +664,21 @@ button:focus {outline:0;}
     <button class="collapsible" style="">CALIFICACIÓN DE SUCURSAL</button>
                     <div class="content">
                         <br>
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
-                                    Marca el punteo de clientes correspondientes al día de ruta del libro. Se puede obtener el punteo por día o por clientes totales de la ruta identificados con colores por día de visita. 
-                                </p>
+                        <div class="row" style="width:100%;">
+                            <div class="container" align="center">
+                                <img align="center" src="./images/sept/esquema revision regional.svg" />
                             </div>
                         </div>
                     </div>
     
     <br>
     
-    <button class="collapsible" style="">CALIFICACIÓN DE SUCURSALES</button>
+    <button class="collapsible" style="">CALIFICACIÓN DE SUCURSALES - MYSTERY SHOPPER</button>
                     <div class="content">
                         <br>
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
-                                    Marca el punteo de clientes correspondientes al día de ruta del libro. Se puede obtener el punteo por día o por clientes totales de la ruta identificados con colores por día de visita. 
-                                </p>
+                        <div class="row" style="width:100%;">
+                            <div class="container" align="center">
+                                <img align="center" src="./images/sept/CALIFICACION MYSTERY SHOOPER.svg" />
                             </div>
                         </div>
                     </div>
@@ -630,11 +688,9 @@ button:focus {outline:0;}
     <button class="collapsible" style="">ENCUESTAS DE SATISFACCIÓN</button>
                     <div class="content">
                         <br>
-                        <div class="row">
-                            <div class="container">
-                                <p id="collapsiblelibbroderuta">
-                                    Marca el punteo de clientes correspondientes al día de ruta del libro. Se puede obtener el punteo por día o por clientes totales de la ruta identificados con colores por día de visita. 
-                                </p>
+                        <div class="row" style="width:100%;">
+                            <div class="container" align="center">
+                                <img align="center" src="./images/sept/ENCUESTA DE SATISFACCION.svg" />
                             </div>
                         </div>
                     </div>
