@@ -29,8 +29,8 @@
           <li class="nav-item">
             <a class="nav-link" style="color : white" href="productos.php">PRODUCTOS</a>
           </li>
-          <li class="nav-item active tabActiva">
-            <a class="nav-link" style="color : white" href="servicios.php">SERVICIOS
+          <li class="nav-item">
+            <a class="nav-link" style="color : white;border-bottom: 2px solid #FFFFFF;" href="servicios.php">SERVICIOS
             <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
