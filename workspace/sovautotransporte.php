@@ -79,9 +79,9 @@
                                             display: -webkit-flex;
                                             flex-wrap: wrap;padding-left:5%;">
       <div>
-          <h2 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;padding-top: 10%;padding-bottom: 10px;color: #002C55;">
+          <h1 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;padding-top: 10%;padding-bottom: 10px;color: #002C55;">
             SOV AUTOTRANSPORTE
-        </h2>
+        </h1>
           <h5 style="font-family: 'Roboto', sans-serif;font-weight: normal;
                   	    text-align: left;padding-bottom: 30px;color: #002E54;">
                   	    CUMPLIR CON LA NORMA 87
@@ -145,8 +145,8 @@
                 <div class="col-sm" align="center" style="height:620px;display: table;overflow: hidden;">
                 <div style="display: table-cell; vertical-align: middle;">
                 <div class="row" style="text-align:center;width:100%;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;padding-bottom:5%;">
-                    <br/>CONCEPTOS DE SOV AUTOTRANSPORTE
+                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                    CONCEPTOS DE SOV AUTOTRANSPORTE
                   </h3>
                 </div>
                 <br>
@@ -184,10 +184,10 @@
                 </style>
                 <div class="row" style="text-algin:center;width:100%;" align="center">
                 <div class="container">
-                      <div class="row" style="width:75%;padding-bottom:10%;">
+                      <div class="row" style="width:75%;">
                         <div class="col-sm" style="display:flex;">
                           <div class="card tarjeta" style="background:transparent;border-color:white;">
-                            <div class="card-body" style="display: table; height: 310px; overflow: hidden;">
+                            <div class="card-body" style="display: table; overflow: hidden;">
                                 <div style="display: table-cell; vertical-align: middle;">
                                   <p id="texto3recuadrocarrusel">
                                     Métodos y herramientas; tecnología y experiencia
@@ -362,8 +362,9 @@
 <div style="background: #002C55;">
     <div class="container" style="text-algin:center;width:100%;background: transparent;height:600px;display: table overflow: hidden;" align="center">
         <div class="container" style="background:transparent;display: table-cell; vertical-align: middle;">
-                <div class="col-sm" style="background:white;border-color:white;text-align:center;display: table; height: 300px; overflow: hidden;">
-                    <div style="display: table-cell; vertical-align: middle;">
+                <div class="col-sm" style="background:transparent;border-color:transparent;text-align:center;display: table; height: 600px; overflow: hidden;">
+                    <div class="container" style="display: table-cell; vertical-align: middle;padding-right:5%;padding-left:5%;background:transparent;">
+                    <div class="container" style="background:white;padding-top:5%;padding-bottom:5%;padding-right:5%;padding-left:5%;">
                         <table align="center" style="width:100%;">
                             <tr>
                                 <td style="border-left: 7px solid #002E54;padding-left:15px;">
@@ -376,6 +377,7 @@
                                 </td>
                             </tr>
                         </table>
+                    </div>
                     </div>
                 </div>
         </div>
@@ -415,15 +417,17 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
+                <div style="padding-left:7%;padding-bottom:3%;position: absolute;bottom: 0;left: 0;">
                     <h1 style="font-family: 'Roboto', sans-serif;font-weight: medium;text-align: left;padding-top: 10%;padding-bottom: 10px;font-size: 40px;color: #002C55;">
                         2 Herramientas
                     </h1>
                     <h5 style="font-family: 'Roboto', sans-serif;fonr-size:20px;font-weight: normal;text-align: left;padding-bottom: 30px;color: #002E54;">
                         El sistema SOV cuenta con dos herramientas<br/> para brindarle un control total de tus <br/>unidades: el teléfono y mesa de control. 
                     </h5>
+                </div>
             </div>
             <div class="col-sm-6">
-                <img src="./images/compu-celular-autotransporte.png" style="max-height:90%;max-width:90%;"/>
+                <img src="./images/sept/imagen-2herramientas-autotransporte.png" style="max-height:120%;max-width:110%;"/>
             </div>
         </div>
     </div>
@@ -445,13 +449,17 @@
                             </tr>
                         </table>
                         <br>
-                        <div class="container">
-                            <div class="row" align="center" style="padding-left:15%;padding-right:15%;text-align:center;">
-                                <div class="col-sm" style="display:flex;">
-                                    <img src="./images/mundo_icono.svg"/>
+                        <div>
+                        <div class="row" align="center" style="width:100%;text-align:center">
+                                <div class="col-sm">
+                                    <div align="center" class="container">
+                                        <img src="./images/mundo_icono.svg"/>
+                                    </div>
                                 </div>
-                                <div class="col-sm" style="display:flex;">
-                                    <img src="./images/aparatos_icono.svg"/>
+                                <div class="col-sm">
+                                    <div align="center" class="container">
+                                        <img src="./images/aparatos_icono.svg"/>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -464,7 +472,6 @@
 
 <style>
 #fondodegrad2cuad{
-    padding-top:5%;
     padding-bottom:5%;
     padding-left:5%;
     padding-right:5%;
@@ -494,9 +501,9 @@
         text-align:center;
     }
 </style>
-<div style="background-image: url('fondo.png');background-repeat: no-repeat;background-size:100% 100%;">
+<div style="background-image: url('fondo.png');background-repeat: no-repeat;background-size:100% 100%;border-color:transparent">
     <div class="container" style="padding-top:2%;padding-bottom:2%;border-color:transparent">
-        <div class="row">
+        <br><div class="row">
             <div class="col-sm" style="display:flex;">
             <div class="card tarjeta" id="fondodegrad2cuad">
                         <div class="card-body">
@@ -586,6 +593,7 @@
                     </div>
             </div>
         </div>
+        <br>
     </div>
 </div>
 
