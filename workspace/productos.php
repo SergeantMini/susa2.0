@@ -26,8 +26,9 @@
           <li class="nav-item">
             <a class="nav-link" style="color : white" href="index.php">INICIO</a>
           </li>
-          <li class="nav-item active tabActiva">
-            <a class="nav-link" style="color : white" href="productos.php">PRODUCTOS
+          <li class="nav-item">
+            <a class="nav-link" style="color : white;border-bottom: 2px solid #FFFFFF;" href="productos.php">
+                PRODUCTOS
             <span class="sr-only">(current)</span></a>
           </li>
           <li class="nav-item">
@@ -44,9 +45,11 @@
     </div>
 </nav>
 
+<br>
+
 <div  style="text-align:center;width:100%;">
   <div class="row" style="display: flex;width:100%;">
-    <div class="col-sm-10 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;padding-left:5%;">
+    <div class="col-sm-9 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;padding-left:5%;">
       <div>
           <h2 style="font-family: 'Roboto', sans-serif; font-weight: bold; text-align: left;padding-top: 5%;padding-bottom: 10px;color: #002C55;">
             NUESTRA LÍNEA DE PRODUCTOS
@@ -66,14 +69,14 @@
             </h5>
       </div>
     </div>
-    <div class="col-sm-2 form-group" style="background-image: url('./images/logo_sov.svg');background-repeat: no-repeat;background-size:100% 100%;padding-top:5%;display: flex;display: -webkit-flex;flex-wrap: wrap;">
+    <div class="col-sm-3 form-group" style="background-image: url('./images/logo_sov.svg');background-repeat: no-repeat;background-size:70% 70%;padding-top:5%;display: flex;display: -webkit-flex;flex-wrap: wrap;background-position: center;">
         <!--img align="center" src="./images/logo_sov.svg" style="width:100%;height:100%;"></img-->
         <p style="color:transparent"><br>SOV<br></p>
     </div>
   </div>
 </div>
 
-<br><br><br>
+<br><br>
 
 <style>
     #titulorecuadroazul{
@@ -112,9 +115,9 @@
                   	     SOV RUTAS
                   	</h3>
                 </div>
-                <br>
-                <div align="center" style="width:100%;">
-                <div class="row" style="width:80%;">
+                <br><br>
+                <div align="center" style="width:100%;padding-bottom:2%;">
+                <div class="row" style="width:85%;">
                     <div class="col-sm-6">
                             <p style="font-family: 'Roboto', sans-serif;
                             width: 100%;
@@ -123,7 +126,9 @@
                           	padding-left: 10%;
                           	padding-right:10%;
                           	font-size: 17px;
-                          	color: #ffffff;">
+                          	color: #ffffff;
+                          	position: absolute;
+                          	bottom: 0;left: 0;">
                                 OBTENER EL CONTROL</br> TOTAL DE LOS CLIENTES
                             </p>
                     </div>
