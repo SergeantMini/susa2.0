@@ -14,7 +14,7 @@
   </head>
   <body>
     
-    <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
+    <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-dark barraNav">
     <div class="container" style="margin-left: 0px;">
       <a  class="navbar-left" href="index.php">
              <img style="max-width:100%; max-height:100%;" src="Logo intop_blanco.svg" alt="">
@@ -53,12 +53,12 @@
                                             display: -webkit-flex;
                                             flex-wrap: wrap;padding-left:5%;">
       <div>
-          <h1 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;padding-bottom: 10px;color: #002C55;">
+          <h2 style="font-family: 'Roboto', font-size:20px; sans-serif;font-weight: bold;text-align: left;padding-bottom: 10px;color: #002C55;">
             SOV EVALUACIÓN
-        </h1>
+        </h2>
           <h5 style="font-family: 'Roboto', sans-serif;font-weight: normal;
                   	    text-align: left;padding-bottom: 30px;color: #002E54;">
-                  	    EVALUA EN FORMA PRÁCTICA EL DESEMPEÑO DE SU PERSONAL EXTERNO, DE TUS SUCURSALES DESDE UN PUNTO DE VISTA OPERATIVO Y TENIÉNDOLO EN TIEMPO REAL EL CONOCIMIENTO DE LAS ACTIVIDADES
+                  	    EVALUA EN FORMA PRÁCTICA EL DESEMPEÑO DE SU PERSONAL EXTERNO, DE TUS SUCURSALES DESDE UN PUNTO DE VISTA OPERATIVO Y TENIENDO EN TIEMPO REAL EL CONOCIMIENTO DE LAS ACTIVIDADES
           </h5>
       </div>
     </div>
@@ -79,111 +79,200 @@
   </ol>
   <div class="carousel-inner">
     <ul>
-    <div class="carousel-item active">
-      <div class="anim1" style="height:620px;">
-        <div class="container" align="center" style="width:100%;">
-            <div class="row" style="text-align:center;width:100%;display: table; height: 620px; overflow: hidden;">
+    <!--div class="carousel-item active">
+       <div class="row" style="width:100%;">
+        <div class="container" style="height:620px;" align="center">
+          <div align="center" style="text-align:center;height:506px;display: table;overflow: hidden;">    
             <div style="display: table-cell; vertical-align: middle;">
-              <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
-                Obtener una calificación general desde<br/> 3 perspectivas nos brinda un resultado
-              </h3>
-              <style>
+                <div class="container">
+                          <h1 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                                SOV EVALUACION TE PERMITE CONOCER SI LOS CLIENTES QUE CONSIDERAS FIELES REALMENTE LO SON
+                          </h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="carousel-item">
+       <div class="row" style="width:100%;">
+        <div class="container" style="height:620px;" align="center">
+          <div align="center" style="text-align:center;height:506px;display: table;overflow: hidden;">    
+            <div style="display: table-cell; vertical-align: middle;">
+                <div class="container">
+                          <h1 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                                SOV EVALUACION TE PERMITE CONOCER SI LOS CLIENTES QUE CONSIDERAS FIELES REALMENTE LO SON
+                          </h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="carousel-item">
+       <div class="row" style="width:100%;">
+        <div class="container" style="height:620px;" align="center">
+          <div align="center" style="text-align:center;height:506px;display: table;overflow: hidden;">    
+            <div style="display: table-cell; vertical-align: middle;">
+                <div class="container">
+                          <h1 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                                SOV EVALUACION TE PERMITE CONOCER SI LOS CLIENTES QUE CONSIDERAS FIELES REALMENTE LO SON
+                          </h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div-->
+    <div class="carousel-item active">
+      <div class="row" style="width:100%;">
+        <div class="container" style="height:620px;" align="center">
+          <div align="center" class="row" style="text-align:center;height:506px;display: table;overflow: hidden;">    
+            <div style="display: table-cell; vertical-align: middle;">
+                <div class="container">
+                      <h4 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                        Obtener una calificación general desde<br/> 3 perspectivas nos brinda un resultado
+                      </h4>
+                      <style>
                             .circle {
                                 border: 0px solid black;
                                 border-radius: 50%;
                                 display: inline-block;
                                 background:#E4E4E4;
-                                height:200px;
-                                width:200px;
+                                height:120px;
+                                width:120px;
                                 text-align:center;
+                                padding-right:5%;
+                                padding-left:5%;
                             }
                             
                             .circle img {
                                 display: block;
                                 vertical-align:middle
-                                height:160px;
-                                width:130px;
+                                max-height:70px;
+                                max-width:70px;
                                 margin:auto;
-                                padding-top:15%;
+                                padding-top:20%;
                             }
-                            
+                            #separadorimg{
+                                padding-left:7.5px;
+                                padding-right:7.5px;
+                            }
                         </style>
-                        <div class="container">
-                        <div class="row" style="width:100%;padding-right:20%;padding-left:20%;">
-                            <div class="col-sm">
-                                <div align="center" id="divseparador">
-                                    <div class="circle">
-                                        <img src="./images/sept/icono-objetivo.svg" />
+                        <br>
+                      <div class="container">
+                        <table align="center">
+                            <tr>
+                                <td>
+                                    <div id="separadorimg">
+                                        <div class="circle">
+                                            <img src="./images/sept/icono-objetivo.svg" />
+                                        </div>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="col-sm">
-                                <div align="center" id="divseparador">
-                                    <div class="circle">
-                                        <img src="./images/sept/icono-eficacia.svg" />
+                                </td>
+                                <td>
+                                    <div id="separadorimg">
+                                        <div class="circle">
+                                            <img src="./images/sept/icono-eficacia.svg" />
+                                        </div>
                                     </div>
-                                </div>
-                            </div>
+                                </td>
+                            </tr>
+                          </table>
                         </div>
-                        </div>
-              <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;padding-top:5%;padding-bottom:5%;">
-                OBJETIVO & EFICACIA
-              </h1>
+                        <br>
+                        <h2 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;">
+                            OBJETIVO & EFICACIA
+                          </h2>
+                    </div>
             </div>
-            </div>
+          </div>
         </div>
       </div>
     </div>
     <div class="carousel-item">
-       <div class="anim2" style="height:620px;">
-            <div class="container" align="center" style="width:100%;">
-                <div class="row" style="text-align:center;width:100%;display: table; height: 620px; overflow: hidden;">
-                    <div style="display: table-cell; vertical-align: middle;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
-                     5 aplicaciones corriendo simultáneamente para crear<br/> evaluaciones que hacen un sistema único que trabaja <br/>para el beneficio de tu empresa
-                  </h3>
-                  <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;padding-bottom:10%;">
-                    <table align="center">
-                        <tr>
-                            <td>
-                                <img align="center" src="./images/mundo_icono.svg"></img>
-                            </td>
-                            <td>
-                                <img align="center" src="./images/celular icon.svg"></img>
-                            </td>
-                            <td>
-                                <img align="center" src="./images/celular icon.svg"></img>
-                            </td>
-                            <td>
-                                <img align="center" src="./images/celular icon.svg"></img>
-                            </td>
-                            <td>
-                                <img align="center" src="./images/celular icon.svg"></img>
-                            </td>
-                        </tr>
-                    </table>
-                  </div>
-                </div>
+       <div class="row" style="width:100%;">
+        <div class="container" style="height:620px;" align="center">
+          <div align="center" style="text-align:center;height:506px;display: table;overflow: hidden;">    
+            <div style="display: table-cell; vertical-align: middle;">
+                <div class="container">
+                          <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                             5 aplicaciones corriendo simultáneamente <br/>para crear evaluaciones que hacen un sistema <br/>único que trabaja para el beneficio de tu empresa
+                          </h4>
+                          
+                          <br>
+                          
+                          <style>
+                            #divseparaiconos{
+                                padding-right:5px;
+                                padding-left:5px;
+                            }
+                          </style>
+                          
+                          <div class="container" style="text-align:center;">
+                            <table align="center" style="max-width:100%;">
+                                <tr>
+                                    <td>
+                                        <div id="divseparaiconos">
+                                            <img align="center" style="max-width:90%;" src="./images/mundo_icono.svg"></img>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div id="divseparaiconos">
+                                            <img align="center" style="max-width:90%;" src="./images/sept/celular-solo.svg"></img>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div id="divseparaiconos">
+                                            <img align="center" style="max-width:90%;" src="./images/sept/celular-solo.svg"></img>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div id="divseparaiconos">
+                                            <img align="center" style="max-width:90%;" src="./images/sept/celular-solo.svg"></img>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div id="divseparaiconos">
+                                            <img align="center" style="max-width:90%;" src="./images/sept/celular-solo.svg"></img>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div id="divseparaiconos">
+                                            <img align="center" style="max-width:90%;" src="./images/sept/celular-solo.svg"></img>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                          </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
     <div class="carousel-item">
-       <div class="anim3" style="height:620px;">
+       <div class="row" style="width:100%;">
             <div class="container" align="center" style="width:100%;">
                 <div class="row" style="text-align:center;width:100%;display: table; height: 620px; overflow: hidden;">
             <div style="display: table-cell; vertical-align: middle;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
-                    Obtener el control donde antes era difícil tenerlo.<br/> Y calificar el desempeño por funciones
-                  </h3>
-                  <div class="container" style="padding-top:5%;">
-                    <img align="center" src="./images/icono funcionamiento.svg"/>
-                  </div>
+                <div align="center" class="container">
+                  <table align="center" style="text-align:left;">
+                    <tr>
+                        <td style="border-left: 5px solid white;size:contain;padding-left:3%">
+                            
+                            <h4 style="font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                              SOV Evaluación te permite conocer si los clientes que consideras fieles realmente lo son.
+                            </h4>
+                        </td>
+                    </tr>
+            </table>
+                </div>
                 </div>
                 </div>
             </div>
       </div>
-    </div>
+    </div-->
     </ul>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -200,10 +289,6 @@
 
 <style>
 #recuadrodobleblanco{
-    padding-top:10%;
-    padding-bottom:10%;
-    padding-left:10%;
-    padding-right:10%;
     text-align:center;
     color:#002E54;
     font-weight:bold;
@@ -212,10 +297,6 @@
     flex:1;
 }
 #recuadrodobleazul{
-    padding-top:10%;
-    padding-bottom:10%;
-    padding-left:10%;
-    padding-right:10%;
     text-align:center;
     color:white;
     font-family: 'Roboto', sans-serif;
@@ -236,84 +317,112 @@
         </tr>
     </table>
     <br><br>
-  <div class="row" align="center" style="padding-left:10%;padding-right:10%;text-align:center;">
-    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
-                    <div id="recuadrodobleblanco" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
-                        <div style="display: table-cell; vertical-align: middle;">
-                           <div>
-                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
-                                Evalúa el desempeño de su personal externo
-                    </p>
+  <div class="row" align="center" style="width:100%;padding-left:10%;padding-right:10%;text-align:center;">
+    <div class="col-sm-4" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
+            <div class="container" style="padding-top:2%;padding-bottom:2%">
+                    <table align="center">
+                        <tr>
+                            <td id="recuadrodobleblanco">
+                                <div style="flex:1;display: table;width:230px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                                    <div style="display: table-cell; vertical-align: middle;">
+                                       <div>
+                                         <p class="card-text textoTarjeta" style="font-size:18px;font-family: 'Roboto', sans-serif;color:#002E54;">
+                                            Evalúa el desempeño de su personal externo
+                                        </p>
+                                    </div>
+                                  </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="recuadrodobleazul">
+                                <div style="flex:1;display: table;width:230px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                                    <div style="display: table-cell; vertical-align: middle;">
+                                       <div>
+                                         <p class="card-text textoTarjeta" style="font-size:18px;font-family: 'Roboto', sans-serif;color:white;">
+                                            Teniendo en tiempo real las actividades realizadas
+                                        </p>
+                                    </div>
+                                  </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
                 </div>
-              </div>
-            </div>
         </div>
-    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
-                    <div id="recuadrodobleblanco" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+    <div class="col-sm-4" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
+    <div class="container" style="padding-top:2%;padding-bottom:2%">
+        <table align="center">
+            <tr>
+                <td id="recuadrodobleblanco">
+                                <div style="flex:1;display: table;width:230px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                                    <div style="display: table-cell; vertical-align: middle;">
+                                       <div>
+                                         <p class="card-text textoTarjeta" style="font-size:18px;font-family: 'Roboto', sans-serif;color:#002E54;">
+                                            Evalúa las sucursales desde un punto operativo
+                                        </p>
+                                    </div>
+                                  </div>
+                                </div>
+                            </td>
+            </tr>
+            <tr>
+                <td id="recuadrodobleazul">
+                    <div style="flex:1;display: table;width:230px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
                         <div style="display: table-cell; vertical-align: middle;">
                            <div>
-                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
-                                Evalúa las sucursales desde un punto operativo
-                        </p>
-                    </div>
-                </div>
-                </div>
-            </div>
-    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
-                    <div id="recuadrodobleblanco" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
-                        <div style="display: table-cell; vertical-align: middle;">
-                           <div>
-                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
-                                Evaluaciones por parte del público
-                        </p>
-                    </div>
-                </div>
-                </div>
-              </div>
-            </div>
-  <div class="row" align="center" style="padding-left:10%;padding-right:10%;text-align:center;">
-    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
-                    <div id="recuadrodobleazul" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
-                        <div style="display: table-cell; vertical-align: middle;">
-                           <div>
-                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:white;">
-                                Teniendo en tiempo real las actividades realizadas
-                        </p>
-                    </div>
-                  </div>
-                </div>
-            </div>
-    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
-                    <div id="recuadrodobleazul" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
-                        <div style="display: table-cell; vertical-align: middle;">
-                           <div>
-                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:white;">
+                             <p class="card-text textoTarjeta" style="font-size:18px;font-family: 'Roboto', sans-serif;color:white;">
                                 Recibiendo calificaciones desde la perspectiva de un consumidor calificado
-                        </p>
+                            </p>
+                        </div>
+                      </div>
                     </div>
-                  </div>
-                </div>
+                </td>
+            </tr>
+        </table>
+                    </div>
             </div>
-    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
-                    <div id="recuadrodobleazul" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
-                        <div style="display: table-cell; vertical-align: middle;">
-                           <div>
-                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:white;">
-                                Resultados efectivos y objetivos
-                </p>
-            </div>
-          </div>
+    <div class="col-sm-4" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
+        <div class="container" style="padding-top:2%;padding-bottom:2%">
+            <table align="center">
+                <tr>
+                    <td id="recuadrodobleblanco">
+                                    <div style="flex:1;display: table;width:230px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                                        <div style="display: table-cell; vertical-align: middle;">
+                                           <div>
+                                             <p class="card-text textoTarjeta" style="font-size:18px;font-family: 'Roboto', sans-serif;color:#002E54;">
+                                                Evaluaciones por parte del público
+                                            </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                </td>
+                </tr>
+                <tr>
+                    <td id="recuadrodobleazul">
+                        <div style="flex:1;display: table;width:230px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                            <div style="display: table-cell; vertical-align: middle;">
+                               <div>
+                                 <p class="card-text textoTarjeta" style="font-size:18px;font-family: 'Roboto', sans-serif;color:white;">
+                                    Resultados efectivos y objetivos
+                                </p>
+                            </div>
+                          </div>
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            </div>            
         </div>
-      </div>
     </div>
 </div>
 
 <br><br>
 
 <div style="background: #002C55;">
-    <div class="row" style="text-algin:center;width:100%;" align="center">
-        <div class="container">
-            <div class="row" align="center" style="padding-top:7%;padding-bottom:5%;padding-left:15%;padding-right:15%;text-align:center;">
+    <div class="row" style="text-algin:center;" align="center">
+        <div align="center" class="container">
+            <div class="row" align="center" style="width:100%;padding-top:7%;padding-bottom:5%;padding-left:15%;padding-right:15%;text-align:center;">
                 <div class="col-sm" align="center" style="display:flex;text-align:center;">
                     <div class="card tarjeta" style="background:white;border-color:white;text-align:center;">
                         <div class="card-body" style="display: table; height: 400px; overflow: hidden;">
@@ -358,7 +467,7 @@
                 <table align="center" style="width:100%;text-align:left;">
                     <tr>
                         <td style="border-left: 5px solid white;size:contain;">
-                            <p style="padding-left:2%;font-size:22px;font-family: 'Roboto', sans-serif;color:white;">
+                            <p style="padding-left:2%;font-size:20px;font-family: 'Roboto', sans-serif;color:white;">
                               INFORMACIÓN ESPECÍFICA DE LAS ÁREAS DE OPORTUNIDAD CONTENIDAS Y CON REVISIÓN INMEDIATA  
                             </p>
                         </td>
@@ -378,11 +487,11 @@
          <div style="display: table-cell; vertical-align: middle;">
             <table align="center" style="width:85%;text-align:left;">
                     <tr>
-                        <td style="border-left: 7px solid white;size:contain;">
-                            <h5 class="subtitulo" style="padding-left:2%;text-align:left;color: white;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:37px;">
+                        <td style="border-left: 7px solid white;size:contain;padding-left:3%">
+                            <h5 class="subtitulo" style="padding-left:2%;text-align:left;color: white;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:28px;">
                                 ¿CLIENTES FIELES?
                             </h5> 
-                            <p style="padding-left:2%;font-size:27px;font-family: 'Roboto', sans-serif;color:white;">
+                            <p style="padding-left:3%;font-size:18px;font-family: 'Roboto', sans-serif;color:white;">
                               Interpretar su nivel de satisfacción te permitirá implementar mejoras prácticas, enfocadas en la experiencia de usuario. Descubre en qué consiste el NPS y brinda un servicio focalizado en las relaciones con tus clientes
                             </p>
                         </td>
@@ -478,7 +587,7 @@
         <table>
         <tr>
             <td style="border-left: 4px solid #002E54;size:contain;">
-                <h5 style="padding-left:15px;text-align:left;color: #002E54;font-weight:normal;font-family: 'Roboto', sans-serif;font-size:27px;">
+                <h5 style="padding-left:15px;text-align:left;color: #002E54;font-weight:normal;font-family: 'Roboto', sans-serif;font-size:20px;">
                     Dichas calificaciones le llegarán al gerente regional, supervisor o auditor; de acuerdo al programa de actividades
                 </h5> 
             </td>
@@ -532,7 +641,7 @@
         <div class="row">
             <div class="col-sm-6" id="colsmfondoazul">
                 <div class="container" id="fondodegrad2cuad">
-                    <table>
+                    <table align="center">
                         <tr>
                             <td>
                                 <p>
@@ -606,7 +715,7 @@
   margin-right: 5px;
 }
 
-.active:after {
+.collapsible.active:after {
   content: url(./images/x_icono.svg);
   /*color:white;
   font-weight:bold;
@@ -628,7 +737,7 @@ button:focus {outline:0;}
         <table>
             <tr>
                 <td style="border-left: 6px solid #002E54;size:contain;">
-                    <h5 style="padding-left:15px;text-align:left;color: #002E54;font-weight:normal;font-family: 'Roboto', sans-serif;font-size:30px;">
+                    <h5 style="padding-left:15px;text-align:left;color: #002E54;font-weight:normal;font-family: 'Roboto', sans-serif;font-size:25px;">
                         Contamos con 5 aplicaciones corriendo simultáneamente para crear evaluaciones que hacen un sistema único que trabaja para el beneficio de tu empresa. 
                     </h5> 
                 </td>
@@ -640,9 +749,9 @@ button:focus {outline:0;}
     <button class="collapsible" style="">REVISIÓN DE PERSONAL</button>
                     <div class="content">
                         <br>
-                        <div class="row" style="width:100%;">
+                        <div align="center" class="row">
                             <div class="container" align="center">
-                                <img align="center" src="./images/sept/esquema revision.svg" />
+                                <img align="center" style="max-width:100%;" src="./images/sept/esquema revision.svg" />
                             </div>
                         </div>
                     </div>
@@ -652,9 +761,9 @@ button:focus {outline:0;}
     <button class="collapsible" style="">REVISIÓN DE INSTALACIONES</button>
                     <div class="content">
                         <br>
-                        <div class="row" style="width:100%;">
+                        <div class="row">
                             <div class="container" align="center">
-                                <img align="center" src="./images/sept/esquema revision.svg" />
+                                <img align="center" style="max-width:100%;" src="./images/sept/esquema revision.svg" />
                             </div>
                         </div>
                     </div>
@@ -664,9 +773,9 @@ button:focus {outline:0;}
     <button class="collapsible" style="">CALIFICACIÓN DE SUCURSAL</button>
                     <div class="content">
                         <br>
-                        <div class="row" style="width:100%;">
+                        <div class="row" >
                             <div class="container" align="center">
-                                <img align="center" src="./images/sept/esquema revision regional.svg" />
+                                <img align="center" style="max-width:100%;" src="./images/sept/esquema revision regional.svg" />
                             </div>
                         </div>
                     </div>
@@ -676,9 +785,9 @@ button:focus {outline:0;}
     <button class="collapsible" style="">CALIFICACIÓN DE SUCURSALES - MYSTERY SHOPPER</button>
                     <div class="content">
                         <br>
-                        <div class="row" style="width:100%;">
+                        <div class="row" >
                             <div class="container" align="center">
-                                <img align="center" src="./images/sept/CALIFICACION MYSTERY SHOOPER.svg" />
+                                <img align="center" style="max-width:100%;" src="./images/sept/CALIFICACION MYSTERY SHOOPER.svg" />
                             </div>
                         </div>
                     </div>
@@ -688,9 +797,9 @@ button:focus {outline:0;}
     <button class="collapsible" style="">ENCUESTAS DE SATISFACCIÓN</button>
                     <div class="content">
                         <br>
-                        <div class="row" style="width:100%;">
+                        <div class="row" >
                             <div class="container" align="center">
-                                <img align="center" src="./images/sept/ENCUESTA DE SATISFACCION.svg" />
+                                <img align="center" style="max-width:100%;" src="./images/sept/ENCUESTA DE SATISFACCION.svg" />
                             </div>
                         </div>
                     </div>
