@@ -14,7 +14,7 @@
   </head>
   <body>
     
-    <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
+    <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-dark barraNav">
     <div class="container" style="margin-left: 0px;">
       <a  class="navbar-left" href="index.php">
              <img style="max-width:100%; max-height:100%;" src="Logo intop_blanco.svg" alt="">
@@ -52,7 +52,7 @@
   <div class="row" style="display: flex;width:100%;">
     <div class="col-sm-9 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;padding-left:5%;">
       <div>
-          <h1 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;
+          <h2 style="font-family: 'Roboto',font-size:20px; sans-serif;font-weight: bold;text-align: left;
                   	padding-top: 5%;padding-bottom: 10px;color: #002C55;">
                   SOV RUTAS
           </h1>
@@ -82,19 +82,19 @@
   </ol>
   <div class="carousel-inner">
     <ul>
-    <div class="carousel-item active" style="">
-      <div class="anim1" style="height:620px;overflow:visible;">
+    <div class="carousel-item active">
+        <div class="row" style="width:100%;height:620px;overflow:visible;">
         <div class="container" align="center" >
             <div class="row" style="text-align:center;width:100%;">
                 <div class="col-sm" align="center" style="height:620px;display: table;overflow: hidden;">
                 
                         <div style="display: table-cell; vertical-align: middle;">
-              <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+              <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
                 Nuestros sistemas convierten tu problemática en ventajas competitivas
-              </h3>
-              <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;">
+              </h4>
+              <h2 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;">
                 <br/>EFICACIA = UTILIDADES
-              </h1>
+              </h2>
               <div class="container" align="center" style="width:100%;text-align:center;"">
                 <img align="center" style="max-width:65%;max-height:65%;" src="./images/sept/rutas-slider01.png">
               </div>
@@ -105,15 +105,15 @@
       </div>
     </div>
     <div class="carousel-item">
-       <div class="anim2" style="height:620px;">
+       <div class="row" style="width:100%;height:620px;">
             <div class="container" align="center" style="width:100%;">
                 <div class="row" style="text-align:center;width:100%;">
                 <div class="col-sm" align="center" style="height:620px;display: table;overflow: hidden;">
                 
                         <div style="display: table-cell; vertical-align: middle;">
-                          <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
-                            Por un sistema generador de indicadores que apoyan<br/> un proceso sencillo y claro en la toma de decisiones<br/> comerciales y la eficiencia en el servicio a clientes
-                          </h3>
+                          <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                            Un sistema generador de indicadores que apoyan<br/> un proceso sencillo y claro en la toma de decisiones<br/> comerciales y la eficiencia en el servicio a clientes
+                          </h4>
                           <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;">
                             <img align="center" src="icono_generador_parte3_slider2.png"></img>
                           </div>
@@ -125,56 +125,31 @@
         </div>
     </div>
     <div class="carousel-item">
-       <div class="anim3" style="height:620px;display:flex;">
+       <div class="row" style="width:100%;min-height:620px;display:flex;">
             <div class="container" align="center" style="width:100%;">
             <div class="row" style="text-align:center;width:100%;">
-                <div class="col-sm" align="center" style="height:620px;display: table;overflow: hidden;">
+                <div class="col-sm" align="center" style="min-height:620px;display: table;overflow: hidden;">
                 <div style="display: table-cell; vertical-align: middle;">
-                <div class="row" style="text-align:center;width:100%;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
-                    Las principales desviaciones comerciales en cualquier<br/> operación están contempladas en el Sistema SOV
-                  </h3>
+                <div class="container" style="text-align:center;width:100%;">
+                  <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                    ¿Conozco la cobertura y penetración de mis <b>PRODUCTOS / SERVICIOS</b>?
+                  </h4>
                 </div>
                 <br/>
                 <style>
                 #texto3recuadrocarrusel{
-                    padding-top:25%;
-                    padding-bottom:25%;
-                    font-size:20px;
+                    font-size:15px;
+                    color: white;
                     font-family: 'Roboto', sans-serif;
                 }
                 </style>
                 <div class="row" style="text-algin:center;width:100%;" align="center">
                 <div class="container">
-                      <div class="row" style="width:75%;">
-                        <div class="col-sm" style="display:flex;">
-                          <div class="card tarjeta" style="background:transparent;border-color:white;">
-                            <div class="card-body">
-                              <p class="card-text textoTarjeta" id="texto3recuadrocarrusel">
-                                LA POSIBILIDAD DE QUE UNA PERSONA QUE NO CONOCE LAS RUTAS LAS REALICE
+                      
+                            <p id="texto3recuadrocarrusel">
+                               ICONOOOOOOO
                             </p>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="col-sm" style="display:flex;">
-                          <div class="card tarjeta" style="background:transparent;border-color:white;">
-                            <div class="card-body">
-                              <p class="card-text textoTarjeta" id="texto3recuadrocarrusel">
-                                LOS PRECIOS A LOS QUE SE LE VENDE A CADA CLIENTE
-                            </p>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="col-sm" style="display:flex;">
-                          <div class="card tarjeta" style="background:transparent;border-color:white;">
-                            <div class="card-body">
-                              <p class="card-text textoTarjeta" id="texto3recuadrocarrusel">
-                                CONOCE SI CADA RUTA TIENE LA COBERTURA ADECUADA
-                            </p>
-                            </div>
-                          </div>
-                        </div>
-                        </div>
+                         
                         </div>
                         </div>
                       </div>
@@ -199,25 +174,30 @@
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-7">
-    <img src="GRAFICA CIRCULO_0.svg" style="width:100%;height:100%;"></img>
+    <div class="col-sm-7" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+        <div class="container" style="display: inline-block;">
+            <img src="GRAFICA CIRCULO_0.svg" style="width:100%;height:100%;"></img>
+        </div>
     </div>
-    <div class="col-sm-5" style="vertical-align:middle">
-    <br><br><br><br><br>
-    <div style="position: absolute;bottom: 0;left: 0;">
-    <table align="right" style="width:100%;height:120px;">
-        <tr>
-            <td style="border-left: 4px solid #002E54;padding-left:15px;">
-                <h2 style="text-align:left;color:#002E54;font-weight:medium;font-family: 'Roboto', sans-serif;">
-                    GENERADOR DE INDICADORES
-                </h2>
-                <h5 style="text-align:left;color: #4c4c4c;font-family: 'Roboto', sans-serif;">
-                    APOYAN UN PROCESO SENCILLO Y CLARO
-                </h5> 
-            </td>
-        </tr>
-    </table>
-    </div>
+    <div class="col-sm-5" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+        <div class="container">
+            <div class="container" style="min-height:152px;">
+                <div class="container" style="display: inline-block;position: absolute;bottom: 0;left: 0;">
+                    <table align="right" style="width:100%;height:120px;">
+                        <tr>
+                            <td style="border-left: 4px solid #002E54;padding-left:15px;">
+                                <h3 style="text-align:left;color:#002E54;font-weight:medium;font-family: 'Roboto', sans-serif;">
+                                    GENERADOR DE INDICADORES
+                                </h3>
+                                <h5 style="text-align:left;color: #4c4c4c;font-family: 'Roboto', sans-serif;">
+                                    APOYAN UN PROCESO SENCILLO Y CLARO
+                                </h5> 
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
       </div>
   </div>
 </div>
@@ -241,14 +221,13 @@
         text-align:center;
     }
     td img { 
-  vertical-align: bottom;
-}
+        vertical-align: bottom;
+    }
 </style>
 <div style="background-image: url('fondo.png');background-repeat: no-repeat;background-size:100% 100%;">
-    <div class="row" style="text-algin:center;width:100%;" align="center">
-        <div class="container" style="width:100%;">
+        <div class="container" align="center" style="width:100%;">
             <div class="row" style="padding-bottom:5%;padding-top:5%;">
-                <div class="col-sm" style="display:flex;">
+                <div class="col-sm-4" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
                         <table id="tablecuadrosdegrad">
@@ -269,7 +248,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm" style="display:flex;">
+                <div class="col-sm-4" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
                             <table id="tablecuadrosdegrad">
@@ -289,7 +268,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm" style="display:flex;">
+                <div class="col-sm-4" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
                     <div class="card tarjeta" style="background:transparent;border-color:white;">
                         <div class="card-body">
                             <table id="tablecuadrosdegrad">
@@ -312,8 +291,8 @@
                 </div>
             </div>
             <div class="row" style="padding-bottom:5%;">
-                <div class="col-sm" style="display:flex;">
-                    <div class="card tarjeta" style="background:transparent;border-color:white;">
+                <div class="col-sm-4" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+                    <div class="card tarjeta" style="flex:1;background:transparent;border-color:white;">
                         <div class="card-body">
                             <table id="tablecuadrosdegrad">
                                 <tr>
@@ -332,8 +311,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm" style="display:flex;">
-                    <div class="card tarjeta" style="background:transparent;border-color:white;">
+                <div class="col-sm-4" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+                    <div class="card tarjeta" style="flex:1;background:transparent;border-color:white;">
                         <div class="card-body">
                             <table id="tablecuadrosdegrad">
                                 <tr>
@@ -352,8 +331,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm" style="display:flex;">
-                    <div class="card tarjeta" style="background:transparent;border-color:white;">
+                <div class="col-sm-4" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+                    <div class="card tarjeta" style="flex:1;background:transparent;border-color:white;">
                         <div class="card-body">
                             <table id="tablecuadrosdegrad">
                                 <tr>
@@ -375,14 +354,11 @@
             </div>
         </div>
     </div>
-  </div>
 </div>
 
 <br><br><br><br>
 <style>
 #recuadrodobleblanco{
-    padding-left:10%;
-    padding-right:10%;
     text-align:center;
     color:#002E54;
     font-weight:bold;
@@ -392,8 +368,6 @@
     font-size: 19px;
 }
 #recuadrodobleazul{
-    padding-left:10%;
-    padding-right:10%;
     text-align:center;
     color:white;
     font-family: 'Roboto', sans-serif;
@@ -407,8 +381,8 @@
     <table>
         <tr>
             <td style="border-left: 4px solid #002E54;size:contain;">
-                <h5 class="subtitulo" style="padding-left:15px;text-align:left;color: #002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:32px;">
-                    LAS PRINCIPALES DESVIACIONES COMERCIALES CONTEMPLADAS EN CUALQUIER OPERACIÓN ESTÁN CONTEMPLADAS EN EL SISTEMA SOV</h5> 
+                <h5 class="subtitulo" style="padding-left:15px;text-align:left;color: #002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:30px;">
+                    Las principales desviaciones comerciales contempladas en cualquier operación están contempladas en el SISTEMA SOV</h5> 
             </td>
         </tr>
     </table>
@@ -416,146 +390,211 @@
   <div class="container">
             <div class="row" align="center" style="padding-left:7%;padding-right:7%;text-align:center;">
                 <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-                  <div id="recuadrodobleblanco" style="display: table; height: 210px; overflow: hidden;">
-                    <div style="display: table-cell; vertical-align: middle;">
-                        <p>
-                            La posibilidad de que una persona que no conoce la ruta la pueda realizar
-                        </p>
+                    <div class="container" style="padding-top:2%;padding-bottom:2%">
+                        <table align="center">
+                            <tr>
+                                <td id="recuadrodobleblanco">
+                                                <div style="flex:1;display: table;width:200px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                                                    <div style="display: table-cell; vertical-align: middle;">
+                                                       <div>
+                                                         <p>
+                                                            La posibilidad de que una persona que no conoce la ruta la pueda realizar
+                                                        </p>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                            </td>
+                            </tr>
+                            <tr>
+                                <td id="recuadrodobleazul">
+                                    <div style="flex:1;display: table;width:200px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                                        <div style="display: table-cell; vertical-align: middle;">
+                                           <div>
+                                             <p>
+                                                El dispositivo nos permite ir guiando cómo ubicar a todos los clientes
+                                            </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
                     </div>
-                </div>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
-                  <div id="recuadrodobleblanco" style="display: table; height: 210px; overflow: hidden;">
-                    <div style="display: table-cell; vertical-align: middle;">
-                        <p>
-                            Los precios a los que se le vende a cada cliente
-                        </p>
+                  <div class="container" style="padding-top:2%;padding-bottom:2%">
+                        <table align="center">
+                            <tr>
+                                <td id="recuadrodobleblanco">
+                                                <div style="flex:1;display: table;width:200px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                                                    <div style="display: table-cell; vertical-align: middle;">
+                                                       <div>
+                                                         <p>
+                                                            Los precios a los que se le vende a cada cliente
+                                                        </p>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                            </td>
+                            </tr>
+                            <tr>
+                                <td id="recuadrodobleazul">
+                                    <div style="flex:1;display: table;width:200px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                                        <div style="display: table-cell; vertical-align: middle;">
+                                           <div>
+                                              <p>
+                                                Los precios se asignan por descuentos o lista de precios
+                                            </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
                     </div>
-                </div>
                 </div>
                 <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
-                  <div id="recuadrodobleblanco" style="display: table; height: 210px; overflow: hidden;">
-                    <div style="display: table-cell; vertical-align: middle;">
-                        <p>
-                            Los clientes en dispositivo
-                        </p>
+                    <div class="container" style="padding-top:2%;padding-bottom:2%">
+                        <table align="center">
+                            <tr>
+                                <td id="recuadrodobleblanco">
+                                                <div style="flex:1;display: table;width:200px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                                                    <div style="display: table-cell; vertical-align: middle;">
+                                                       <div>
+                                                         <p>
+                                                            Los clientes en dispositivo
+                                                        </p>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                            </td>
+                            </tr>
+                            <tr>
+                                <td id="recuadrodobleazul">
+                                    <div style="flex:1;display: table;width:200px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                                        <div style="display: table-cell; vertical-align: middle;">
+                                           <div>
+                                             <p>
+                                                Nos permite realizar ventas a clientes de otro día
+                                            </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
                     </div>
-                </div>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-                  <div id="recuadrodobleblanco" style="display: table; height: 210px; overflow: hidden;">
-                    <div style="display: table-cell; vertical-align: middle;">
-                        <p>
-                            Conocer si cada ruta tiene la cobertura adecuada
-                        </p>
+                    <div class="container" style="padding-top:2%;padding-bottom:2%">
+                        <table align="center">
+                            <tr>
+                                <td id="recuadrodobleblanco">
+                                                <div style="flex:1;display: table;width:200px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                                                    <div style="display: table-cell; vertical-align: middle;">
+                                                       <div>
+                                                         <p>
+                                                            Los clientes en dispositivo
+                                                        </p>
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                            </td>
+                            </tr>
+                            <tr>
+                                <td id="recuadrodobleazul">
+                                    <div style="flex:1;display: table;width:200px;height: 200px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
+                                        <div style="display: table-cell; vertical-align: middle;">
+                                           <div>
+                                             <p>
+                                                Se revisa en el mapa tanto la zona de los clientes como la secuencia de visita
+                                            </p>
+                                        </div>
+                                      </div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
                     </div>
-                </div>
                 </div>
               </div>
             </div>
-        
-  <div class="container">
-            <div class="row" align="center" style="padding-left:7%;padding-right:7%;text-align:center;">
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div id="recuadrodobleazul" style="display: table; height: 210px; overflow: hidden;">
-                    <div style="display: table-cell; vertical-align: middle;">
-            <p>
-                El dispositivo nos permite ir guiando cómo ubicar a todos los clientes
-            </p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div id="recuadrodobleazul" style="display: table; height: 210px; overflow: hidden;">
-                    <div style="display: table-cell; vertical-align: middle;">
-            <p>
-                Los precios se asignan por descuentos o lista de precios
-            </p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div id="recuadrodobleazul" style="display: table; height: 210px; overflow: hidden;">
-                    <div style="display: table-cell; vertical-align: middle;">
-            <p>
-                Nos permite realizar ventas a clientes de otro día
-            </p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-12 col-md-6 col-lg-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;" >
-      <div id="recuadrodobleazul" style="display: table; height: 210px; overflow: hidden;">
-                    <div style="display: table-cell; vertical-align: middle;">
-            <p>
-                Se revisa en el mapa tanto la zona de los clientes como la secuencia de visita
-            </p>
-        </div>
-      </div>
-    </div>
-  </div>
   </div>
 </div>
 
 <br><br><br><br><br>
-
+<style>
+    #tarjetasomb{
+        -webkit-box-shadow: 0 8px 6px -6px black;
+        -moz-box-shadow: 0 8px 6px -6px black;
+        box-shadow: 0 8px 6px -6px black;
+        display: table;
+        border-radius:1%;
+        height: 400px;
+        overflow: hidden;
+        background:white;
+        border-color:white;
+        text-align:center;
+        padding-left:5%;
+        padding-right:5%;
+    }
+</style>
 <div style="background: #002C55;">
-    <div class="row" style="text-algin:center;width:100%;" align="center">
         <div class="container">
-            <div class="row" align="center" style="padding-top:7%;padding-bottom:7%;padding-left:15%;padding-right:15%;text-align:center;">
+            <div class="row" align="center" style="padding-top:7%;padding-bottom:7%;padding-left:10%;padding-right:10%;text-align:center;">
                 <div class="col-sm" align="center" style="display:flex;text-align:center;">
-                    <div style="-webkit-box-shadow: 0 8px 6px -6px black;
-	   -moz-box-shadow: 0 8px 6px -6px black;
-	        box-shadow: 0 8px 6px -6px black;display: table;border-radius:1%;height: 400px; overflow: hidden;background:white;border-color:white;text-align:center;padding-left:5%;padding-right:5%;">
+                <div class="container" style="padding-top:2%;padding-bottom:2%;">
+                    <div id="tarjetasomb">
                         <div style="display: table-cell; vertical-align: middle;">
                            <div>
                              <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
-                                ¿LOS CLIENTES DE LA RUTA CORRESPONDEN A SU ZONA ASIGNADA?
+                                ¿Los clientes de la ruta corresponden a su zona asignada?
                             </p>
                            </div>
                          </div>
                        </div>
+                      </div>
                 </div>
                 <div class="col-sm" style="display:flex;">
-                    <div style="-webkit-box-shadow: 0 8px 6px -6px black;
-	   -moz-box-shadow: 0 8px 6px -6px black;
-	        box-shadow: 0 8px 6px -6px black;display: table;border-radius:1%;height: 400px; overflow: hidden;background:white;border-color:white;text-align:center;padding-left:5%;padding-right:5%;">
+                    <div class="container" style="padding-top:2%;padding-bottom:2%;">
+                    <div id="tarjetasomb">
                         <div style="display: table-cell; vertical-align: middle;">
                            <div>
                              <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
-                                ¿QUÉ EFECTIVIDAD DE REPARTO SE TIENE EN PREVENTA?
+                                ¿Qué efectividad de reparto se tiene en preventa?
                             </p>
                            </div>
                          </div>
                        </div>
+                      </div>
                 </div>
                 <div class="col-sm" style="display:flex;">
-                    <div style="-webkit-box-shadow: 0 8px 6px -6px black;
-	   -moz-box-shadow: 0 8px 6px -6px black;
-	        box-shadow: 0 8px 6px -6px black;display: table;border-radius:1%;height: 400px; overflow: hidden;background:white;border-color:white;text-align:center;padding-left:5%;padding-right:5%;">
+                <div class="container" style="padding-top:2%;padding-bottom:2%;">
+                    <div id="tarjetasomb">
                         <div style="display: table-cell; vertical-align: middle;">
                            <div>
                              <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
-                                ¿CONOZCO LA COBERTURA Y PENETRACIÓN DE MIS PRODUCTOS?
+                                ¿Conozco la cobertura y penetración de mis productos?
                             </p>
                            </div>
                          </div>
                        </div>
+                      </div>
                 </div>
-            </div>
         </div>
     </div>
 </div>
 
 <br><br><br><br>
 
-<div class="contianer" align="center">
+<div class="contianer" style="padding-left:2%;" align="center">
     <table>
         <tr>
             <td style="border-left: 7px solid #002E54;size:contain;">
-                <p style="padding-left:2%;font-size:22px;font-family: 'Roboto', sans-serif;">
-                    Desde el primer mes de operación de SOV obtendrá</br> ahorros sustanciales en su empresa.
+                <p style="padding-left:2%;font-size:20px;font-family: 'Roboto', sans-serif;">
+                    Desde el primer mes de operación de SOV </br>obtendrá ahorros sustanciales en su empresa.
                 </p>
-                <h5 class="subtitulo" style="padding-left:2%;text-align:left;color: #002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:32px;">
+                <h5 class="subtitulo" style="padding-left:2%;text-align:left;color: #002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:30px;">
                     EL SISTEMA ES 100% </br>AUTOFINANCIABLE Y RENTABLE
                 </h5> 
             </td>
@@ -614,7 +653,7 @@
   margin-right: 5px;
 }
 
-.active:after {
+.collapsible.active:after {
   content: url(./images/x_icono.svg);
   /*color:white;
   font-weight:bold;
@@ -689,9 +728,15 @@ button:focus {outline:0;}
     font-family: 'Roboto', sans-serif;
     background-color:#002E54;
     color:white;
-    padding-top:15%;
-    padding-bottom:15%;
     text-align:center;
+}
+
+#container3azul{
+    background-color:transparent;
+    height: 300px;
+    overflow: hidden;
+    display: table-cell;
+    vertical-align: middle;
 }
 
 #tarjetarecuadro3{
@@ -731,24 +776,24 @@ button:focus {outline:0;}
 <div style="background-color:#E4E4E4;width:100%;">
     <div class="container" style="padding-top:5%;padding-bottom:5%;">
         <div class="row">
-            <div class="col-sm-4" style=""> 
-                <div class="container" style="position: absolute;bottom: 0;left: 0;">
-                <h2 style="color:#002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:50px;">
-                    REPORTES
-                </h2>
-                <p style="color:black;font-weight:light;font-family: 'Roboto', sans-serif;font-size:20px;">
-                    El sistema SOV cuenta con estos</br> reportes que ayudan a tener resultados tangibles de las operaciones
-                </p>
+            <div class="col-sm-4" style="">
+                <div class="container" style="min-height:152px;">
+                    <div class="container" style="display: inline-block;position: absolute;bottom: 0;left: 0;">
+                        <h2 style="color:#002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:30px;">
+                            REPORTES
+                        </h2>
+                        <p style="color:black;font-weight:light;font-family: 'Roboto', sans-serif;font-size:18px;">
+                            El sistema SOV cuenta con estos</br> reportes que ayudan a tener resultados tangibles de las operaciones
+                        </p>
+                    </div>
                 </div>
             </div>
             <div class="col-sm-8">
-                <img src="./images/sept/rutas-parte_reportes.png" style="width:100%;height:100%;"/>
+                <div class="container" style="display: inline-block;">
+                    <img src="./images/sept/rutas-parte_reportes.png" style="width:100%;height:100%;"/>
+                </div>
             </div>
         </div>
-       <!-- Intento 2 -->
-       <div class="container">
-            
-       </div>
        
             <div class="container" style="padding-top:5%;padding-bottom:5%;">
                     <button class="collapsible">LIBRO DE RUTA</button>
@@ -893,8 +938,40 @@ button:focus {outline:0;}
                             </div>
                         </div>
                         
+                        <div class="container" >
+                            <div class="row">
+                            <div class="col-sm" style="display:flex;">
+                                <div id="tarjetarecuadro3">
+                                    <div class="card-body" style="background-color:transparent;">
+                                        <p id="textoRecuadrode3">
+                                            La diferencia es el reporte de la ruta de reparto que veremos más adelante.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm" style="display:flex;">
+                                <div id="tarjetarecuadro3">
+                                    <div class="card-body">
+                                        <p id="textoRecuadrode3">
+                                            Una vez teniendo la preventa se realiza la asignación de cargas a las rutas de reparto.  
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm" style="display:flex;">
+                                <div id="tarjetarecuadro3">
+                                    <div class="card-body">
+                                        <p id="textoRecuadrode3">
+                                            Una vez teniendo la preventa se realiza la asignación de cargas a las rutas de reparto.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
                         
-                        <div class="row" style="z-index:-10;">
+                        <!-- Con recuadro azul encima -->
+                        <!--div class="row" style="z-index:-10;">
                             <div class="container" style="z-index:1;position:relative;">
                             <div class="row">
                             <div class="col-sm" style="display:flex;">
@@ -931,11 +1008,17 @@ button:focus {outline:0;}
                             </div>
                         </div>
                         </div>
+                        </div-->
+                        <br>
+                        <div id="divseparador">
+                            <div class="container" align="center">
+                                <p align="center" id="sobrecontenedorazul">
+                                    <b>IMPORTANTE:</b> La asignación de cargas a las rutas puede ser combinada, esto quiere decir que una ruta de reparto puede llevar la carga de varias rutas de reparto, de una sola preventa.
+                                </p>
+                            </div>
                         </div>
                         
-                        <br>
-                        
-                        <div id="divseparador" style="padding-top:20%;">
+                        <div id="divseparador">
                             <div id="collapsibletext">
                                 <p>
                                     Se genera un reporte consolidado de carga a la ruta de reparto, y el reporte de pedidos por cliente.
@@ -953,9 +1036,10 @@ button:focus {outline:0;}
                     
                         <div class="row" align="center" style="padding-right:10%;padding-left:10%;">
                             <div class="col-sm" style="display:flex;">
-                                <div id="tarjetarecuadro2">
-                                    <div class="card-body" style="display: table; height: 400px; overflow: hidden;background-color:transparent;">
-                                    <div style="display: table-cell; vertical-align: middle;">
+                                <div class="container" style="padding-top:2%;padding-bottom:2%;">
+                                <div align="center" id="tarjetarecuadro2">
+                                    <div style="display: table; height: 400px; overflow: hidden;background-color:transparent;">
+                                    <div class="container" style="display: table-cell; vertical-align: middle;">
                                         <p>
                                             En este reporte nos indica los pedidos a entregar y la cantidad de producto que se requiere. Facilitando sustancialmente el pedido de carga en bodega o almacén.    
                                         </p>
@@ -963,8 +1047,10 @@ button:focus {outline:0;}
                                     </div>
                                 </div>
                             </div>
+                            </div>
                             <div class="col-sm" style="display:flex;">
-                                <div id="tarjetarecuadro2">
+                                <div class="container" style="padding-top:2%;padding-bottom:2%;">
+                                <div align="center" id="tarjetarecuadro2">
                                     <div class="card-body" style="display: table; height: 400px; overflow: hidden;">
                                     <div style="display: table-cell; vertical-align: middle;">
                                         <p>
@@ -972,6 +1058,7 @@ button:focus {outline:0;}
                                         </p>
                                     </div>
                                     </div>
+                                </div>
                                 </div>
                             </div>
                         </div>
@@ -1018,11 +1105,11 @@ button:focus {outline:0;}
                             .circle2 img {
                                 display: block;
                                 vertical-align:middle
-                                height:120px;
-                                width:100px;
+                                height:80px;
+                                width:80px;
                                 margin:auto;
-                                padding-top:20px;;
-                                padding-left:5%;
+                                padding-top:35px;;
+                                padding-left:%;
                             }
                         </style>
                         <div class="container">
@@ -1037,7 +1124,7 @@ button:focus {outline:0;}
                             <div class="col-sm">
                                 <div align="center" id="divseparador">
                                     <div class="circle2">
-                                        <img src="./images/sept/celular icon.png" />
+                                        <img src="./images/sept/celular-solo.svg" />
                                     </div>
                                 </div>
                             </div>
@@ -1125,11 +1212,11 @@ button:focus {outline:0;}
                     <button class="collapsible" style="">REPORTE DE VENTA POR LAPSO DE TIEMPO</button>
                     <div class="content">
                         <br>
-                        <div class="row">
-                            <div class="col-sm" style="display:flex;">
-                                <div id="textoRecuadrode3azul">
-                                    <div style="background-color:transparent;display: table; height: 300px; overflow: hidden;">
-                                        <div style="display: table-cell; vertical-align: middle;">
+                        <div align="center" class="row" style="padding-top:2%;padding-bottom:2%;padding-right:2%;padding-left:2%;">
+                            <div class="col-sm-4" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+                                <div class="container" style="padding-top:2%;padding-bottom:2%;">
+                                        <div class="container" id="textoRecuadrode3azul">
+                                    <div id="container3azul">
                                         <p>
                                             Muestra de fácil forma la variedad y cantidad de producto vendido.
                                         </p>
@@ -1137,10 +1224,10 @@ button:focus {outline:0;}
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm" style="display:flex;">
-                                <div id="textoRecuadrode3azul">
-                                    <div style="background-color:transparent;display: table; height: 300px; overflow: hidden;">
-                                        <div style="display: table-cell; vertical-align: middle;">
+                            <div class="col-sm-4" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+                                <div class="container" style="padding-top:2%;padding-bottom:2%;">
+                                    <div class="container" id="textoRecuadrode3azul">
+                                    <div id="container3azul">
                                         <p>
                                             El precio promedio al que se vendieron los productos.   
                                         </p>
@@ -1148,10 +1235,10 @@ button:focus {outline:0;}
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm" style="display:flex;">
-                                <div id="textoRecuadrode3azul">
-                                    <div style="background-color:transparent;display: table; height: 300px; overflow: hidden;">
-                                        <div style="display: table-cell; vertical-align: middle;">
+                            <div class="col-sm-4" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+                                <div class="container" style="padding-top:2%;padding-bottom:2%;">
+                                    <div class="container" id="textoRecuadrode3azul">
+                                    <div id="container3azul">
                                         <p>
                                             Por periodo de tiempo seleccionado (día, semana, mes, trimestre, etc)
                                         </p>
