@@ -7,16 +7,21 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="estilos.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+    <link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
     <title>Intop Solutions</title>
   </head>
   <body>
-  
-    <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
+    <style>
+    </style>
+    <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-dark barraNav">
     <div class="container" style="margin-left: 0px;">
       <a  class="navbar-left" href="index.php">
              <img style="max-width:100%; max-height:100%;" src="Logo intop_blanco.svg" alt="">
           </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
       <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -44,7 +49,7 @@
 </nav>
 <div style="background-image: url('fondo-abajo.png');background-repeat: no-repeat;background-size:100% 500px;">
    <div class="col-md-12" style="width:100%;">
-        <div style="background-image: url('Rectangulo_blanco_contacto.png');background-position:center;background-repeat: no-repeat;background-size:90% 100%;width:100%;padding-top:10%">
+        <div style="background-image: url('Rectangulo_blanco_contacto.png');background-position:center;background-repeat: no-repeat;background-size:100% 100%;width:100%;padding-top:10%">
           <div class="col-md-12" id="form_container">
               <h2 style="font-family: 'Roboto', sans-serif;font-weight:bold;text-align:center;font-size:50px;">
                 <br>Nosotros</h2>
@@ -71,87 +76,99 @@
               font-family: 'Roboto', sans-serif;
               color:white;
               text-align:center;
-              font-size:17px;
-              padding-top:10%;
+              font-size:14px;;
           }
           #textotarjetasrojas{
                 font-family: 'Roboto', sans-serif;
                 color:white;
                 text-align:center;
-                font-size:13px;
                 font-weight:lighter;
-                padding-right:10%;
-                padding-left:10%;
-                padding-bottom:10%;
+                font-size:12px;
             }
           #tarjetaroja{
               display: flex;display: -webkit-flex;
               flex-wrap: wrap;
               background-image: url('Rectangulo_vino.png');
-              background-size: 100% 100%;
-              padding-top:5%;
-              padding-bottom:5%;
-              padding-right:3%;
-              padding-left:3%;
+              background-size: 135% 135%;
+              background-repeat: no-repeat;
+              background-position: center;
+              height:230px;
+              width:230px;
+              padding-left:5%;
+              padding-right:5%;
+              padding-top:2%;
+              padding-bottom:2%;
+              border-radius: 2%;
+          }
+          #contenedortarjeta{
+              padding-top:2%;
+              padding-bottom:2%
+              padding-left:2%;
+              padding-right:2%;
           }
           </style>
-          
-          <div align="center" style="width:100%;padding-bottom:5%;">
-            <div class="row" style="width:77%">
-                <div class="col-sm-12 col-md-6 col-lg-3" id="tarjetaroja">
-                    <div class="container" >
-                        <h2 id="titulotarjetasRojas">
-                            APUESTA POR LA CALIDAD
-                        </h2>
-                        <hr style="border-top: 1px solid white;width:60%;" align="center">
-                        <p id="textotarjetasrojas">
-                            Todos nuestros sistemas son creados con un propósito, facilitar, generar y optimizar con ayuda de la tecnología la experiencia de tu empresa
-                        </p>
-                    </div>
+            <div class="container">
+            <div class="row" style="padding-left:2%;padding-right:2%;" align="center">
+                <div class="col-sm-3" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+                        <div id="tarjetaroja" class="container" style="flex:1;display: table;overflow: hidden;text-align:center;">
+                            <div class="container" style="display: table-cell; vertical-align: middle;">
+                                <h1 id="titulotarjetasRojas">
+                                        APUESTA POR LA CALIDAD
+                                    </h1>
+                                    <hr style="border-top: 1px solid white;width:60%;" align="center">
+                                    <p id="textotarjetasrojas">
+                                        Todos nuestros sistemas son creados con un propósito, facilitar, generar y optimizar con ayuda de la tecnología la experiencia de tu empresa
+                                    </p>
+                            </div>
+                        </div>
                 </div>
-                <div class="col-sm-12 col-md-6 col-lg-3" id="tarjetaroja">
-                    <div class="container" style="flex:1;">
-                        <h2 id="titulotarjetasRojas">
-                            <br>TRANSPARENCIA
-                        </h2>
-                        <hr style="border-top: 1px solid white;width:60%;" align="center">
-                        <p id="textotarjetasrojas">
-                            En INTOP apostamos por la transparencia, desde el inicio se tiene un trato directo y personalizado con cada cliente, brindando la mejor atención
-                        </p>
-                    </div>
+                <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-3">
+                    <div id="tarjetaroja" align="center" style="flex:1;display: table;overflow: hidden;">
+                            <div class="container" style="display: table-cell; vertical-align: middle;">
+                                <h1 id="titulotarjetasRojas">
+                                        </br>TRANSPARENCIA
+                                    </h1>
+                                    <hr style="border-top: 1px solid white;width:60%;" align="center">
+                                    <p id="textotarjetasrojas">
+                                        En INTOP apostamos por la transparencia, desde el inicio se tiene un trato directo y personalizado con cada cliente, brindando la mejor atención
+                                    </p>
+                            </div>
+                        </div>
                 </div>
-                <div class="col-sm-12 col-md-6 col-lg-3" id="tarjetaroja">
-                    <div class="container" style="flex:1;">
-                        <h2 id="titulotarjetasRojas">
-                            NUESTROS OBJETIVOS
-                        </h2>
-                        <hr style="border-top: 1px solid white;width:60%;" align="center">
-                        <p id="textotarjetasrojas">
-                            Son cubrir las necesidades de tu empresa, obtener un control y una perspectiva 360º de tu empresa, porque nos preocupamos por ti
-                        </p>
-                    </div>
+                <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-3">
+                    <div id="tarjetaroja" align="center" style="flex:1;display: table;overflow: hidden;">
+                            <div class="container" style="display: table-cell; vertical-align: middle;">
+                                <h1 id="titulotarjetasRojas">
+                                        NUESTROS OBJETIVOS
+                                    </h1>
+                                    <hr style="border-top: 1px solid white;width:60%;" align="center">
+                                    <p id="textotarjetasrojas">
+                                        Son cubrir las necesidades de tu empresa, obtener un control y una perspectiva 360º de tu empresa, porque nos preocupamos por ti
+                                    </p>
+                            </div>
+                        </div>
                 </div>
-                <div class="col-sm-12 col-md-6 col-lg-3" id="tarjetaroja">
-                    <div class="container" style="flex:1;">
-                        <h2 id="titulotarjetasRojas">
-                            NUESTROS VALORES
-                        </h2>
-                        <hr style="border-top: 1px solid white;width:60%;" align="center">
-                        <p id="textotarjetasrojas">
-                                · Empatía</br>
-                                · Compromiso</br>
-                                · Mejora continua</br>
-                                · Responsabilidad</br>
-                                · Colaboración</br>
-                                · Integración
-                        </p>
-                    </div>
+                <div style="display: flex;display: -webkit-flex;flex-wrap: wrap;" class="col-sm-3">
+                    <div id="tarjetaroja" align="center" style="flex:1;display: table;overflow: hidden;">
+                            <div class="container" style="display: table-cell; vertical-align: middle;">
+                                <h1 id="titulotarjetasRojas">
+                                       </br></br> NUESTROS VALORES
+                                    </h1>
+                                    <hr style="border-top: 1px solid white;width:60%;" align="center">
+                                    <p id="textotarjetasrojas">
+                                        · Empatía</br>
+                                    · Compromiso</br>
+                                    · Mejora continua</br>
+                                    · Responsabilidad</br>
+                                    · Colaboración</br>
+                                    · Integración
+                                    </p>
+                            </div>
+                        </div>
                 </div>
             </div>
            </div>
            </div>
-            
-            
         </div>
     </div>
 </div>
@@ -197,16 +214,12 @@
   flex-wrap: wrap;" class="col-sm-12 col-md-6 col-lg-3">
       <div class="card" style="flex:1;">
   <div class="card-body">
-    <h5 style="text-align: left;
-	color: black;
-	font-size: 33px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;">Mejorar</h5>
-    <p style="text-align: left;
-	color: #4c4c4c;
-	font-size: 15px;
-	font-family: 'Roboto', sans-serif;
-	font-weight: normal;">Buscamos día a día generar propuestas que puedan ayudar otros proyectos y empresas</p>
+    <h5 style="text-align: left;color: black;font-size: 33px;
+	font-family: 'Roboto', sans-serif;font-weight: normal;">Mejorar</h5>
+    <p style="text-align: left;color: #4c4c4c;font-size: 15px;
+	font-family: 'Roboto', sans-serif;font-weight: normal;">
+	   Buscamos día a día generar propuestas que puedan ayudar otros proyectos y empresas
+	</p>
   </div>
 </div>
     </div>
