@@ -40,7 +40,7 @@
 }
 </style>
     
-    <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
+    <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-dark barraNav">
     <div class="container" style="margin-left: 0px;">
       <a  class="navbar-left" href="index.php">
              <img style="max-width:100%; max-height:100%;" src="Logo intop_blanco.svg" alt="">
@@ -79,12 +79,12 @@
                                             display: -webkit-flex;
                                             flex-wrap: wrap;padding-left:5%;">
       <div>
-          <h1 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;padding-top: 10%;padding-bottom: 10px;color: #002C55;">
+          <h2 style="font-family: 'Roboto',font-size:20px; sans-serif;font-weight: bold;text-align: left;padding-top: 10%;padding-bottom: 10px;color: #002C55;">
             SOV AUTOTRANSPORTE
         </h1>
           <h5 style="font-family: 'Roboto', sans-serif;font-weight: normal;
                   	    text-align: left;padding-bottom: 30px;color: #002E54;">
-                  	    CUMPLIR CON LA NORMA 87
+                  	    CUMPLE CON LA NORMA 87
           </h5>
       </div>
     </div>
@@ -105,31 +105,37 @@
   </ol>
   <div class="carousel-inner">
     <ul>
-    <div class="carousel-item active">
-      <div class="anim1" style="height:620px;">
-        <div align="center" style="width:100%;padding-top:10%;padding-bottom:10%;">
-            <div class="row" align="center" style="text-align:center;width:100%;">
-              <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;padding-top:6%;">
-                Nuestros sistemas convierten tu problemática en ventajas competitivas
-              </h3>
+    <div class="carousel-item active" style="">
+      <div class="row" style="width:100%;height:620px;overflow:visible;">
+        <div class="container" align="center" >
+            <div class="row" style="text-align:center;width:100%;">
+                <div class="col-sm" align="center" style="height:620px;display: table;overflow: hidden;">
+                
+                        <div style="display: table-cell; vertical-align: middle;">
+              <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                Bitácoras de tiempos de conducción y check list de revisión ocular desde $50.00 al mes
+              </h4>
+              <h2 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;">
+                <br/>EFICACIA = UTILIDADES
+              </h2>
+              <div class="container" align="center" style="width:100%;text-align:center;"">
+                <img align="center" style="max-width:65%;max-height:65%;" src="./images/sept/autotransporte-slider01.png">
+              </div>
             </div>
-            <div align="center" class="row" style="text-align:center;width:100%;">
-              <h1 align="center" style="width:100%;font-family: 'Roboto', sans-serif;color:white;padding-top:5%;padding-bottom:5%;">
-                EFICACIA = UTILIDADES
-              </h1>
+            </div>
             </div>
         </div>
       </div>
     </div>
     <div class="carousel-item">
-       <div class="anim2" style="height:620px;">
+       <div class="row" style="width:100%;height:620px;">
             <div align="center" style="width:100%;">
                 <div class="col-sm" align="center" style="height:620px;display: table;overflow: hidden;">
                 
                         <div style="display: table-cell; vertical-align: middle;">
-                      <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
-                        SOV ofrece garantía de funcionamiento,<br/> ocupando los mejores sistemas de soporte
-                      </h3>
+                      <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                        SOV autotransporte es una herramienta escencial para<br/> la programación, seguimiento, desarrollo y control de la flota
+                      </h4>
                     <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;">
                         <img align="center" src="./images/icono funcionamiento.svg"></img>
                     </div>
@@ -139,86 +145,55 @@
         </div>
     </div>
     <div class="carousel-item">
-       <div class="anim3" style="min-height:620px;display:flex;">
-            <div class="container" align="center" style="width:100%;">
-            <div class="row" style="text-align:center;width:100%;">
-                <div class="col-sm" align="center" style="height:620px;display: table;overflow: hidden;">
-                <div style="display: table-cell; vertical-align: middle;">
-                <div class="row" style="text-align:center;width:100%;">
-                  <h3 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
-                    CONCEPTOS DE SOV AUTOTRANSPORTE
-                  </h3>
-                </div>
-                <br>
-                <style>
-                #texto3recuadrocarrusel{
-                    padding-top:25%;
-                    padding-bottom:25%;
-                    font-size:20px;
-                    font-family: 'Roboto', sans-serif;
-                    color: white;
-                    text-align:center;
-                }
-                #recuadrodobleblanco{
-                    padding-left:10%;
-                    padding-right:10%;
-                    text-align:center;
-                    color:#002E54;
-                    font-weight:bold;
-                    font-family: 'Roboto', sans-serif;
-                    border: solid 2px #002E54;
-                    flex:1;
-                    font-size: 19px;
-                }
-                #recuadrodobleazul{
-                    padding-left:10%;
-                    padding-right:10%;
-                    text-align:center;
-                    color:white;
-                    font-family: 'Roboto', sans-serif;
-                    flex:1;
-                    border: solid 2px #002E54;
-                    background-color:#002E54;
-                    font-size:19px;
-                }
-                </style>
+       <div class="row" style="width:100%;min-height:620px;display:flex;">
+            <div class="container" align="center" style="height:620px;width:100%;display: table;overflow: hidden;">
+                    <div style="display: table-cell; vertical-align: middle;">
+                      <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                        El sistema SOV se encuentra en internet (en la nube), teniendo acceso en nuestros dispositivos u oficina y desde cualquier parte del mundo.
+                      </h4>
+                    <br>
+                    <style>
+                    #texto3recuadrocarrusel{
+                        font-size:17px;
+                        font-family: 'Roboto', sans-serif;
+                        color: white;
+                        text-align:center;
+                    }
+                    #recuadrodobleblanco{
+                        text-align:center;
+                        color:#002E54;
+                        font-weight:bold;
+                        font-family: 'Roboto', sans-serif;
+                        border: solid 2px #002E54;
+                        flex:1;
+                        font-size: 18px;
+                    }
+                    #recuadrodobleazul{
+                        text-align:center;
+                        color:white;
+                        font-family: 'Roboto', sans-serif;
+                        flex:1;
+                        border: solid 2px #002E54;
+                        background-color:#002E54;
+                        font-size:18px;
+                    }
+                    </style>
                 <div class="row" style="text-algin:center;width:100%;" align="center">
                 <div class="container">
-                      <div class="row" style="width:75%;">
-                        <div class="col-sm" style="display:flex;">
-                          <div class="card tarjeta" style="background:transparent;border-color:white;">
-                            <div class="card-body" style="display: table; overflow: hidden;">
-                                <div style="display: table-cell; vertical-align: middle;">
-                                  <p id="texto3recuadrocarrusel">
-                                    Métodos y herramientas; tecnología y experiencia
-                                  </p>
-                                </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="col-sm" style="display:flex;">
-                          <div class="card tarjeta" style="background:transparent;border-color:white;">
-                            <div class="card-body" style="display: table; height: 310px; overflow: hidden;">
-                                <div style="display: table-cell; vertical-align: middle;">
-                                  <p id="texto3recuadrocarrusel">
-                                    Registro, control y seguimiento de operaciones logísticas de autotransporte
-                                  </p>
-                                </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="col-sm" style="display:flex;">
-                          <div class="card tarjeta" style="background:transparent;border-color:white;">
-                            <div class="card-body" style="display: table; height: 310px; overflow: hidden;">
-                                <div style="display: table-cell; vertical-align: middle;">
-                                  <p id="texto3recuadrocarrusel">
-                                    Optimización de recursos y sistemas
-                                  </p>
-                                </div>
-                            </div>
-                          </div>
-                        </div>
-                        </div></div></div>
+                      <table align="center">
+                                <tr>
+                                    <td>
+                                        <div style="padding-right:10px;padding-left:10px;" align="center" class="container">
+                                            <img style="max-width:100%;opacity: 0.5;filter: alpha(opacity=50);" src="./images/mundo_icono.svg"/>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div style="padding-right:10px;padding-left:10px;" align="center" class="container">
+                                            <img style="max-width:100%;opacity: 0.5;filter: alpha(opacity=50);" src="./images/aparatos_icono.svg"/>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
                       </div>
                     </div>
                 </div>
@@ -244,105 +219,130 @@
     <table>
         <tr>
             <td style="border-left: 4px solid #002E54;size:contain;">
-                <h5 style="padding-left:15px;text-align:left;color: #002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:35px;">
+                <h4 style="padding-left:15px;text-align:left;color: #002E54;font-weight:bold;font-family: 'Roboto', sans-serif;font-size:30px;">
                     CONCEPTOS DE SOV AUTOTRANSPORTE
                 </h5> 
             </td>
         </tr>
     </table>
+    
     <br><br>
+    
 <div class="container">
-  <div class="row" align="center" style="padding-left:7%;padding-right:7%;text-align:center;">
-  
-    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
-                    <div id="recuadrodobleblanco" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
-                        <div style="display: table-cell; vertical-align: middle;">
+  <div class="row" align="center" style="width:100%;padding-left:5%;padding-right:5%;text-align:center;">
+    <div class="col-sm-4"  style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+        <div class="container" style="flex:1;padding-top:2%;padding-bottom:2%">
+        <table align="center" style="width:100%;">
+            <tr>
+                <td id="recuadrodobleblanco">
+                    <div style="display: table;height: 230px; overflow: hidden;text-align:center;">
+                        <div class="container" style="display: table-cell; vertical-align: middle;">
                            <div>
-                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
+                             <p style="font-size:20px;font-family: 'Roboto', sans-serif;color:#002E54;">
                                 Métodos y herramientas
                             </p>
                            </div>
                          </div>
                        </div>
-                </div>
-    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
-                    <div id="recuadrodobleblanco" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
-                        <div style="display: table-cell; vertical-align: middle;">
+                </td>
+            </tr>
+            <tr>
+                <td id="recuadrodobleazul">
+                    <div style="display: table;overflow: hidden;text-align:center;height: 230px;">
+                        <div class="container" style="display: table-cell; vertical-align: middle;">
                            <div>
-                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
-                                Registro, control y seguimiento de operaciones logísticas de Autotransporte
-                            </p>
-                           </div>
-                         </div>
-                       </div>
-                </div>
-    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
-                    <div id="recuadrodobleblanco" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
-                        <div style="display: table-cell; vertical-align: middle;">
-                           <div>
-                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:#002E54;">
-                                Optimización
-                            </p>
-                           </div>
-                         </div>
-                       </div>
-                </div>
-  </div>
-  </div>
-  <div class="container">
-  <div class="row" align="center" style="padding-left:7%;padding-right:7%;text-align:center;">
-    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
-                    <div id="recuadrodobleazul" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
-                        <div style="display: table-cell; vertical-align: middle;">
-                           <div>
-                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:white;">
+                             <p class="card-text textoTarjeta" style="font-size:20px;font-family: 'Roboto', sans-serif;color:white;">
                                 Tecnología y experiencia
                             </p>
                            </div>
                          </div>
                        </div>
-                </div>
-    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
-                    <div id="recuadrodobleazul" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
-                        <div style="display: table-cell; vertical-align: middle;">
+                </td>
+            </tr>
+        </table>
+        </div>
+    </div>
+    <div class="col-sm-4" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+        <div class="container" style="flex:1;padding-top:2%;padding-bottom:2%">
+        <table align="center" style="width:100%;">
+            <tr>
+                <td id="recuadrodobleblanco">
+                    <div style="display: table;height: 230px; overflow: hidden;text-align:center;">
+                        <div class="container" style="display: table-cell; vertical-align: middle;">
                            <div>
-                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:white;">
-                                Reportes precisos en tiempo real
+                             <p class="card-text textoTarjeta" style="font-size:20px;font-family: 'Roboto', sans-serif;color:#002E54;">
+                                Registro, control y seguimiento de operaciones logísticas de Autotransporte
                             </p>
                            </div>
                          </div>
                        </div>
-                </div>
-    
-    <div class="col-sm" align="center" style="display: flex;display: -webkit-flex;flex-wrap: wrap;display:flex;text-align:center;">
-                    <div id="recuadrodobleazul" style="flex:1;display: table;width:272px;height: 230px; overflow: hidden;text-align:center;padding-left:5%;padding-right:5%;">
-                        <div style="display: table-cell; vertical-align: middle;">
+                </td>
+            </tr>
+            <tr>
+                <td id="recuadrodobleazul">
+                    <div class="container" style="display: table;height: 230px; overflow: hidden;text-align:center;">
+                        <div class="container" style="display: table-cell; vertical-align: middle;">
                            <div>
-                             <p class="card-text textoTarjeta" style="font-size:22px;font-family: 'Roboto', sans-serif;color:white;">
+                             <p class="card-text textoTarjeta" style="font-size:20px;font-family: 'Roboto', sans-serif;color:white;">
+                                Reportes precisos </br>en tiempo real
+                            </p>
+                           </div>
+                         </div>
+                       </div>
+                </td>
+            </tr>
+        </table>
+        </div>
+    </div>
+    <div class="col-sm-4" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+        <div class="container" style="flex:1;padding-top:2%;padding-bottom:2%">
+        <table align="center" style="width:100%;">
+            <tr>
+                <td id="recuadrodobleblanco">
+                    <div class="container" style="display: table;height: 230px; overflow: hidden;text-align:center;">
+                        <div class="container" style="display: table-cell; vertical-align: middle;">
+                           <div>
+                             <p style="font-size:20px;font-family: 'Roboto', sans-serif;color:#002E54;">
+                                Optimización
+                            </p>
+                           </div>
+                         </div>
+                       </div>
+                </td>
+            </tr>
+            <tr>
+                <td id="recuadrodobleazul">
+                    <div style="display: table;height: 230px; overflow: hidden;text-align:center;">
+                        <div class="container" style="display: table-cell; vertical-align: middle;">
+                           <div>
+                             <p class="card-text textoTarjeta" style="font-size:20px;font-family: 'Roboto', sans-serif;color:white;">
                                 Recursos y sistemas
                             </p>
                            </div>
                          </div>
                        </div>
-                </div>
+                </td>
+            </tr>
+        </table>
+        </div>
+    </div>
+  </div>
   </div>
 </div>
-</div>
-
 
 <br><br><br><br><br><br>
 
 
-<div class="container">
-  <div class="row">
+<div class="container" align="center">
+  <div class="row" align="center">
   <div class="col-sm-5" style="vertical-align:middle">
-    <div style="position: absolute;bottom: 0;left: 0;">
+    <div style="padding-left:5%;position: absolute;bottom: 0;left: 0;">
         <table align="left" style="width:100%;height:120px;">
             <tr>
                 <td style="border-left: 4px solid #002E54;padding-left:15px;">
-                    <h2 style="text-align:left;color:#002E54;font-weight:medium;font-family: 'Roboto', sans-serif;">
+                    <h3 style="text-align:left;color:#002E54;font-weight:medium;font-family: 'Roboto', sans-serif;">
                         VENTAJAS COMPETITIVAS
-                    </h2>
+                    </h3>
                     <h5 style="text-align:left;color: #4c4c4c;font-family: 'Roboto', sans-serif;">
                         CÍRCULO DE CALIDAD DE SERVICIOS
                     </h5> 
@@ -356,28 +356,25 @@
     </div>
   </div>
 </div>
-
+</div>
 <br><br><br>
 
 <div style="background: #002C55;">
-    <div class="container" style="text-algin:center;width:100%;background: transparent;height:600px;display: table overflow: hidden;" align="center">
-        <div class="container" style="background:transparent;display: table-cell; vertical-align: middle;">
-                <div class="col-sm" style="background:transparent;border-color:transparent;text-align:center;display: table; height: 600px; overflow: hidden;">
-                    <div class="container" style="display: table-cell; vertical-align: middle;padding-right:5%;padding-left:5%;background:transparent;">
-                    <div class="container" style="background:white;padding-top:5%;padding-bottom:5%;padding-right:5%;padding-left:5%;">
+    <div class="container" style="padding-top:5%;padding-bottom:5%;text-algin:center;width:100%;background: transparent;" align="center">
+                <div style="display: table overflow: hidden;padding-right:5%;padding-left:5%;background:transparent;">
+                    <div  style="display: table-cell; vertical-align: middle;background:white;padding-top:7%;padding-bottom:7%;padding-right:7%;padding-left:7%;">
                         <table align="center" style="width:100%;">
                             <tr>
                                 <td style="border-left: 7px solid #002E54;padding-left:15px;">
-                                        <h2 style="font-size:35px;text-align:left;color:#002E54;font-weight:medium;font-family: 'Roboto', sans-serif;">
+                                        <h2 style="font-size:30px;text-align:left;color:#002E54;font-weight:medium;font-family: 'Roboto', sans-serif;">
                                             NORMATIVIDAD
                                         </h2>
-                                        <h5 style="font-size:22px;text-align:left;color: #4c4c4c;font-family: 'Roboto', sans-serif;">
+                                        <h5 style="font-size:18px;text-align:left;color: #4c4c4c;font-family: 'Roboto', sans-serif;">
                                             SOV Autotransporte cumple con la Norma Oficial Mexicana PROY NOM-087-SCT-2-2017 que establece los tiempos de conducción y pausas para conductores de los servicios de autotransporte federal, así como la inspección ocular.
                                         </h5>
                                 </td>
                             </tr>
                         </table>
-                    </div>
                     </div>
                 </div>
         </div>
@@ -386,26 +383,22 @@
 
 <br><br>
 
-<div class="container" style="width:70%;">
-    <div class="row">
-        <div class="col-sm-6" style="display:flex;">
+<div class="container" style="">
+    <div class="row" style="width:100%;">
+        <div class="col-sm-7" style="display:flex;">
             <img src="./images/celular_autotransporte_app.png"/>
         </div>
-        <div class="col-sm-6" style="display:flex;">
+        <div class="col-sm-5" style="display:flex;">
             <div class="container" style="padding-top:10%;">
-                <div class="row">
                     <h1 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;padding-top: 10%;padding-bottom: 10px;font-size: 35px;color: #002C55;">
                         Mapas
                     </h1>
-                </div>
-            <div class="row">
               <h5 style="font-family: 'Roboto', sans-serif;fonr-size:20px;font-weight: normal;text-align: left;padding-bottom: 30px;color: #002E54;">
                  SOV permite un acercamiento visual a los clientes, rutas y estatus gracias a sus mapas. 
               </h5>
-            </div>
-            <div class="row">
-                <img src="./images/icono_googleplay.png" style="max-width:60%;max-height:60%;"/>
-            </div>
+              <!--div align="center" class="container">
+                    <img src="./images/icono_googleplay.png" style="width:90%;"/>
+              </div-->
         </div>
     </div>
 </div>
@@ -417,62 +410,64 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-6">
-                <div style="padding-left:7%;padding-bottom:3%;position: absolute;bottom: 0;left: 0;">
-                    <h1 style="font-family: 'Roboto', sans-serif;font-weight: medium;text-align: left;padding-top: 10%;padding-bottom: 10px;font-size: 40px;color: #002C55;">
-                        2 Herramientas
-                    </h1>
-                    <h5 style="font-family: 'Roboto', sans-serif;fonr-size:20px;font-weight: normal;text-align: left;padding-bottom: 30px;color: #002E54;">
-                        El sistema SOV cuenta con dos herramientas<br/> para brindarle un control total de tus <br/>unidades: el teléfono y mesa de control. 
-                    </h5>
-                </div>
-            </div>
-            <div class="col-sm-6">
-                <img src="./images/sept/imagen-2herramientas-autotransporte.png" style="max-height:120%;max-width:110%;"/>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-<div style="background-color:#E4E4E4;">
-    <div class="container">
-        <div class="row" align="center" style="padding-top:7%;padding-bottom:7%;padding-left:15%;padding-right:15%;text-align:center;">
-            <div class="col-sm" style="display:flex;">
-                    <div class="card tarjeta" style="background:transparent;border-color:transparent;text-align:center;padding-top:5%;padding-bottom:5%;padding-right:5%;padding-left:5%;">
-                        <table align="center" style="width:100%;">
-                            <tr>
-                                <td style="border-left: 7px solid #002E54;padding-left:15px;">
-                                    <p style="font-size:25px;text-align:left;color: #002E54;font-family: 'Roboto', sans-serif;">
-                                        Encontramos el sistema SOV en internet (la nube), teniendo acceso con las debidas credenciales en nuestro dispositivo u oficina y desde cualquier parte del mundo.
-                                    </p> 
-                                </td>
-                            </tr>
-                        </table>
-                        <br>
-                        <div>
-                        <div class="row" align="center" style="width:100%;text-align:center">
-                                <div class="col-sm">
-                                    <div align="center" class="container">
-                                        <img src="./images/mundo_icono.svg"/>
-                                    </div>
-                                </div>
-                                <div class="col-sm">
-                                    <div align="center" class="container">
-                                        <img src="./images/aparatos_icono.svg"/>
-                                    </div>
-                                </div>
-                            </div>
+                    <div class="container">
+                        <div class="container" style="min-height:250px;">
+                        <div style="padding-left:7%;padding-bottom:3%;position: absolute;bottom: 0;left: 0;">
+                            <h1 style="font-family: 'Roboto', sans-serif;font-weight: bold;text-align: left;padding-top: 10%;padding-bottom: 10px;font-size: 30px;color: #002C55;">
+                                2 Herramientas
+                            </h1>
+                            <h5 style="font-family: 'Roboto', sans-serif;fonr-size:18px;font-weight: normal;text-align: left;padding-bottom: 30px;color: #002E54;">
+                                El sistema SOV cuenta con dos herramientas<br/> para brindarle un control total de tus <br/>unidades: el teléfono y mesa de control. 
+                            </h5>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="col-sm-6" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
+                <div class="container" style="display: inline-block;">
+                    <img src="./images/sept/imagen-2herramientas-autotransporte.png" style="max-height:120%;max-width:110%;"/>
+                </div>
+            </div>
+        </div>
+        <br><br>
+        <div class="row">
+            <div class="container" style="padding-left:2%;">
+                <table align="center" style="width:100%;">
+                    <tr>
+                        <td style="border-left: 7px solid #002E54;padding-left:15px;">
+                            <p style="font-size:21px;text-align:left;color: #002E54;font-family: 'Roboto', sans-serif;">
+                                Encontramos el sistema SOV en internet (la nube), teniendo acceso con las debidas credenciales en nuestro dispositivo u oficina y desde cualquier parte del mundo.
+                            </p> 
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <div class="row">
+            <div class="container">
+                <table align="center">
+                                <tr>
+                                    <td>
+                                        <div style="padding-right:10px;padding-left:10px;" align="center" class="container">
+                                            <img style="max-width:100%;" src="./images/mundo_icono.svg"/>
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div style="padding-right:10px;padding-left:10px;" align="center" class="container">
+                                            <img style="max-width:100%;" src="./images/aparatos_icono.svg"/>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+        </div>
+        <br><br>
     </div>
 </div>
 
 
 <style>
 #fondodegrad2cuad{
-    padding-bottom:5%;
     padding-left:5%;
     padding-right:5%;
     text-align:center;
