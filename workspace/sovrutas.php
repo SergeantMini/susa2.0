@@ -130,29 +130,13 @@
             <div class="row" style="text-align:center;width:100%;">
                 <div class="col-sm" align="center" style="min-height:620px;display: table;overflow: hidden;">
                 <div style="display: table-cell; vertical-align: middle;">
-                <div class="container" style="text-align:center;width:100%;">
-                  <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
-                    ¿Conozco la cobertura y penetración de mis <b>PRODUCTOS / SERVICIOS</b>?
-                  </h4>
-                </div>
-                <br/>
-                <style>
-                #texto3recuadrocarrusel{
-                    font-size:15px;
-                    color: white;
-                    font-family: 'Roboto', sans-serif;
-                }
-                </style>
-                <div class="row" style="text-algin:center;width:100%;" align="center">
-                <div class="container">
-                      
-                            <p id="texto3recuadrocarrusel">
-                               ICONOOOOOOO
-                            </p>
-                         
+                          <h4 style="width:100%;font-family: 'Roboto', sans-serif;color:white;text-align:center;">
+                             ¿Conozco la cobertura y penetración de mis <b>PRODUCTOS / SERVICIOS</b>?
+                          </h4>
+                          <div class="container" align="center" style="width:100%;text-align:center;padding-top:5%;">
+                            <img src="./images/oct/mapa_slider_rutas.svg"/>
+                          </div>
                         </div>
-                        </div>
-                      </div>
                     </div>
                 </div>
             </div>
