@@ -8,12 +8,26 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="estilos.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+    <link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
 
     <title>Intop Solutions</title>
   </head>
   <body>
     
-    <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-light barraNav">
+    <script>
+        $(document).ready(function(){
+          if (window.location.hash == "#factura") {
+            document.getElementById('factura').scrollIntoView();
+          } else if (window.location.hash == "#trajealamedida"){
+              document.getElementById('trajealamedida').scrollIntoView()
+          }
+       });
+    </script>
+    
+    <nav style="background-image: url('fondo-arriba.png');background-repeat: no-repeat;background-size:100% 100%;" class="navbar navbar-expand-lg navbar-dark barraNav">
     <div class="container" style="margin-left: 0px;">
       <a  class="navbar-left" href="index.php">
              <img style="max-width:100%; max-height:100%;" src="Logo intop_blanco.svg" alt="">
@@ -125,7 +139,7 @@
 
   <br>
  
- <div class="container">
+ <div class="container" id="factura">
   <div class="row" style="display: flex;">
     <div class="col-sm-8 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
       <div class="container" style="background-color: #D8D8D8;">
@@ -155,7 +169,7 @@
   
   <br>
   
-<div class="container" style="width:100%;">
+<div class="container" id="trajealamedida" style="width:100%;">
 <div class="row flex-column-reverse flex-md-row" style="display: flex;">
     <div class="col-sm-4 form-group" style="display: flex;display: -webkit-flex;flex-wrap: wrap;">
             <div class="container" style="background-color: #982A27;height:100px;">
